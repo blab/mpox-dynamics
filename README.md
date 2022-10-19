@@ -13,14 +13,14 @@
    - `--exclude-where outbreak!=hMPXV-1`
    - `--exclude-ambiguous-dates-by month` 
    - exclude all non-B lineages
-   - /add specific subsampling methods here/ 
+   - /add my specific subsampling methods here/ 
    
 4. run nextstrain workflow to produce `alignment.fasta` and `metadata.tsv` 
-5. reformat `alignment.fasta` strain names -> name_location_date 
+5. reformat `alignment.fasta` strain names as name_location_date 
 
 ### xml preparation using BEAUTI v. 1.10.4 
 
-1. import descriptive alignment.fasta 
+1. import descriptive `alignment.fasta` 
 2. infer tip dates 
 3. non-default model parameters: 
    - SITES/site heterogeneity model: gamma
@@ -29,6 +29,7 @@
    - MCMC/length of chain: 50000000
    - MCMC/log parameters every: 25000
 5. export `hmpxv_skyliine.xml` 
+6. delete <trait> block containing 'strictClockBranchRates'
   
 
 ### run coalescent bayesian skyline model using BEAST v. 1.10.4 
