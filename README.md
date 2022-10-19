@@ -1,6 +1,6 @@
 # monkeypox-dynamics:
 
-## phylodynamic inference of effective population size during 2022 outbreak of hmpxv1
+## phylodynamic inference of hmpxv1 effective population size during 2022 outbreak
 
 ## analysis
 
