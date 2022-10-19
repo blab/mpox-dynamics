@@ -6,16 +6,14 @@
 
 ### data preparation 
 
-1. clone nexstrain monkeypox build 
+1. clone [nexstrain monkeypox build](https://github.com/nextstrain/monkeypox) |  [modified build](https://github.com/nmmahmed/monkeypox-build) 
 2. fetch data from nextstrain.org 
 3. modify filter rule in config file 
    - min_date: 2022
    - --exclude-where outbreak!=hMPXV-1
    - --exclude-ambiguous-dates-by month 
    - exclude all non-B lineages
-   - [maybe: exclude countries w/ only 1-2 sequences...] 
-   
-   ### [modified hmpxv1 nextstrain build](https://github.com/nmmahmed/monkeypox-build) 
+   - /add specific subsampling methods here/ 
    
 4. run nextstrain workflow to produce alignment.fasta and metadata.tsv 
 5. modify masked.fasta to have descriptive strain names 
