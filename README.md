@@ -29,7 +29,7 @@
    - MCMC/length of chain: 50000000
    - MCMC/log parameters every: 25000
 5. export `hmpxv_skyliine.xml` 
-6. delete <trait> block containing 'strictClockBranchRates'
+6. delete 'trait' block containing 'strictClockBranchRates'
   
 
 ### run coalescent bayesian skyline model using BEAST v. 1.10.4 
