@@ -25,11 +25,11 @@
 1. import descriptive alignment.fasta 
 2. infer tip dates 
 3. non-default model parameters: 
-  - SITES/site heterogeneity model: gamma
-  - TREES/tree prior: coalescent bayesian skyline 
-  - PRIORS/clock.rate: uniform prior with lower 0, upper 1.0, initial 6x10^-5 
-  - MCMC/length of chain: 50000000
-  - MCMC/log parameters every: 25000
+   - SITES/site heterogeneity model: gamma
+   - TREES/tree prior: coalescent bayesian skyline 
+   - PRIORS/clock.rate: uniform prior with lower 0, upper 1.0, initial 6x10^-5 
+   - MCMC/length of chain: 50000000
+   - MCMC/log parameters every: 25000
 5. export hmpxv_skyliine.xml 
   
 
