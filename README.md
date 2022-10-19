@@ -6,7 +6,7 @@
 
 ### data preparation 
 
-1. clone [nexstrain monkeypox build](https://github.com/nextstrain/monkeypox) |  [modified build](https://github.com/nmmahmed/monkeypox-build) 
+1. clone [nexstrain monkeypox build](https://github.com/nextstrain/monkeypox) |  [my fork](https://github.com/nmmahmed/monkeypox-build) 
 2. fetch data from nextstrain.org 
 3. modify filter rule in config file 
    - `min_date: 2022`
