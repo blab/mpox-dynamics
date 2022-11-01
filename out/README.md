@@ -1,8 +1,14 @@
+## binning details 
+
+augur filter rule 
+- --sequences-per-group 5
+- --group-by year month country
+- exclude single- or 2-sample countries 
+
+## results 
+
 224 sequences 
 
---sequences-per-group 5
---group-by year month country
-exclude single- or 2-sample countries 
 
   10 Austria
   10 Belgium
