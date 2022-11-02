@@ -7,7 +7,7 @@ augur filter rule
 
 ## results 
 
-224 sequences 
+n = 224, randomly subsampled from 
 
   10 Austria
   10 Belgium
