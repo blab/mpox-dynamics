@@ -14,7 +14,7 @@
    - `--exclude-ambiguous-dates-by month` 
    - `--subsample-seed 1234567`  
    - exclude all non-B lineages
-   - /add my specific subsampling methods here
+   - /add my specific subsampling methods here/
    
 4. run nextstrain workflow to produce `alignment.fasta` and `metadata.tsv` 
 5. [mask](/scripts/masking.ipynb) invariant sites from alignment file 
@@ -30,12 +30,31 @@
    - SITES/site heterogeneity model: gamma
    - TREES/tree prior: coalescent bayesian skyline 
    - PRIORS/clock.rate: uniform prior with lower 0, upper 1.0, initial `6E-5` 
-   - MCMC/length of chain: 50000000
-   - MCMC/log parameters every: 25000
+   - MCMC/length of chain: `50000000`
+   - MCMC/log parameters every: `25000`
 5. export `hmpxv_skyliine.xml` 
 6. delete 'trait' block containing 'strictClockBranchRates'
   
-### run coalescent bayesian skyline model using BEAST v. 1.10.4 
+### run coalescent bayesian skyline model using BEAST (v. 1.10.4) 
+
+### estimate TMRCA and plot skyline using TRACER (v. 1.7.2) 
+
+### run coalescent logistic growth model using BEAST (v. 1.10.4) 
+
+XML preparation 
+   - SITES/site heterogeneity model: gamma
+   - TREES/tree prior: coalescent logistic growth model 
+   - PRIORS/clock.rate: uniform prior with lower 0, upper 1.0, initial `6E-5` 
+   - MCMC/length of chain: `50000000`
+   - MCMC/log parameters every: `25000`
+   
+Delete 'trait' block containing 'strictClockBranchRates'; replace 'gammaPrior' block 'uniformPrior'. 
+
+### 
+
+
+
+
 
 
 
