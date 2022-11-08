@@ -1,0 +1,4 @@
+# Always use LF line endings even on Windows.
+* text eol=lf
+*.gz filter=lfs diff=lfs merge=lfs -text
+*.xz filter=lfs diff=lfs merge=lfs -text
