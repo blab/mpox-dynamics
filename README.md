@@ -12,11 +12,15 @@
    - `min_date: 2022`
    - `--exclude-where outbreak!=hMPXV-1`
    - `--exclude-ambiguous-dates-by month` 
+   - `--subsample-seed 1234567` * 
    - exclude all non-B lineages
-   - /add my specific subsampling methods here/ 
+   - /add my specific subsampling methods here
    
 4. run nextstrain workflow to produce `alignment.fasta` and `metadata.tsv` 
-5. reformat `alignment.fasta` strain names as name_location_date 
+5. [mask](/scripts/masking.ipynb) invariant sites from alignment file 
+   - modify mask rule in config file to accept new BED file
+6. re-run nextstrain workflow using identical `subsample-seed` 
+5. [reformat](/scripts/data_prep.sh) `alignment.fasta` strain names as name_location_date
 
 ### xml preparation using BEAUTI v. 1.10.4 
 
@@ -25,13 +29,12 @@
 3. non-default model parameters: 
    - SITES/site heterogeneity model: gamma
    - TREES/tree prior: coalescent bayesian skyline 
-   - PRIORS/clock.rate: uniform prior with lower 0, upper 1.0, initial 6x10^-5 
+   - PRIORS/clock.rate: uniform prior with lower 0, upper 1.0, initial `6E-5` 
    - MCMC/length of chain: 50000000
    - MCMC/log parameters every: 25000
 5. export `hmpxv_skyliine.xml` 
 6. delete 'trait' block containing 'strictClockBranchRates'
   
-
 ### run coalescent bayesian skyline model using BEAST v. 1.10.4 
 
 
