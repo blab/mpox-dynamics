@@ -12,7 +12,7 @@
    - `min_date: 2022`
    - `--exclude-where outbreak!=hMPXV-1`
    - `--exclude-ambiguous-dates-by month` 
-   - `--subsample-seed 1234567` * 
+   - `--subsample-seed 1234567`  
    - exclude all non-B lineages
    - /add my specific subsampling methods here
    
