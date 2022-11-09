@@ -47,7 +47,9 @@ XML preparation
    - PRIORS/clock.rate: uniform prior with lower 0, upper 1.0, initial `6E-5` 
    - MCMC/length of chain: `50000000`
    - MCMC/log parameters every: `25000`
-Export `hmpxv_skyline_logistic.xml`. Delete 'trait' block containing 'strictClockBranchRates'; reformat 'gammaPrior' block as 'uniformPrior'. 
+   
+Export `hmpxv_skyline_logistic.xml`. 
+Delete 'trait' block containing 'strictClockBranchRates'. Reformat 'gammaPrior' block as 'uniformPrior'. 
 
 ### 
 
