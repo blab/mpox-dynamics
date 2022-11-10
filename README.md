@@ -48,7 +48,8 @@ XML preparation
    - MCMC/length of chain: `50000000`
    - MCMC/log parameters every: `25000`
    
-Delete 'trait' block containing 'strictClockBranchRates'; replace 'gammaPrior' block 'uniformPrior'. 
+Export `hmpxv_skyline_logistic.xml`. 
+Delete 'trait' block containing 'strictClockBranchRates'. Reformat 'gammaPrior' block as 'uniformPrior'. 
 
 ### 
 
