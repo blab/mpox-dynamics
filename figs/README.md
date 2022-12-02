@@ -1,0 +1,8 @@
+![case incidence estimates](/incidence.png)
+![r observed from global case count data](/growth-rate/r_cases_gg.png)
+![r observed from global case count data + logistic model r](/growth-rate/r_overlay_gg.png)
+![netau](netau/netau_gg.png)
+![netau + tmrca](netau/netau_tmrca.png)
+![netau via tracer](/netau/logistic_netau.png)
+![tree](tree/tree.png)
+![sample data map](tree//map_no_alpha.png)
