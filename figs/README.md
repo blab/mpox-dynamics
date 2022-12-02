@@ -14,3 +14,6 @@
 ![tree](tree/tree.png)
 # sample data map
 ![sample data map](tree//map_no_alpha.png)
+# sample counts
+![case counts through time](sample_counts.png)
+![subsampled data vs original](subsample_comparison.png)
