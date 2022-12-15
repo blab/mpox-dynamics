@@ -1,6 +1,10 @@
 # multiple sequence alignment file prep for beauti #
+# after completing nextstrain workflow through 'mask' steps,  
+# make sure there are no duplicate strain names prior to running 
+# usage: 
+# ./data_prep.sh
 
-#after running nextstrain workflow through 'mask' step: 
+
 mkdir results/beauti 
 cp results/hmpxv1/metadata.tsv results/beauti/
 cp results/hmpxv1/masked.fasta results/beauti/

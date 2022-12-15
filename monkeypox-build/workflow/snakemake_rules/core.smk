@@ -47,6 +47,7 @@ rule exclude_bad:
     params:
         min_date=config["min_date"],
         min_length=config["min_length"],
+        root_seq=config["root_seq"],
     shell:
         """
         augur filter \
@@ -57,6 +58,7 @@ rule exclude_bad:
             --output-metadata {output.metadata} \
             --min-date {params.min_date} \
             --min-length {params.min_length} \
+            {params.root_seq} \
             --output-log {output.log}
         """
 

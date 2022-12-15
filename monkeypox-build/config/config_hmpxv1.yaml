@@ -18,8 +18,8 @@ auspice_name: "monkeypox_hmpxv1"
 ## filter
 min_date: 2022
 min_length: 100000
-sequences_per_group: "--sequences-per-group 30"
-#subsample_max_sequences: "--subsample-max-sequences 500"
+root_seq: "--include-where accession=ON676708"
+sequences_per_group: "--sequences-per-group 5"
 subsample_seed: "--subsample-seed 1234567" 
 group_by: "--group-by year month country"
 filters: "--exclude-where outbreak!=hMPXV-1 
@@ -27,7 +27,7 @@ filters: "--exclude-where outbreak!=hMPXV-1
                           accession=ON631963 accession=ON649879 accession=ON918611 accession=ON927248
                           country=Taiwan country=Sweden country=Brazil country=Mexico country=Japan country=Ireland
                           accession=ON918611 accession=ON927248 accession=OP204857 accession=ON983168 accession=OP605588
-          --exclude-ambiguous-dates-by month"
+			  --include-where accession=ON676708 --exclude-ambiguous-dates-by month"
 
 ## align
 max_indel: 10000
@@ -38,8 +38,8 @@ fix_tree: true
 
 ## refine
 timetree: true
-root: "MK783032 MK783030"
-clock_rate: 5.7e-5
+root: "ON676708"
+clock_rate: 6.0e-5
 clock_std_dev: 2e-5
 
 ## recency
@@ -48,5 +48,5 @@ recency: true
 mask:
   from_beginning: 800
   from_end: 6422
-  maskfile: "config/to_mask.bed"
-  #mask_sites: "config/to_mask.txt"
+  maskfile: "config/mask.bed"
+  #maskfile: "config/to_mask.bed"
