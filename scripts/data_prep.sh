@@ -1,14 +1,14 @@
-# multiple sequence alignment file prep for beauti #
+# multiple sequence alignment file prep for beauti 
 # after completing nextstrain workflow through 'mask' steps,  
 # make sure there are no duplicate strain names prior to running 
 # usage: 
 # ./data_prep.sh
 
 
-mkdir results/beauti 
-cp results/hmpxv1/metadata.tsv results/beauti/
-cp results/hmpxv1/masked.fasta results/beauti/
-cd results/beauti
+mkdir ../monkeypox-build/results/beauti 
+cp ../monkeypox-build/results/hmpxv1/metadata.tsv results/beauti/
+cp ../monkeypox-build/results/hmpxv1/masked.fasta results/beauti/
+cd ../monkeypox-build/results/beauti
 
 #make new strain name col with format name_country_date
 awk -F"\t" 'OFS="\t" {$1=$4"_"$7"_"$5; print}' metadata.tsv > meta.tsv
