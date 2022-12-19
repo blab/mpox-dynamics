@@ -47,9 +47,9 @@ XML preparation
 Export `hmpxv_skyline_logistic.xml`. 
 Delete 'trait' block containing 'strictClockBranchRates'. Reformat 'gammaPrior' block as 'uniformPrior'. 
 
-### export `logistic.t50` tsv and parameters `treeModel.rootHeight`, `logistic.growthRate` 
-
-### see `/scripts` for running BEAST and upstream analysis of output files 
+### +
+export `logistic.t50` tsv and parameters `treeModel.rootHeight`, `logistic.growthRate` 
+ see `[/scripts](https://github.com/blab/monkeypox-dynamics/tree/main/scripts)` for running BEAST and upstream analysis of output files 
 
 
 
