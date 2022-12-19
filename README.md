@@ -1,20 +1,16 @@
 # monkeypox-dynamics:
 
-## phylodynamic inference of hmpxv1 effective population size during 2022 outbreak
+## phylodynamic estimation of 2022 mpox outbreak parameters
 
-## analysis
+## analysis workflow
 
 ### data preparation 
 
 1. clone [nexstrain monkeypox build](https://github.com/nextstrain/monkeypox) |  [my fork](https://github.com/nmmahmed/monkeypox-build) 
 2. fetch data from nextstrain.org 
-3. modify filter rule in config file 
-   - `min_date: 2022`
-   - `--exclude-where outbreak!=hMPXV-1`
-   - `--exclude-ambiguous-dates-by month` 
-   - `--subsample-seed 1234567`  
-   - exclude all non-B lineages
-   - /add my specific subsampling methods here/
+3. modify filter rules in config/snakemake files 
+
+see details in `[monkeypox-build](monkeypox-build/)` 
    
 4. run nextstrain workflow to produce `alignment.fasta` and `metadata.tsv` 
 5. [mask](/scripts/masking.ipynb) invariant sites from alignment file 
@@ -22,7 +18,7 @@
 6. re-run nextstrain workflow using identical `subsample-seed` 
 5. [reformat](/scripts/data_prep.sh) `alignment.fasta` strain names as name_location_date
 
-### xml preparation using BEAUTI v. 1.10.4 
+### xml preparation using BEAUTI (v. 1.10.4)
 
 1. import descriptive `alignment.fasta` 
 2. infer tip dates 
@@ -37,7 +33,7 @@
   
 ### run coalescent bayesian skyline model using BEAST (v. 1.10.4) 
 
-### estimate TMRCA and plot skyline using TRACER (v. 1.7.2) 
+### plot skyline using TRACER (v. 1.7.2) 
 
 ### run coalescent logistic growth model using BEAST (v. 1.10.4) 
 
@@ -51,7 +47,9 @@ XML preparation
 Export `hmpxv_skyline_logistic.xml`. 
 Delete 'trait' block containing 'strictClockBranchRates'. Reformat 'gammaPrior' block as 'uniformPrior'. 
 
-### 
+### export `logistic.t50` tsv and parameters `treeModel.rootHeight`, `logistic.growthRate` 
+
+### see `/scripts` for running BEAST and upstream analysis of output files 
 
 
 

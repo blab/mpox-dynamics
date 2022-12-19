@@ -1,28 +1,16 @@
-## binning details 
+# Out 
 
-augur filter rule 
-- `--sequences-per-group` 5
-- `--group-by` year month country
-- exclude single- or 2-sample countries 
+## `/beauti`
+### nextstrain workflow output and files reformatted for BEAUTI (v. 1.10.4) using [data_prep.sh](https://github.com/blab/monkeypox-dynamics/blob/main/scripts/data_prep.sh)
 
-## results 
 
-n = 224, randomly subsampled from 
+## `/logistic`
+### io files for BEAST (v. 1.10.4) coalescent logistic growth model
 
-  10 Austria
-  10 Belgium
-  15 Canada
-  12 Colombia
-   3 Finland
-  10 France
-  25 Germany
-   6 Italy
-   3 Netherlands
-   7 Peru
-  25 Portugal
-   9 Slovakia
-  19 Slovenia
-   7 Spain
-   6 Switzerland
-  29 USA
-  28 United Kingdom
+
+## `/masking` 
+### io files for invariant site masking using [masking.ipynb](https://github.com/blab/monkeypox-dynamics/blob/main/scripts/masking.ipynb) 
+
+## `/skyline`
+### io files for BEAST (v. 1.10.4) coalescent bayesian skyline model with invariant-masked and -unmasked alignments  
+
