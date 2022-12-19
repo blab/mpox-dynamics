@@ -6,11 +6,11 @@
 
 ### data preparation 
 
-1. clone [nexstrain monkeypox build](https://github.com/nextstrain/monkeypox) |  [my fork](https://github.com/nmmahmed/monkeypox-build) 
+1. clone [nexstrain monkeypox build](https://github.com/nextstrain/monkeypox) |  [my fork](https://github.com/blab/monkeypox-dynamics/tree/main/monkeypox-build) 
 2. fetch data from nextstrain.org 
 3. modify filter rules in config/snakemake files 
 
-see details in `[monkeypox-build](monkeypox-build/)` 
+see details in [monkeypox-build](https://github.com/blab/monkeypox-dynamics/tree/main/monkeypox-build) 
    
 4. run nextstrain workflow to produce `alignment.fasta` and `metadata.tsv` 
 5. [mask](/scripts/masking.ipynb) invariant sites from alignment file 
@@ -48,8 +48,9 @@ Export `hmpxv_skyline_logistic.xml`.
 Delete 'trait' block containing 'strictClockBranchRates'. Reformat 'gammaPrior' block as 'uniformPrior'. 
 
 ### +
-export `logistic.t50` tsv and parameters `treeModel.rootHeight`, `logistic.growthRate` 
- see `[/scripts](https://github.com/blab/monkeypox-dynamics/tree/main/scripts)` for running BEAST and upstream analysis of output files 
+export `logistic.t50` tsv and parameters `treeModel.rootHeight`, `logistic.growthRate`
+
+see [/scripts](https://github.com/blab/monkeypox-dynamics/tree/main/scripts) for running BEAST and upstream analysis of output files 
 
 
 
