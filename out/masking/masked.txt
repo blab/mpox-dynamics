@@ -1,9 +1,17 @@
 
  # before pruning:
  # alignment length:197209
- # variable sites:459(0.002%)
- # invariant sites:196750(0.998%)
+ # variable sites:577(0.003%)
+ # invariant sites:196632(0.997%)
  # after pruning:
  # alignment length:19721(removed177488sites)
- # variable sites:459(0.023%)
- # invariant sites:19262(0.977%)
+ # variable sites:577(0.029%)
+ # invariant sites:19144(0.971%)
+ # before pruning:
+ # alignment length:197209
+ # variable sites:589(0.003%)
+ # invariant sites:196620(0.997%)
+ # after pruning:
+ # alignment length:19721(removed177488sites)
+ # variable sites:589(0.03%)
+ # invariant sites:19132(0.97%)

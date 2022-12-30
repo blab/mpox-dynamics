@@ -19,13 +19,14 @@ auspice_name: "monkeypox_hmpxv1"
 min_date: 2022
 min_length: 100000
 root_seq: "--include-where accession=ON676708"
-sequences_per_group: "--sequences-per-group 5"
+#max_sequences: "--subsample-max-sequences 500"
+sequences_per_group: "--sequences-per-group 15"
 subsample_seed: "--subsample-seed 154322" 
 group_by: "--group-by year month country"
 filters: "--exclude-where outbreak!=hMPXV-1 
-                          lineage=A lineage=A.1 lineage=A.1.1 lineage=A.2 lineage=A.2.1 lineage=A.2.2 
+                          lineage=A lineage=A.1 lineage=A.1.1 lineage=A.2 lineage=A.2.1 lineage=A.2.2 lineage=A.2.3 lineage=A.3
                           accession=ON631963 accession=ON649879 accession=ON918611 accession=ON927248
-                          country=Taiwan country=Sweden country=Brazil country=Mexico country=Japan country=Ireland
+                          country=Taiwan country=Finland country=Netherlands country=Sweden country=Brazil country=Mexico country=Japan country=Ireland
                           accession=ON918611 accession=ON927248 accession=OP204857 accession=ON983168 accession=OP605588
 			  --include-where accession=ON676708 --exclude-ambiguous-dates-by month"
 
