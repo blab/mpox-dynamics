@@ -27,7 +27,7 @@ filters: "--exclude-where outbreak!=hMPXV-1
                           lineage=A lineage=A.1 lineage=A.1.1 lineage=A.2 lineage=A.2.1 lineage=A.2.2 lineage=A.2.3 lineage=A.3
                           accession=ON631963 accession=ON649879 accession=ON918611 accession=ON927248
                           country=Taiwan country=Finland country=Netherlands country=Sweden country=Brazil country=Mexico country=Japan country=Ireland
-                          accession=ON918611 accession=ON927248 accession=OP204857 accession=ON983168 accession=OP605588
+                          accession=ON918611 accession=ON927248 accession=OP605588 accession=OP204857 accession=ON983168 accession=OP605588
 			  --include-where accession=ON676708 --exclude-ambiguous-dates-by month"
 
 ## align

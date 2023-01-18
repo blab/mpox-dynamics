@@ -25,3 +25,7 @@ awk '!($3="")' kv.txt
 
 #replace old strain names in alignment .fasta  with new strain names
 cat masked.fasta | seqkit replace --ignore-case --kv-file "kv.txt" --pattern "^(\w+)" --replacement "{kv}" > align.fasta
+
+#remove the outgroup for beast analyses
+cat align.fasta | awk '/>MPXV_USA_2021_MD_USA_2021-11-24/ {getline; while(!/>/) {getline}} 1' > fixed.fasta
+
