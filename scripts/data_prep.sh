@@ -6,12 +6,12 @@
 
 
 mkdir ../monkeypox-build/results/beauti
-cp ../monkeypox-build/data/nextstrain__metadata_2.tsv ../monkeypox-build/results/beauti/
+cp ../monkeypox-build/data/metadata_region_1000.tsv ../monkeypox-build/results/beauti/
 cp ../monkeypox-build/results/hmpxv1/masked.fasta ../monkeypox-build/results/beauti/
 cd ../monkeypox-build/results/beauti
 
 #make new strain name col with format name_country_date
-awk -F"\t" 'OFS="\t" {$1=$1"_"$8"_"$3; print}' nextstrain__metadata_2.tsv > meta.tsv
+awk -F"\t" 'OFS="\t" {$1=$6"_"$5"_"$3; print}' metadata_region_1000.tsv > meta.tsv
 
 #remove spaces from strain names
 awk -F"\t" 'OFS="\t" {gsub(/[[:blank:]]/, "",$1); print}' meta.tsv > tmp && mv tmp meta.tsv
@@ -27,5 +27,5 @@ awk '!($3="")' kv.txt
 cat masked.fasta | seqkit replace --ignore-case --kv-file "kv.txt" --pattern "^(\w+)" --replacement "{kv}" > align.fasta
 
 #remove the outgroup for beast analyses
-cat align.fasta | awk '/>MPXV_USA_2021_MD_USA_2021-11-24/ {getline; while(!/>/) {getline}} 1' > fixed.fasta
+cat align.fasta | awk '/>MPXV_USA_2021_MD_USA_2021-11-25/ {getline; while(!/>/) {getline}} 1' > fixed_1000.fasta
 
