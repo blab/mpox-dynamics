@@ -24,16 +24,24 @@ def clean_owid_cases(
 
 OWID_MONKEYPOX_CASES_URL = "https://raw.githubusercontent.com/owid/monkeypox/main/owid-monkeypox-data.csv"
 FILTER_LOCATIONS = [
-    "United States",
-    "United Kingdom",
-    "Spain",
-    "Portugal",
-    "Germany",
-    "France",
-    "Colombia",
-    "World",
+"Canada",
+"United States",
+"United Kingdom",
+"Germany",
+"Switzerland",
+"Austria",
+"France",
+"Belgium",
+"Slovakia",
+"Slovenia",
+"Italy",
+"Portugal",
+"Spain",
+"Colombia",
+"Peru",
+"World"
 ]
-MIN_DATE, MAX_DATE = "2022-05-01", "2022-10-31"
+MIN_DATE, MAX_DATE = "2022-05-01", "2023-01-27"
 
 if __name__ == "__main__":
     raw_cases = pd.read_csv(OWID_MONKEYPOX_CASES_URL)
