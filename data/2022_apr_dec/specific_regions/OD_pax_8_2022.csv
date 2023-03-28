@@ -1,0 +1,25 @@
+Month,Orig Region,Dest Region,Total Market Pax
+8,central_europe,central_europe,6
+8,central_europe,north_america,2212
+8,central_europe,southern_europe,18752
+8,central_europe,western_europe,52973
+8,north_america,central_europe,1997
+8,north_america,north_america,52840914
+8,north_america,south_america,277834
+8,north_america,southern_europe,705587
+8,north_america,western_europe,2097219
+8,south_america,central_europe,7
+8,south_america,north_america,300030
+8,south_america,south_america,3669632
+8,south_america,southern_europe,100915
+8,south_america,western_europe,42508
+8,southern_europe,central_europe,18802
+8,southern_europe,north_america,792483
+8,southern_europe,south_america,93691
+8,southern_europe,southern_europe,9262028
+8,southern_europe,western_europe,7760230
+8,western_europe,central_europe,48977
+8,western_europe,north_america,2080816
+8,western_europe,south_america,34982
+8,western_europe,southern_europe,7724733
+8,western_europe,western_europe,6497106

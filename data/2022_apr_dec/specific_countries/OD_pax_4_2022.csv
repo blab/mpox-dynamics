@@ -1,0 +1,213 @@
+Month,Orig Country,Dest Country,Total Market Pax
+4,Austria,Austria,3527
+4,Austria,Belgium,13243
+4,Austria,Canada,2444
+4,Austria,Colombia,553
+4,Austria,France,38128
+4,Austria,Germany,103843
+4,Austria,Italy,68019
+4,Austria,Peru,541
+4,Austria,Portugal,16645
+4,Austria,Slovakia,2010
+4,Austria,Slovenia,10
+4,Austria,Spain,100360
+4,Austria,Switzerland,23687
+4,Austria,United Kingdom,71475
+4,Austria,United States,23561
+4,Belgium,Austria,13714
+4,Belgium,Canada,3120
+4,Belgium,Colombia,572
+4,Belgium,France,58872
+4,Belgium,Germany,21975
+4,Belgium,Italy,139627
+4,Belgium,Peru,583
+4,Belgium,Portugal,59308
+4,Belgium,Slovakia,1734
+4,Belgium,Slovenia,2763
+4,Belgium,Spain,227194
+4,Belgium,Switzerland,22038
+4,Belgium,United Kingdom,27600
+4,Belgium,United States,42763
+4,Canada,Austria,2661
+4,Canada,Belgium,3185
+4,Canada,Canada,1897250
+4,Canada,Colombia,7147
+4,Canada,France,41907
+4,Canada,Germany,17778
+4,Canada,Italy,16752
+4,Canada,Peru,3035
+4,Canada,Portugal,16006
+4,Canada,Slovakia,11
+4,Canada,Slovenia,125
+4,Canada,Spain,12152
+4,Canada,Switzerland,6876
+4,Canada,United Kingdom,69025
+4,Canada,United States,738465
+4,Colombia,Austria,627
+4,Colombia,Belgium,793
+4,Colombia,Canada,10301
+4,Colombia,Colombia,2461733
+4,Colombia,France,6828
+4,Colombia,Germany,5208
+4,Colombia,Italy,3641
+4,Colombia,Peru,29900
+4,Colombia,Portugal,965
+4,Colombia,Spain,63743
+4,Colombia,Switzerland,1652
+4,Colombia,United Kingdom,5835
+4,Colombia,United States,213295
+4,France,Austria,38592
+4,France,Belgium,56138
+4,France,Canada,45349
+4,France,Colombia,5157
+4,France,France,1517490
+4,France,Germany,136627
+4,France,Italy,442402
+4,France,Peru,3314
+4,France,Portugal,305734
+4,France,Slovakia,113
+4,France,Slovenia,1460
+4,France,Spain,517608
+4,France,Switzerland,124650
+4,France,United Kingdom,348024
+4,France,United States,253589
+4,Germany,Austria,100598
+4,Germany,Belgium,21424
+4,Germany,Canada,20012
+4,Germany,Colombia,3962
+4,Germany,France,135891
+4,Germany,Germany,336001
+4,Germany,Italy,380023
+4,Germany,Peru,1896
+4,Germany,Portugal,177104
+4,Germany,Slovakia,715
+4,Germany,Slovenia,1636
+4,Germany,Spain,1012778
+4,Germany,Switzerland,104812
+4,Germany,United Kingdom,307328
+4,Germany,United States,263820
+4,Italy,Austria,64883
+4,Italy,Belgium,134528
+4,Italy,Canada,13183
+4,Italy,Colombia,3423
+4,Italy,France,413774
+4,Italy,Germany,365705
+4,Italy,Italy,2643817
+4,Italy,Peru,6689
+4,Italy,Portugal,97327
+4,Italy,Slovakia,6612
+4,Italy,Slovenia,78
+4,Italy,Spain,558165
+4,Italy,Switzerland,111762
+4,Italy,United Kingdom,518655
+4,Italy,United States,140435
+4,Peru,Austria,321
+4,Peru,Belgium,594
+4,Peru,Canada,3512
+4,Peru,Colombia,31019
+4,Peru,France,3901
+4,Peru,Germany,2271
+4,Peru,Italy,6629
+4,Peru,Peru,811234
+4,Peru,Portugal,512
+4,Peru,Spain,20734
+4,Peru,Switzerland,1168
+4,Peru,United Kingdom,2705
+4,Peru,United States,62019
+4,Portugal,Austria,16069
+4,Portugal,Belgium,55474
+4,Portugal,Canada,15114
+4,Portugal,Colombia,681
+4,Portugal,France,285661
+4,Portugal,Germany,176482
+4,Portugal,Italy,94936
+4,Portugal,Peru,362
+4,Portugal,Portugal,366677
+4,Portugal,Slovakia,9
+4,Portugal,Slovenia,215
+4,Portugal,Spain,156781
+4,Portugal,Switzerland,105025
+4,Portugal,United Kingdom,353258
+4,Portugal,United States,47968
+4,Slovakia,Austria,1859
+4,Slovakia,Belgium,1818
+4,Slovakia,Canada,13
+4,Slovakia,France,95
+4,Slovakia,Germany,754
+4,Slovakia,Italy,7138
+4,Slovakia,Portugal,36
+4,Slovakia,Spain,2441
+4,Slovakia,Switzerland,431
+4,Slovakia,United Kingdom,21816
+4,Slovakia,United States,288
+4,Slovenia,Austria,13
+4,Slovenia,Belgium,2493
+4,Slovenia,Canada,127
+4,Slovenia,France,1866
+4,Slovenia,Germany,1785
+4,Slovenia,Italy,74
+4,Slovenia,Portugal,375
+4,Slovenia,Spain,721
+4,Slovenia,Switzerland,1321
+4,Slovenia,United Kingdom,5528
+4,Slovenia,United States,781
+4,Spain,Austria,98534
+4,Spain,Belgium,214900
+4,Spain,Canada,10206
+4,Spain,Colombia,44220
+4,Spain,France,488405
+4,Spain,Germany,1001351
+4,Spain,Italy,550365
+4,Spain,Peru,18129
+4,Spain,Portugal,161933
+4,Spain,Slovakia,2336
+4,Spain,Slovenia,668
+4,Spain,Spain,2840203
+4,Spain,Switzerland,207398
+4,Spain,United Kingdom,1532377
+4,Spain,United States,158009
+4,Switzerland,Austria,25066
+4,Switzerland,Belgium,20751
+4,Switzerland,Canada,7881
+4,Switzerland,Colombia,1279
+4,Switzerland,France,128694
+4,Switzerland,Germany,106481
+4,Switzerland,Italy,116327
+4,Switzerland,Peru,1121
+4,Switzerland,Portugal,110836
+4,Switzerland,Slovakia,542
+4,Switzerland,Slovenia,1421
+4,Switzerland,Spain,219497
+4,Switzerland,Switzerland,2703
+4,Switzerland,United Kingdom,213498
+4,Switzerland,United States,66810
+4,United Kingdom,Austria,65500
+4,United Kingdom,Belgium,26907
+4,United Kingdom,Canada,64947
+4,United Kingdom,Colombia,4690
+4,United Kingdom,France,342286
+4,United Kingdom,Germany,306632
+4,United Kingdom,Italy,526341
+4,United Kingdom,Peru,2424
+4,United Kingdom,Portugal,363339
+4,United Kingdom,Slovakia,21400
+4,United Kingdom,Slovenia,5386
+4,United Kingdom,Spain,1559123
+4,United Kingdom,Switzerland,196141
+4,United Kingdom,United Kingdom,957137
+4,United Kingdom,United States,487378
+4,United States,Austria,24944
+4,United States,Belgium,43239
+4,United States,Canada,770166
+4,United States,Colombia,200000
+4,United States,France,222080
+4,United States,Germany,274190
+4,United States,Italy,145898
+4,United States,Peru,59066
+4,United States,Portugal,52632
+4,United States,Slovakia,374
+4,United States,Slovenia,1224
+4,United States,Spain,153971
+4,United States,Switzerland,65749
+4,United States,United Kingdom,497778
+4,United States,United States,45994901

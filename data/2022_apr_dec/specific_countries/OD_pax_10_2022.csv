@@ -1,0 +1,217 @@
+Month,Orig Country,Dest Country,Total Market Pax
+10,Austria,Austria,10675
+10,Austria,Belgium,18139
+10,Austria,Canada,7041
+10,Austria,Colombia,538
+10,Austria,France,45009
+10,Austria,Germany,137556
+10,Austria,Italy,86880
+10,Austria,Peru,549
+10,Austria,Portugal,18125
+10,Austria,Slovakia,2078
+10,Austria,Slovenia,19
+10,Austria,Spain,112881
+10,Austria,Switzerland,29717
+10,Austria,United Kingdom,62604
+10,Austria,United States,38270
+10,Belgium,Austria,19773
+10,Belgium,Canada,6752
+10,Belgium,Colombia,809
+10,Belgium,France,71117
+10,Belgium,Germany,29491
+10,Belgium,Italy,153865
+10,Belgium,Peru,661
+10,Belgium,Portugal,61359
+10,Belgium,Slovakia,2007
+10,Belgium,Slovenia,3564
+10,Belgium,Spain,253293
+10,Belgium,Switzerland,30759
+10,Belgium,United Kingdom,35948
+10,Belgium,United States,47198
+10,Canada,Austria,5101
+10,Canada,Belgium,6430
+10,Canada,Canada,2739636
+10,Canada,Colombia,8416
+10,Canada,France,86682
+10,Canada,Germany,35797
+10,Canada,Italy,44504
+10,Canada,Peru,4194
+10,Canada,Portugal,30446
+10,Canada,Slovakia,54
+10,Canada,Slovenia,215
+10,Canada,Spain,26119
+10,Canada,Switzerland,12005
+10,Canada,United Kingdom,94790
+10,Canada,United States,993969
+10,Colombia,Austria,571
+10,Colombia,Belgium,642
+10,Colombia,Canada,7667
+10,Colombia,Colombia,2438407
+10,Colombia,France,6959
+10,Colombia,Germany,5618
+10,Colombia,Italy,4080
+10,Colombia,Peru,35412
+10,Colombia,Portugal,1591
+10,Colombia,Slovenia,6
+10,Colombia,Spain,66068
+10,Colombia,Switzerland,1656
+10,Colombia,United Kingdom,4793
+10,Colombia,United States,178125
+10,France,Austria,45683
+10,France,Belgium,69690
+10,France,Canada,95152
+10,France,Colombia,7541
+10,France,France,1680830
+10,France,Germany,180537
+10,France,Italy,529550
+10,France,Peru,4650
+10,France,Portugal,330959
+10,France,Slovakia,148
+10,France,Slovenia,3482
+10,France,Spain,593088
+10,France,Switzerland,144877
+10,France,United Kingdom,361649
+10,France,United States,317830
+10,Germany,Austria,131375
+10,Germany,Belgium,28404
+10,Germany,Canada,34397
+10,Germany,Colombia,5735
+10,Germany,France,163357
+10,Germany,Germany,391821
+10,Germany,Italy,421369
+10,Germany,Peru,3063
+10,Germany,Portugal,185034
+10,Germany,Slovakia,1006
+10,Germany,Slovenia,3208
+10,Germany,Spain,1101816
+10,Germany,Switzerland,109151
+10,Germany,United Kingdom,380028
+10,Germany,United States,418870
+10,Italy,Austria,90840
+10,Italy,Belgium,153679
+10,Italy,Canada,58414
+10,Italy,Colombia,4729
+10,Italy,France,534342
+10,Italy,Germany,467587
+10,Italy,Italy,3138548
+10,Italy,Peru,5728
+10,Italy,Portugal,121477
+10,Italy,Slovakia,7908
+10,Italy,Slovenia,225
+10,Italy,Spain,639618
+10,Italy,Switzerland,135243
+10,Italy,United Kingdom,603315
+10,Italy,United States,264908
+10,Peru,Austria,281
+10,Peru,Belgium,480
+10,Peru,Canada,3719
+10,Peru,Colombia,37280
+10,Peru,France,5203
+10,Peru,Germany,2488
+10,Peru,Italy,8730
+10,Peru,Peru,1087226
+10,Peru,Portugal,562
+10,Peru,Slovenia,7
+10,Peru,Spain,28820
+10,Peru,Switzerland,1243
+10,Peru,United Kingdom,3151
+10,Peru,United States,65855
+10,Portugal,Austria,18334
+10,Portugal,Belgium,62633
+10,Portugal,Canada,35310
+10,Portugal,Colombia,1228
+10,Portugal,France,336355
+10,Portugal,Germany,197139
+10,Portugal,Italy,116738
+10,Portugal,Peru,657
+10,Portugal,Portugal,412481
+10,Portugal,Slovakia,59
+10,Portugal,Slovenia,336
+10,Portugal,Spain,206849
+10,Portugal,Switzerland,123212
+10,Portugal,United Kingdom,418808
+10,Portugal,United States,72669
+10,Slovakia,Austria,2474
+10,Slovakia,Belgium,2396
+10,Slovakia,Canada,75
+10,Slovakia,France,153
+10,Slovakia,Germany,1026
+10,Slovakia,Italy,9199
+10,Slovakia,Portugal,67
+10,Slovakia,Spain,2796
+10,Slovakia,Switzerland,654
+10,Slovakia,United Kingdom,24094
+10,Slovakia,United States,372
+10,Slovenia,Austria,26
+10,Slovenia,Belgium,3333
+10,Slovenia,Canada,318
+10,Slovenia,Colombia,8
+10,Slovenia,France,3641
+10,Slovenia,Germany,4022
+10,Slovenia,Italy,283
+10,Slovenia,Peru,6
+10,Slovenia,Portugal,467
+10,Slovenia,Spain,892
+10,Slovenia,Switzerland,1519
+10,Slovenia,United Kingdom,6391
+10,Slovenia,United States,1103
+10,Spain,Austria,115213
+10,Spain,Belgium,247410
+10,Spain,Canada,32350
+10,Spain,Colombia,55909
+10,Spain,France,567325
+10,Spain,Germany,1181329
+10,Spain,Italy,620941
+10,Spain,Peru,24094
+10,Spain,Portugal,211902
+10,Spain,Slovakia,2469
+10,Spain,Slovenia,858
+10,Spain,Spain,3257862
+10,Spain,Switzerland,265230
+10,Spain,United Kingdom,1971533
+10,Spain,United States,209160
+10,Switzerland,Austria,28404
+10,Switzerland,Belgium,29694
+10,Switzerland,Canada,12864
+10,Switzerland,Colombia,1686
+10,Switzerland,France,145908
+10,Switzerland,Germany,109958
+10,Switzerland,Italy,136070
+10,Switzerland,Peru,1669
+10,Switzerland,Portugal,122865
+10,Switzerland,Slovakia,549
+10,Switzerland,Slovenia,1505
+10,Switzerland,Spain,256012
+10,Switzerland,Switzerland,2769
+10,Switzerland,United Kingdom,172789
+10,Switzerland,United States,97486
+10,United Kingdom,Austria,60766
+10,United Kingdom,Belgium,36531
+10,United Kingdom,Canada,103940
+10,United Kingdom,Colombia,4473
+10,United Kingdom,France,361547
+10,United Kingdom,Germany,371096
+10,United Kingdom,Italy,584500
+10,United Kingdom,Peru,3500
+10,United Kingdom,Portugal,410894
+10,United Kingdom,Slovakia,23714
+10,United Kingdom,Slovenia,5571
+10,United Kingdom,Spain,1794444
+10,United Kingdom,Switzerland,170802
+10,United Kingdom,United Kingdom,1064319
+10,United Kingdom,United States,700857
+10,United States,Austria,30236
+10,United States,Belgium,37501
+10,United States,Canada,965538
+10,United States,Colombia,181537
+10,United States,France,229343
+10,United States,Germany,352871
+10,United States,Italy,222580
+10,United States,Peru,65244
+10,United States,Portugal,61808
+10,United States,Slovakia,421
+10,United States,Slovenia,902
+10,United States,Spain,178685
+10,United States,Switzerland,81533
+10,United States,United Kingdom,647090
+10,United States,United States,49746970

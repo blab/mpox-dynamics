@@ -1,0 +1,215 @@
+Month,Orig Country,Dest Country,Total Market Pax
+5,Austria,Austria,6778
+5,Austria,Belgium,14850
+5,Austria,Canada,4251
+5,Austria,Colombia,366
+5,Austria,France,44502
+5,Austria,Germany,138366
+5,Austria,Italy,82300
+5,Austria,Peru,296
+5,Austria,Portugal,18023
+5,Austria,Slovakia,1851
+5,Austria,Slovenia,46
+5,Austria,Spain,104620
+5,Austria,Switzerland,32532
+5,Austria,United Kingdom,55143
+5,Austria,United States,26089
+5,Belgium,Austria,15423
+5,Belgium,Canada,5417
+5,Belgium,Colombia,498
+5,Belgium,France,64197
+5,Belgium,Germany,28712
+5,Belgium,Italy,131032
+5,Belgium,Peru,440
+5,Belgium,Portugal,58178
+5,Belgium,Slovakia,2238
+5,Belgium,Slovenia,3356
+5,Belgium,Spain,224134
+5,Belgium,Switzerland,25984
+5,Belgium,United Kingdom,28498
+5,Belgium,United States,36513
+5,Canada,Austria,3813
+5,Canada,Belgium,4533
+5,Canada,Canada,2553368
+5,Canada,Colombia,7637
+5,Canada,France,73635
+5,Canada,Germany,27183
+5,Canada,Italy,35467
+5,Canada,Peru,3325
+5,Canada,Portugal,26219
+5,Canada,Slovakia,27
+5,Canada,Slovenia,246
+5,Canada,Spain,21004
+5,Canada,Switzerland,9422
+5,Canada,United Kingdom,100506
+5,Canada,United States,800217
+5,Colombia,Austria,351
+5,Colombia,Belgium,600
+5,Colombia,Canada,10401
+5,Colombia,Colombia,2458877
+5,Colombia,France,7262
+5,Colombia,Germany,4298
+5,Colombia,Italy,4342
+5,Colombia,Peru,30159
+5,Colombia,Portugal,1125
+5,Colombia,Slovenia,7
+5,Colombia,Spain,70674
+5,Colombia,Switzerland,1692
+5,Colombia,United Kingdom,5616
+5,Colombia,United States,196375
+5,France,Austria,46001
+5,France,Belgium,61878
+5,France,Canada,72500
+5,France,Colombia,4904
+5,France,France,1714067
+5,France,Germany,163212
+5,France,Italy,489706
+5,France,Peru,4747
+5,France,Portugal,310503
+5,France,Slovakia,134
+5,France,Slovenia,4193
+5,France,Spain,557931
+5,France,Switzerland,126261
+5,France,United Kingdom,352018
+5,France,United States,243621
+5,Germany,Austria,141030
+5,Germany,Belgium,27240
+5,Germany,Canada,36909
+5,Germany,Colombia,2898
+5,Germany,France,167417
+5,Germany,Germany,448359
+5,Germany,Italy,446410
+5,Germany,Peru,2059
+5,Germany,Portugal,187641
+5,Germany,Slovakia,1255
+5,Germany,Slovenia,2822
+5,Germany,Spain,1099436
+5,Germany,Switzerland,123543
+5,Germany,United Kingdom,330851
+5,Germany,United States,307779
+5,Italy,Austria,83804
+5,Italy,Belgium,130831
+5,Italy,Canada,31042
+5,Italy,Colombia,3128
+5,Italy,France,498200
+5,Italy,Germany,428129
+5,Italy,Italy,3155111
+5,Italy,Peru,7360
+5,Italy,Portugal,106223
+5,Italy,Slovakia,7699
+5,Italy,Slovenia,159
+5,Italy,Spain,594308
+5,Italy,Switzerland,125281
+5,Italy,United Kingdom,559858
+5,Italy,United States,195723
+5,Peru,Austria,489
+5,Peru,Belgium,435
+5,Peru,Canada,3906
+5,Peru,Colombia,33196
+5,Peru,France,5013
+5,Peru,Germany,2035
+5,Peru,Italy,6761
+5,Peru,Peru,877665
+5,Peru,Portugal,649
+5,Peru,Spain,21822
+5,Peru,Switzerland,1035
+5,Peru,United Kingdom,2829
+5,Peru,United States,62634
+5,Portugal,Austria,17147
+5,Portugal,Belgium,57944
+5,Portugal,Canada,22059
+5,Portugal,Colombia,882
+5,Portugal,France,318510
+5,Portugal,Germany,186677
+5,Portugal,Italy,100786
+5,Portugal,Peru,670
+5,Portugal,Portugal,378136
+5,Portugal,Slovakia,46
+5,Portugal,Slovenia,326
+5,Portugal,Spain,174897
+5,Portugal,Switzerland,113028
+5,Portugal,United Kingdom,392614
+5,Portugal,United States,54609
+5,Slovakia,Austria,2157
+5,Slovakia,Belgium,2385
+5,Slovakia,Canada,42
+5,Slovakia,France,156
+5,Slovakia,Germany,1493
+5,Slovakia,Italy,7837
+5,Slovakia,Portugal,27
+5,Slovakia,Spain,2296
+5,Slovakia,Switzerland,583
+5,Slovakia,United Kingdom,24346
+5,Slovakia,United States,375
+5,Slovenia,Austria,103
+5,Slovenia,Belgium,3319
+5,Slovenia,Canada,285
+5,Slovenia,Colombia,17
+5,Slovenia,France,3284
+5,Slovenia,Germany,2310
+5,Slovenia,Italy,141
+5,Slovenia,Portugal,208
+5,Slovenia,Spain,836
+5,Slovenia,Switzerland,2440
+5,Slovenia,United Kingdom,5762
+5,Slovenia,United States,579
+5,Spain,Austria,103240
+5,Spain,Belgium,226358
+5,Spain,Canada,21504
+5,Spain,Colombia,44457
+5,Spain,France,582005
+5,Spain,Germany,1057118
+5,Spain,Italy,609751
+5,Spain,Peru,18575
+5,Spain,Portugal,181662
+5,Spain,Slovakia,2364
+5,Spain,Slovenia,671
+5,Spain,Spain,2974711
+5,Spain,Switzerland,223864
+5,Spain,United Kingdom,1756928
+5,Spain,United States,164823
+5,Switzerland,Austria,31213
+5,Switzerland,Belgium,23457
+5,Switzerland,Canada,9637
+5,Switzerland,Colombia,1045
+5,Switzerland,France,122587
+5,Switzerland,Germany,120981
+5,Switzerland,Italy,124957
+5,Switzerland,Peru,922
+5,Switzerland,Portugal,109464
+5,Switzerland,Slovakia,562
+5,Switzerland,Slovenia,1648
+5,Switzerland,Spain,219186
+5,Switzerland,Switzerland,4467
+5,Switzerland,United Kingdom,148128
+5,Switzerland,United States,62969
+5,United Kingdom,Austria,57688
+5,United Kingdom,Belgium,29251
+5,United Kingdom,Canada,101513
+5,United Kingdom,Colombia,3382
+5,United Kingdom,France,378980
+5,United Kingdom,Germany,339018
+5,United Kingdom,Italy,573697
+5,United Kingdom,Peru,2678
+5,United Kingdom,Portugal,428055
+5,United Kingdom,Slovakia,22725
+5,United Kingdom,Slovenia,6731
+5,United Kingdom,Spain,1915976
+5,United Kingdom,Switzerland,151399
+5,United Kingdom,United Kingdom,1014197
+5,United Kingdom,United States,569627
+5,United States,Austria,36079
+5,United States,Belgium,39888
+5,United States,Canada,868745
+5,United States,Colombia,184783
+5,United States,France,292998
+5,United States,Germany,374534
+5,United States,Italy,222702
+5,United States,Peru,65401
+5,United States,Portugal,61918
+5,United States,Slovakia,314
+5,United States,Slovenia,800
+5,United States,Spain,196638
+5,United States,Switzerland,70534
+5,United States,United Kingdom,617602
+5,United States,United States,47766618

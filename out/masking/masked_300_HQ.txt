@@ -15,3 +15,35 @@
  # alignment length:19721(removed177488sites)
  # variable sites:593(0.03%)
  # invariant sites:19128(0.97%)
+ # before pruning:
+ # alignment length:197209
+ # variable sites:1531(0.008%)
+ # invariant sites:195678(0.992%)
+ # after pruning:
+ # alignment length:19721(removed177488sites)
+ # variable sites:1531(0.078%)
+ # invariant sites:18190(0.922%)
+ # before pruning:
+ # alignment length:197209
+ # variable sites:665(0.003%)
+ # invariant sites:196544(0.997%)
+ # after pruning:
+ # alignment length:19721(removed177488sites)
+ # variable sites:665(0.034%)
+ # invariant sites:19056(0.966%)
+ # before pruning:
+ # alignment length:197209
+ # variable sites:665(0.003%)
+ # invariant sites:196544(0.997%)
+ # after pruning:
+ # alignment length:19721(removed177488sites)
+ # variable sites:665(0.034%)
+ # invariant sites:19056(0.966%)
+ # before pruning:
+ # alignment length:197209
+ # variable sites:974(0.005%)
+ # invariant sites:196235(0.995%)
+ # after pruning:
+ # alignment length:19721(removed177488sites)
+ # variable sites:974(0.049%)
+ # invariant sites:18747(0.951%)

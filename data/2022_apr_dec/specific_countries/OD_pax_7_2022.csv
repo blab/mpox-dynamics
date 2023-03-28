@@ -1,0 +1,215 @@
+Month,Orig Country,Dest Country,Total Market Pax
+7,Austria,Austria,5157
+7,Austria,Belgium,13796
+7,Austria,Canada,7755
+7,Austria,Colombia,499
+7,Austria,France,42383
+7,Austria,Germany,112289
+7,Austria,Italy,99172
+7,Austria,Peru,480
+7,Austria,Portugal,20373
+7,Austria,Slovakia,1917
+7,Austria,Slovenia,9
+7,Austria,Spain,132310
+7,Austria,Switzerland,22275
+7,Austria,United Kingdom,68229
+7,Austria,United States,49784
+7,Belgium,Austria,14615
+7,Belgium,Canada,12297
+7,Belgium,Colombia,1433
+7,Belgium,France,86522
+7,Belgium,Germany,20277
+7,Belgium,Italy,169757
+7,Belgium,Peru,871
+7,Belgium,Portugal,77207
+7,Belgium,Slovakia,2390
+7,Belgium,Slovenia,4125
+7,Belgium,Spain,235455
+7,Belgium,Switzerland,18501
+7,Belgium,United Kingdom,31299
+7,Belgium,United States,76952
+7,Canada,Austria,6286
+7,Canada,Belgium,9612
+7,Canada,Canada,3125486
+7,Canada,Colombia,14002
+7,Canada,France,121907
+7,Canada,Germany,53716
+7,Canada,Italy,61937
+7,Canada,Peru,5369
+7,Canada,Portugal,43383
+7,Canada,Slovakia,124
+7,Canada,Slovenia,531
+7,Canada,Spain,30992
+7,Canada,Switzerland,19838
+7,Canada,United Kingdom,159949
+7,Canada,United States,1040547
+7,Colombia,Austria,544
+7,Colombia,Belgium,1328
+7,Colombia,Canada,12112
+7,Colombia,Colombia,2630483
+7,Colombia,France,7786
+7,Colombia,Germany,4874
+7,Colombia,Italy,4235
+7,Colombia,Peru,31774
+7,Colombia,Portugal,1238
+7,Colombia,Spain,61344
+7,Colombia,Switzerland,2013
+7,Colombia,United Kingdom,5709
+7,Colombia,United States,216986
+7,France,Austria,42339
+7,France,Belgium,80489
+7,France,Canada,135435
+7,France,Colombia,10712
+7,France,France,1810816
+7,France,Germany,144041
+7,France,Italy,525973
+7,France,Peru,6487
+7,France,Portugal,359045
+7,France,Slovakia,242
+7,France,Slovenia,3310
+7,France,Spain,656710
+7,France,Switzerland,145054
+7,France,United Kingdom,444675
+7,France,United States,390963
+7,Germany,Austria,117085
+7,Germany,Belgium,20798
+7,Germany,Canada,65159
+7,Germany,Colombia,6406
+7,Germany,France,142729
+7,Germany,Germany,273327
+7,Germany,Italy,434382
+7,Germany,Peru,2804
+7,Germany,Portugal,193074
+7,Germany,Slovakia,1104
+7,Germany,Slovenia,2756
+7,Germany,Spain,1222998
+7,Germany,Switzerland,85921
+7,Germany,United Kingdom,299239
+7,Germany,United States,737301
+7,Italy,Austria,101519
+7,Italy,Belgium,167272
+7,Italy,Canada,62635
+7,Italy,Colombia,4497
+7,Italy,France,499983
+7,Italy,Germany,412311
+7,Italy,Italy,3741928
+7,Italy,Peru,7034
+7,Italy,Portugal,115743
+7,Italy,Slovakia,10922
+7,Italy,Slovenia,106
+7,Italy,Spain,637969
+7,Italy,Switzerland,148978
+7,Italy,United Kingdom,688012
+7,Italy,United States,317494
+7,Peru,Austria,570
+7,Peru,Belgium,695
+7,Peru,Canada,5008
+7,Peru,Colombia,36747
+7,Peru,France,4132
+7,Peru,Germany,2018
+7,Peru,Italy,8452
+7,Peru,Peru,992965
+7,Peru,Portugal,409
+7,Peru,Slovenia,3
+7,Peru,Spain,24906
+7,Peru,Switzerland,1104
+7,Peru,United Kingdom,3614
+7,Peru,United States,68734
+7,Portugal,Austria,19314
+7,Portugal,Belgium,67754
+7,Portugal,Canada,38917
+7,Portugal,Colombia,1169
+7,Portugal,France,298553
+7,Portugal,Germany,179148
+7,Portugal,Italy,109786
+7,Portugal,Peru,440
+7,Portugal,Portugal,444087
+7,Portugal,Slovakia,40
+7,Portugal,Slovenia,897
+7,Portugal,Spain,200635
+7,Portugal,Switzerland,108107
+7,Portugal,United Kingdom,428127
+7,Portugal,United States,86270
+7,Slovakia,Austria,2115
+7,Slovakia,Belgium,2281
+7,Slovakia,Canada,121
+7,Slovakia,France,325
+7,Slovakia,Germany,927
+7,Slovakia,Italy,10951
+7,Slovakia,Portugal,43
+7,Slovakia,Spain,6527
+7,Slovakia,Switzerland,733
+7,Slovakia,United Kingdom,24070
+7,Slovakia,United States,505
+7,Slovenia,Austria,3
+7,Slovenia,Belgium,4103
+7,Slovenia,Canada,538
+7,Slovenia,France,2561
+7,Slovenia,Germany,3203
+7,Slovenia,Italy,230
+7,Slovenia,Peru,7
+7,Slovenia,Portugal,986
+7,Slovenia,Spain,936
+7,Slovenia,Switzerland,1453
+7,Slovenia,United Kingdom,9137
+7,Slovenia,United States,1205
+7,Spain,Austria,130134
+7,Spain,Belgium,236024
+7,Spain,Canada,33592
+7,Spain,Colombia,56007
+7,Spain,France,617636
+7,Spain,Germany,1150584
+7,Spain,Italy,647187
+7,Spain,Peru,20123
+7,Spain,Portugal,208845
+7,Spain,Slovakia,6343
+7,Spain,Slovenia,1095
+7,Spain,Spain,3229292
+7,Spain,Switzerland,237330
+7,Spain,United Kingdom,2167680
+7,Spain,United States,252230
+7,Switzerland,Austria,22502
+7,Switzerland,Belgium,18535
+7,Switzerland,Canada,26628
+7,Switzerland,Colombia,2414
+7,Switzerland,France,150338
+7,Switzerland,Germany,86492
+7,Switzerland,Italy,152277
+7,Switzerland,Peru,1606
+7,Switzerland,Portugal,136979
+7,Switzerland,Slovakia,1085
+7,Switzerland,Slovenia,1498
+7,Switzerland,Spain,248448
+7,Switzerland,Switzerland,4155
+7,Switzerland,United Kingdom,173350
+7,Switzerland,United States,127815
+7,United Kingdom,Austria,71421
+7,United Kingdom,Belgium,32437
+7,United Kingdom,Canada,161598
+7,United Kingdom,Colombia,7053
+7,United Kingdom,France,473237
+7,United Kingdom,Germany,314092
+7,United Kingdom,Italy,690668
+7,United Kingdom,Peru,4700
+7,United Kingdom,Portugal,462489
+7,United Kingdom,Slovakia,27132
+7,United Kingdom,Slovenia,8158
+7,United Kingdom,Spain,2165245
+7,United Kingdom,Switzerland,174051
+7,United Kingdom,United Kingdom,1041141
+7,United Kingdom,United States,732666
+7,United States,Austria,44090
+7,United States,Belgium,59446
+7,United States,Canada,1015306
+7,United States,Colombia,235061
+7,United States,France,289538
+7,United States,Germany,557993
+7,United States,Italy,266597
+7,United States,Peru,61846
+7,United States,Portugal,85345
+7,United States,Slovakia,723
+7,United States,Slovenia,1477
+7,United States,Spain,208686
+7,United States,Switzerland,106290
+7,United States,United Kingdom,590851
+7,United States,United States,49730710

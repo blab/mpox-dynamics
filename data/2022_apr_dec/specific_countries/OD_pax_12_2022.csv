@@ -1,0 +1,215 @@
+Month,Orig Country,Dest Country,Total Market Pax
+12,Austria,Austria,6428
+12,Austria,Belgium,19280
+12,Austria,Canada,4165
+12,Austria,Colombia,986
+12,Austria,France,40413
+12,Austria,Germany,125822
+12,Austria,Italy,60280
+12,Austria,Peru,417
+12,Austria,Portugal,14920
+12,Austria,Slovakia,1140
+12,Austria,Slovenia,26
+12,Austria,Spain,73537
+12,Austria,Switzerland,28213
+12,Austria,United Kingdom,111624
+12,Austria,United States,25583
+12,Belgium,Austria,20063
+12,Belgium,Canada,4874
+12,Belgium,Colombia,891
+12,Belgium,France,45682
+12,Belgium,Germany,22992
+12,Belgium,Italy,110384
+12,Belgium,Peru,361
+12,Belgium,Portugal,39010
+12,Belgium,Slovakia,1495
+12,Belgium,Slovenia,1805
+12,Belgium,Spain,146493
+12,Belgium,Switzerland,26573
+12,Belgium,United Kingdom,38068
+12,Belgium,United States,35578
+12,Canada,Austria,3589
+12,Canada,Belgium,4462
+12,Canada,Canada,2362881
+12,Canada,Colombia,21586
+12,Canada,France,53316
+12,Canada,Germany,30006
+12,Canada,Italy,9837
+12,Canada,Peru,6093
+12,Canada,Portugal,13397
+12,Canada,Slovakia,22
+12,Canada,Slovenia,41
+12,Canada,Spain,9789
+12,Canada,Switzerland,10130
+12,Canada,United Kingdom,66807
+12,Canada,United States,967447
+12,Colombia,Austria,580
+12,Colombia,Belgium,590
+12,Colombia,Canada,12308
+12,Colombia,Colombia,2554829
+12,Colombia,France,6738
+12,Colombia,Germany,5682
+12,Colombia,Italy,3426
+12,Colombia,Peru,29117
+12,Colombia,Portugal,961
+12,Colombia,Spain,61049
+12,Colombia,Switzerland,1892
+12,Colombia,United Kingdom,6748
+12,Colombia,United States,197219
+12,France,Austria,43023
+12,France,Belgium,45015
+12,France,Canada,49876
+12,France,Colombia,7285
+12,France,France,1402805
+12,France,Germany,108039
+12,France,Italy,392972
+12,France,Peru,3545
+12,France,Portugal,302187
+12,France,Slovakia,74
+12,France,Slovenia,1319
+12,France,Spain,381981
+12,France,Switzerland,111013
+12,France,United Kingdom,315799
+12,France,United States,227295
+12,Germany,Austria,129045
+12,Germany,Belgium,24520
+12,Germany,Canada,22675
+12,Germany,Colombia,6996
+12,Germany,France,111763
+12,Germany,Germany,328539
+12,Germany,Italy,237109
+12,Germany,Peru,2286
+12,Germany,Portugal,115207
+12,Germany,Slovakia,637
+12,Germany,Slovenia,2153
+12,Germany,Spain,618594
+12,Germany,Switzerland,98550
+12,Germany,United Kingdom,339843
+12,Germany,United States,323288
+12,Italy,Austria,59829
+12,Italy,Belgium,107540
+12,Italy,Canada,9412
+12,Italy,Colombia,4730
+12,Italy,France,382794
+12,Italy,Germany,223615
+12,Italy,Italy,2328217
+12,Italy,Peru,7428
+12,Italy,Portugal,93628
+12,Italy,Slovakia,5286
+12,Italy,Slovenia,98
+12,Italy,Spain,414108
+12,Italy,Switzerland,71011
+12,Italy,United Kingdom,447529
+12,Italy,United States,150749
+12,Peru,Austria,333
+12,Peru,Belgium,463
+12,Peru,Canada,4230
+12,Peru,Colombia,33826
+12,Peru,France,4699
+12,Peru,Germany,2097
+12,Peru,Italy,9761
+12,Peru,Peru,1060530
+12,Peru,Portugal,435
+12,Peru,Spain,25913
+12,Peru,Switzerland,897
+12,Peru,United Kingdom,2021
+12,Peru,United States,70037
+12,Portugal,Austria,14257
+12,Portugal,Belgium,41486
+12,Portugal,Canada,13377
+12,Portugal,Colombia,943
+12,Portugal,France,298307
+12,Portugal,Germany,104610
+12,Portugal,Italy,92446
+12,Portugal,Peru,332
+12,Portugal,Portugal,323507
+12,Portugal,Slovakia,27
+12,Portugal,Slovenia,190
+12,Portugal,Spain,165838
+12,Portugal,Switzerland,103354
+12,Portugal,United Kingdom,247188
+12,Portugal,United States,34378
+12,Slovakia,Austria,1037
+12,Slovakia,Belgium,1461
+12,Slovakia,Canada,31
+12,Slovakia,France,68
+12,Slovakia,Germany,704
+12,Slovakia,Italy,5378
+12,Slovakia,Portugal,31
+12,Slovakia,Spain,1553
+12,Slovakia,Switzerland,454
+12,Slovakia,United Kingdom,22223
+12,Slovakia,United States,176
+12,Slovenia,Austria,23
+12,Slovenia,Belgium,1442
+12,Slovenia,Canada,61
+12,Slovenia,Colombia,23
+12,Slovenia,France,1179
+12,Slovenia,Germany,1871
+12,Slovenia,Italy,91
+12,Slovenia,Peru,11
+12,Slovenia,Portugal,233
+12,Slovenia,Spain,469
+12,Slovenia,Switzerland,1285
+12,Slovenia,United Kingdom,4948
+12,Slovenia,United States,516
+12,Spain,Austria,69635
+12,Spain,Belgium,145033
+12,Spain,Canada,8246
+12,Spain,Colombia,55715
+12,Spain,France,382378
+12,Spain,Germany,558871
+12,Spain,Italy,406971
+12,Spain,Peru,19240
+12,Spain,Portugal,168748
+12,Spain,Slovakia,1358
+12,Spain,Slovenia,617
+12,Spain,Spain,2497420
+12,Spain,Switzerland,164275
+12,Spain,United Kingdom,950427
+12,Spain,United States,129966
+12,Switzerland,Austria,30423
+12,Switzerland,Belgium,25955
+12,Switzerland,Canada,7849
+12,Switzerland,Colombia,2351
+12,Switzerland,France,108025
+12,Switzerland,Germany,98038
+12,Switzerland,Italy,71432
+12,Switzerland,Peru,1178
+12,Switzerland,Portugal,107258
+12,Switzerland,Slovakia,536
+12,Switzerland,Slovenia,1433
+12,Switzerland,Spain,167166
+12,Switzerland,Switzerland,2697
+12,Switzerland,United Kingdom,266196
+12,Switzerland,United States,69943
+12,United Kingdom,Austria,118104
+12,United Kingdom,Belgium,41759
+12,United Kingdom,Canada,71396
+12,United Kingdom,Colombia,7888
+12,United Kingdom,France,336700
+12,United Kingdom,Germany,349796
+12,United Kingdom,Italy,456070
+12,United Kingdom,Peru,2381
+12,United Kingdom,Portugal,248188
+12,United Kingdom,Slovakia,22224
+12,United Kingdom,Slovenia,4931
+12,United Kingdom,Spain,962404
+12,United Kingdom,Switzerland,288038
+12,United Kingdom,United Kingdom,977189
+12,United Kingdom,United States,493598
+12,United States,Austria,26824
+12,United States,Belgium,32791
+12,United States,Canada,940581
+12,United States,Colombia,222208
+12,United States,France,230112
+12,United States,Germany,326240
+12,United States,Italy,146527
+12,United States,Peru,59072
+12,United States,Portugal,40129
+12,United States,Slovakia,299
+12,United States,Slovenia,621
+12,United States,Spain,146366
+12,United States,Switzerland,72800
+12,United States,United Kingdom,528837
+12,United States,United States,48085118

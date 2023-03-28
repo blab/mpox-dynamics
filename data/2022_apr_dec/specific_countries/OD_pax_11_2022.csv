@@ -1,0 +1,216 @@
+Month,Orig Country,Dest Country,Total Market Pax
+11,Austria,Austria,5117
+11,Austria,Belgium,18967
+11,Austria,Canada,3289
+11,Austria,Colombia,720
+11,Austria,France,34125
+11,Austria,Germany,128175
+11,Austria,Italy,60307
+11,Austria,Peru,672
+11,Austria,Portugal,13795
+11,Austria,Slovakia,641
+11,Austria,Slovenia,42
+11,Austria,Spain,68089
+11,Austria,Switzerland,28588
+11,Austria,United Kingdom,61850
+11,Austria,United States,22473
+11,Belgium,Austria,20146
+11,Belgium,Belgium,1
+11,Belgium,Canada,3621
+11,Belgium,Colombia,691
+11,Belgium,France,46302
+11,Belgium,Germany,30662
+11,Belgium,Italy,110930
+11,Belgium,Peru,379
+11,Belgium,Portugal,37539
+11,Belgium,Slovakia,1431
+11,Belgium,Slovenia,1703
+11,Belgium,Spain,149828
+11,Belgium,Switzerland,29406
+11,Belgium,United Kingdom,39516
+11,Belgium,United States,31863
+11,Canada,Austria,3631
+11,Canada,Belgium,3842
+11,Canada,Canada,2259439
+11,Canada,Colombia,10829
+11,Canada,France,40479
+11,Canada,Germany,25778
+11,Canada,Italy,10374
+11,Canada,Peru,3942
+11,Canada,Portugal,14488
+11,Canada,Slovakia,44
+11,Canada,Slovenia,56
+11,Canada,Spain,9286
+11,Canada,Switzerland,6503
+11,Canada,United Kingdom,59484
+11,Canada,United States,973936
+11,Colombia,Austria,681
+11,Colombia,Belgium,673
+11,Colombia,Canada,8032
+11,Colombia,Colombia,2488370
+11,Colombia,France,4949
+11,Colombia,Germany,4231
+11,Colombia,Italy,3119
+11,Colombia,Peru,34886
+11,Colombia,Portugal,909
+11,Colombia,Spain,59649
+11,Colombia,Switzerland,1443
+11,Colombia,United Kingdom,5487
+11,Colombia,United States,176287
+11,France,Austria,35516
+11,France,Belgium,47017
+11,France,Canada,38933
+11,France,Colombia,6067
+11,France,France,1285869
+11,France,Germany,121930
+11,France,Italy,352207
+11,France,Peru,4159
+11,France,Portugal,260839
+11,France,Slovakia,95
+11,France,Slovenia,1753
+11,France,Spain,360725
+11,France,Switzerland,92533
+11,France,United Kingdom,247450
+11,France,United States,208135
+11,Germany,Austria,128232
+11,Germany,Belgium,29307
+11,Germany,Canada,28946
+11,Germany,Colombia,4630
+11,Germany,France,117371
+11,Germany,Germany,412040
+11,Germany,Italy,243930
+11,Germany,Peru,2287
+11,Germany,Portugal,115760
+11,Germany,Slovakia,708
+11,Germany,Slovenia,2732
+11,Germany,Spain,600538
+11,Germany,Switzerland,101336
+11,Germany,United Kingdom,323635
+11,Germany,United States,283543
+11,Italy,Austria,61438
+11,Italy,Belgium,110587
+11,Italy,Canada,13766
+11,Italy,Colombia,3578
+11,Italy,France,355912
+11,Italy,Germany,259791
+11,Italy,Italy,2150257
+11,Italy,Peru,6816
+11,Italy,Portugal,92229
+11,Italy,Slovakia,5028
+11,Italy,Slovenia,144
+11,Italy,Spain,395558
+11,Italy,Switzerland,56417
+11,Italy,United Kingdom,389694
+11,Italy,United States,142608
+11,Peru,Austria,490
+11,Peru,Belgium,513
+11,Peru,Canada,3946
+11,Peru,Colombia,34965
+11,Peru,France,4670
+11,Peru,Germany,1967
+11,Peru,Italy,8828
+11,Peru,Peru,1015334
+11,Peru,Portugal,615
+11,Peru,Slovenia,13
+11,Peru,Spain,24850
+11,Peru,Switzerland,884
+11,Peru,United Kingdom,2592
+11,Peru,United States,60099
+11,Portugal,Austria,15215
+11,Portugal,Belgium,40397
+11,Portugal,Canada,17253
+11,Portugal,Colombia,921
+11,Portugal,France,267956
+11,Portugal,Germany,136406
+11,Portugal,Italy,92280
+11,Portugal,Peru,573
+11,Portugal,Portugal,315589
+11,Portugal,Slovakia,32
+11,Portugal,Slovenia,413
+11,Portugal,Spain,171802
+11,Portugal,Switzerland,90374
+11,Portugal,United Kingdom,226916
+11,Portugal,United States,45660
+11,Slovakia,Austria,837
+11,Slovakia,Belgium,1471
+11,Slovakia,Canada,66
+11,Slovakia,France,122
+11,Slovakia,Germany,747
+11,Slovakia,Italy,5519
+11,Slovakia,Portugal,28
+11,Slovakia,Spain,1108
+11,Slovakia,Switzerland,503
+11,Slovakia,United Kingdom,19625
+11,Slovakia,United States,292
+11,Slovenia,Austria,19
+11,Slovenia,Belgium,1688
+11,Slovenia,Canada,80
+11,Slovenia,France,1555
+11,Slovenia,Germany,2896
+11,Slovenia,Italy,117
+11,Slovenia,Peru,4
+11,Slovenia,Portugal,454
+11,Slovenia,Spain,703
+11,Slovenia,Switzerland,1248
+11,Slovenia,United Kingdom,2906
+11,Slovenia,United States,743
+11,Spain,Austria,71578
+11,Spain,Belgium,151300
+11,Spain,Canada,10955
+11,Spain,Colombia,52179
+11,Spain,France,358480
+11,Spain,Germany,646655
+11,Spain,Italy,390378
+11,Spain,Peru,19631
+11,Spain,Portugal,170989
+11,Spain,Slovakia,1206
+11,Spain,Slovenia,681
+11,Spain,Spain,2448499
+11,Spain,Switzerland,144305
+11,Spain,United Kingdom,1091908
+11,Spain,United States,137004
+11,Switzerland,Austria,29992
+11,Switzerland,Belgium,24079
+11,Switzerland,Canada,5803
+11,Switzerland,Colombia,1406
+11,Switzerland,France,90087
+11,Switzerland,Germany,100935
+11,Switzerland,Italy,56581
+11,Switzerland,Peru,766
+11,Switzerland,Portugal,91767
+11,Switzerland,Slovakia,511
+11,Switzerland,Slovenia,1264
+11,Switzerland,Spain,141539
+11,Switzerland,Switzerland,2120
+11,Switzerland,United Kingdom,144486
+11,Switzerland,United States,60443
+11,United Kingdom,Austria,64236
+11,United Kingdom,Belgium,40189
+11,United Kingdom,Canada,62756
+11,United Kingdom,Colombia,4979
+11,United Kingdom,France,243908
+11,United Kingdom,Germany,333484
+11,United Kingdom,Italy,385164
+11,United Kingdom,Peru,2349
+11,United Kingdom,Portugal,221760
+11,United Kingdom,Slovakia,18853
+11,United Kingdom,Slovenia,2963
+11,United Kingdom,Spain,1078101
+11,United Kingdom,Switzerland,145614
+11,United Kingdom,United Kingdom,961503
+11,United Kingdom,United States,506419
+11,United States,Austria,23981
+11,United States,Belgium,36823
+11,United States,Canada,962037
+11,United States,Colombia,179586
+11,United States,France,238512
+11,United States,Germany,289238
+11,United States,Italy,134135
+11,United States,Peru,61285
+11,United States,Portugal,37571
+11,United States,Slovakia,280
+11,United States,Slovenia,811
+11,United States,Spain,125618
+11,United States,Switzerland,60465
+11,United States,United Kingdom,527992
+11,United States,United States,47158263

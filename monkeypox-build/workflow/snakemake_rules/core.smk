@@ -82,7 +82,7 @@ rule filter:
     message:
         """
         Filtering to
-          - sequences per group sequence(s) per {params.group_by!s}
+          - sequences 
         """
     input:
         sequences=rules.exclude_bad.output.sequences,
@@ -92,11 +92,11 @@ rule filter:
         metadata=build_dir + "/{build_name}/metadata.tsv",
         log=build_dir + "/{build_name}/filter.log",
     params:
-        group_by=config.get("group_by", "--group-by clade lineage"),
-        #subsample_max_sequences=config["subsample_max_sequences"],
-        sequences_per_group=config["sequences_per_group"],
-	    subsample_seed=config["subsample_seed"],
+        subsample_seed=config["subsample_seed"],
         other_filters=config.get("filters", ""),
+                #group_by=config.get("group_by", "--group-by clade lineage"),
+        #subsample_max_sequences=config["max_sequences"],
+        #sequences_per_group=config["sequences_per_group"],
     shell:
         """
         augur filter \
@@ -104,8 +104,6 @@ rule filter:
             --metadata {input.metadata} \
             --output-sequences {output.sequences} \
             --output-metadata {output.metadata} \
-            {params.group_by} \
-            {params.sequences_per_group} \
             {params.other_filters} \
 	        {params.subsample_seed} \
             --output-log {output.log}
