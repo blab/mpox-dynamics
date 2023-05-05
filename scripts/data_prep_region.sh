@@ -28,4 +28,7 @@ cat masked.fasta | seqkit replace --ignore-case --kv-file "kv.txt" --pattern "^(
 
 #remove the outgroup for beast analyses
 cat align.fasta | awk '/>MPXV_USA_2021_MD_NorthAmerica_2021-11-04/ {getline; while(!/>/) {getline}} 1' > fixed_region_prev_sub_500.fasta
+cat fixed_region_prev_sub_500.fasta | awk '/>MPX_96X1Vd_9000217_WesternEurope_2022-03-28/ {getline; while(!/>/) {getline}} 1' > fixed_region_prev_sub_500_1.fasta
+cat fixed_region_prev_sub_500_1.fasta | awk '/>MPX_96X1Vd_9000216_WesternEurope_2022-03-28/ {getline; while(!/>/) {getline}} 1' >  fixed_region_prev_sub_500_2.fasta
+cat fixed_region_prev_sub_500_2.fasta | awk '/>MPX_96X1Vd_9000218_WesternEurope_2022-03-28/ {getline; while(!/>/) {getline}} 1' >  fixed_region_prev_sub_500_3.fasta
 
