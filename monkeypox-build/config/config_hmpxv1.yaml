@@ -21,7 +21,7 @@ min_length: 100000
 root_seq: "--include-where accession=ON676708"
 #max_sequences: "--subsample-max-sequences 500"
 sequences_per_group: "--sequences-per-group 11"
-subsample_seed: "--subsample-seed 213969" 
+subsample_seed: "--subsample-seed 12934871" 
 group_by: "--group-by year month country"
 filters: "--exclude-where outbreak!=hMPXV-1 
                           lineage=A lineage=A.1 lineage=A.1.1 lineage=A.2 lineage=A.2.1 lineage=A.2.2 lineage=A.2.3 lineage=A.3
@@ -55,4 +55,4 @@ mask:
 
 traits:
   sampling_bias_correction: 2.5
-  columns: "country"
+  columns: "region"

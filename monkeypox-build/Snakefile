@@ -54,7 +54,7 @@ else:
 include: "workflow/snakemake_rules/chores.smk"
 
 
-include: "workflow/snakemake_rules/core_prev_subsample.smk"
+include: "workflow/snakemake_rules/core.smk"
 
 
 if config.get("deploy_url"):

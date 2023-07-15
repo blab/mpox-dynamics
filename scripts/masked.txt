@@ -1,299 +1,1000 @@
 4061_SouthernEurope_2022-05-20	Southern Europe
 8887_SouthernEurope_2022-06-06	Southern Europe
-9000369_WesternEurope_2022-08-01	?
-9000385_WesternEurope_2022-09-19	Western Europe
-9000396_WesternEurope_2022-09-01	Western Europe
-9000407_WesternEurope_2022-09-18	Western Europe
-9000430_WesternEurope_2022-09-01	Western Europe
+9000398_WesternEurope_2022-09-01	Western Europe
+9000422_WesternEurope_2022-08-01	Western Europe
 9000431_WesternEurope_2022-09-01	Western Europe
-9000432_WesternEurope_2022-09-01	?
-CIBU-220035_WesternEurope_2022-06-08	Western Europe
 CMIP-P0_WesternEurope_2022-06-14	Western Europe
-MPXV/Germany/2022/RKI07_WesternEurope_2022-05-01	Western Europe
-MPXV_UK_2022_9000177_WesternEurope_2022-06-26	Western Europe
-MpxV/human/CAN/UN-NML-3921/2022_NorthAmerica_2022-06-29	North America
-MPXV/Germany/2022/RKI194_WesternEurope_2022-08-01	Western Europe
-PrEV_case_4_WesternEurope_2022-10-09	Western Europe
-MPXV/Germany/2022/RKI390_WesternEurope_2022-09-01	Western Europe
-Monkeypox/PT0305/2022_SouthernEurope_2022-06-06	Southern Europe
-MPXV_UK_2022_9000167_WesternEurope_2022-06-30	Western Europe
-hMPXV-IHU00017_WesternEurope_2022-07-22	Western Europe
-MP03CHUAC_SouthernEurope_2022-06-01	Southern Europe
-MPXV-CH-38134631/2022_WesternEurope_2022-05-19	Western Europe
-MPX_Qjmiyl_9000330_WesternEurope_2022-08-01	Western Europe
-MPX_96X1Vd_9000218_WesternEurope_2022-03-28	Western Europe
-MPXV-USA-IL-IDPH-036_NorthAmerica_2022-06-17	North America
-CVR_MPXV1d_WesternEurope_2022-05-15	Western Europe
-hMPXV-IHU00006_WesternEurope_2022-07-04	?
-MPXV_FVG-ITA_01_2022_SouthernEurope_2022-05-25	Southern Europe
-MPXV/Germany/2022/ON/RKI505_WesternEurope_2022-08-01	Western Europe
-MPXV_USA_2022_NY0022_NorthAmerica_2022-07-01	North America
-MPXV_GSTT_Patient1_WesternEurope_2022-05-11	Western Europe
-RNA_CentralEurope_2022-07-13	Central Europe
-hMPXV-IHU00013_WesternEurope_2022-07-20	Western Europe
-MPXV-USA-IL-IDPH-069_NorthAmerica_2022-06-28	North America
-MPXV_USA_2022_HI0003_NorthAmerica_2022-06-01	North America
-MPXV-CH-38156923/2022_WesternEurope_2022-05-24	Western Europe
-hMpxV/Human/USA/IL-RIPHL-MPXV_10005/2022_NorthAmerica_2022-09-07	North America
-MPXV/Germany/2022/RKI123_WesternEurope_2022-07-13	Western Europe
-MPX/PT0084/2022_SouthernEurope_2022-07-22	?
-MPXV/Germany/2022/ON/RKI510_WesternEurope_2022-10-01	Western Europe
-hMPXV/Austria/MUW1525179/2022_WesternEurope_2022-06-10	Western Europe
-ANT_INS_MPX_0039_L_SouthAmerica_2022-07-29	?
-hMPXV-IHU00018_WesternEurope_2022-07-22	Western Europe
-MP01CHUAC_SouthernEurope_2022-05-01	Southern Europe
-MPXV/Germany/2022/RKI424_WesternEurope_2022-09-01	Western Europe
-Monkeypox/PT0006/2022_SouthernEurope_2022-05-15	Southern Europe
-MPXV_USA_2022_CA002_NorthAmerica_2022-05-16	North America
-2022/2SLO_CentralEurope_2022-05-24	Central Europe
-hMPXV-IHU00001_WesternEurope_2022-06-13	Western Europe
-MPX/PT0128/2022_SouthernEurope_2022-07-12	Southern Europe
-Monkeypoxvirus/Human/USA/CA-LACPHL-MA00387/2022_NorthAmerica_2022-12-05	North America
-Monkeypoxvirus/Human/USA/CA-LACPHL-MA00232/2022_NorthAmerica_2022-07-15	North America
-Monkeypox/PT0591/2022_SouthernEurope_2022-09-13	Southern Europe
-Monkeypox/PT0355/2022_SouthernEurope_2022-05-22	Southern Europe
-Monkeypox/PT0308/2022_SouthernEurope_2022-06-06	Southern Europe
-hMPXV-CH-38212023/2022_WesternEurope_2022-05-30	Western Europe
-MpxV/human/CAN/UN-NML-3080/2022_NorthAmerica_2022-05-26	North America
-MPXV_UK_2022_4_WesternEurope_2022-05-16	Western Europe
-MpxV/Spain/MD-HGUGM-6642566/2022_SouthernEurope_2022-06-21	Southern Europe
-MPX/UZ_REGA_2/Belgium/2022_WesternEurope_2022-05-22	?
-MPXV_UK_2022_2_WesternEurope_2022-05-16	Western Europe
-MPX/Human/USA/CA-LACPHL-MA00136/2022_NorthAmerica_2022-08-08	North America
-Monkeypox/PT0382/2022_SouthernEurope_2022-07-12	Southern Europe
-MPXV/Germany/2022/RKI557_WesternEurope_2022-06-01	?
-INMI-Pt2_SouthernEurope_2022-05-19	Southern Europe
-MPXV/Germany/2022/RKI576_WesternEurope_2022-06-30	Western Europe
-hMpxV/Human/USA/IL-RIPHL-MPXV_10003/2022_NorthAmerica_2022-08-06	North America
-MPXV/Germany/2022/RKI582_WesternEurope_2022-06-01	Western Europe
-PEV_case_WesternEurope_2022-07-29	Western Europe
-MPXV/Germany/2022/RKI593_WesternEurope_2022-10-01	Western Europe
-Monkeypox/PT0475/2022_SouthernEurope_2022-08-08	Southern Europe
-hMPXV/Austria/MUW1532243/2022_WesternEurope_2022-07-06	?
-hMPX/USA/CA-LACPHL-MA00154/2022_NorthAmerica_2022-08-05	North America
-Monkeypox/PT0290/2022_SouthernEurope_2022-06-14	Southern Europe
-MPX_BhVKjm_9000233_WesternEurope_2022-07-13	Western Europe
-MpxV/human/CAN/UN-NML-3549/2022_NorthAmerica_2022-06-07	North America
-MpxV/human/CAN/UN-NML-3137/2022_NorthAmerica_2022-05-29	North America
-LBMB-UTP_MP-025_VAC_SouthAmerica_2022-11-15	South America
-Slovenia-MPXV-39-2022_CentralEurope_2022-08-01	Central Europe
-Monkeypox/PT0019/2022_SouthernEurope_2022-05-21	Southern Europe
+CIBU-220035_WesternEurope_2022-06-08	Western Europe
+MPXV_USA_2022_WA0014_NorthAmerica_2022-07-01	North America
+Monkeypox/PT0337/2022_SouthernEurope_2022-05-26	Southern Europe
+Monkeypox/PT0288/2022_SouthernEurope_2022-06-13	Southern Europe
+MPXV_UK_2022_6_WesternEurope_2022-05-01	Western Europe
+MPXV/Human/USA/CA-CDPH-MPX000033/2022_NorthAmerica_2022-08-01	North America
+Monkeypox/PT0016/2022_SouthernEurope_2022-05-23	Southern Europe
+MPXV_USA_2022_NY0031_NorthAmerica_2022-08-01	North America
 MPXV/Germany/2022/ON/RKI512_WesternEurope_2022-10-01	Western Europe
-INMI-Pt3_SouthernEurope_2022-05-19	?
-RNA_5bspwe_CentralEurope_2022-08-26	Central Europe
-Monkeypox/PT0333/2022_SouthernEurope_2022-05-27	Southern Europe
-INS-MPXV-0016-H1_SouthAmerica_2022-07-29	South America
-MpxV/human/CAN/UN-NML-3476/2022_NorthAmerica_2022-05-27	North America
-MPX_96X1Vd_9000216_WesternEurope_2022-03-28	Western Europe
-Monkeypox/PT0235/2022_SouthernEurope_2022-06-21	Southern Europe
-Monkeypox/PT0577/2022_SouthernEurope_2022-09-09	Southern Europe
-Monkeypox/PT0346/2022_SouthernEurope_2022-05-26	Southern Europe
-MPXV/Germany/2022/RKI03_WesternEurope_2022-05-01	Western Europe
-MPXV/Germany/2022/RKI526_WesternEurope_2022-06-01	Western Europe
-Slovenia-MPXV-41-2022_CentralEurope_2022-08-01	Central Europe
-MPX/UZ_REGA_3/Belgium/2022_WesternEurope_2022-05-27	Western Europe
-MPXV_USA_2022_CA001_NorthAmerica_2022-05-01	?
-MPXV_UK_2022_9000144_WesternEurope_2022-06-16	Western Europe
-MPX_96X1Vd_9000217_WesternEurope_2022-03-28	Western Europe
-MPX/UZ_REGA_5/Belgium/2022_WesternEurope_2022-05-27	Western Europe
-MPXV_IRBA22-14_WesternEurope_2022-05-20	Western Europe
-MpxV/human/USA/WA-UW-083179/2022_NorthAmerica_2022-08-01	North America
-MPX/UZ_REGA_4/Belgium/2022_WesternEurope_2022-05-27	Western Europe
-MpxV/human/USA/WA-UW-071246/2022_NorthAmerica_2022-07-01	North America
-MPXV_UK_2022_9000152_WesternEurope_2022-05-16	Western Europe
-MpxV/human/USA/WA-UW-077836/2022_NorthAmerica_2022-07-01	North America
-MPXV/Germany/2022/RKI010_WesternEurope_2022-05-01	Western Europe
-MpxV/human/CAN/UN-NML-3531/2022_NorthAmerica_2022-06-03	?
+MpxV/human/CAN/UN-NML-3530/2022_NorthAmerica_2022-06-03	North America
+MPXV/Germany/2022/RKI161_WesternEurope_2022-07-01	Western Europe
+MPX/Human/USA/CA-LACPHL-MA00146/2022_NorthAmerica_2022-09-02	North America
+MPXV_UK_2022_9000185_WesternEurope_2022-06-29	Western Europe
+MPXV/Germany/2022/RKI143_WesternEurope_2022-07-01	Western Europe
+MpxV/human/CAN/UN-NML-3486/2022_NorthAmerica_2022-06-08	North America
+Monkeypox/PT0026/2022_SouthernEurope_2022-05-18	Southern Europe
+hMPXV-IHU00018_WesternEurope_2022-07-22	Western Europe
+Monkeypox/PT0207/2022_SouthernEurope_2022-06-22	Southern Europe
+MPX/Human/USA/CA-LACPHL-MA00191/2022_NorthAmerica_2022-07-15	North America
+MPXV_UK_2022_2_WesternEurope_2022-05-15	Western Europe
+MPXV-USA-IL-IDPH-033_NorthAmerica_2022-06-15	?
+MPXV-CH-38134631/2022_WesternEurope_2022-05-19	Western Europe
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00231/2022_NorthAmerica_2022-10-04	North America
+MPXV/Germany/2022/RKI126_WesternEurope_2022-07-01	Western Europe
+MPXV/Germany/2022/RKI035_WesternEurope_2022-06-01	Western Europe
+MPXV/Germany/2022/RKI407_WesternEurope_2022-09-01	Western Europe
+MPXV/Human/USA/CA-CDPH-MPX000036/2022_NorthAmerica_2022-08-15	North America
+MpxV/human/USA/WA-UW-080976/2022_NorthAmerica_2022-08-01	North America
+hMPXV-IHU00006_WesternEurope_2022-07-04	Western Europe
+MpxV/human/USA/WA-UW-097661/2022_NorthAmerica_2022-09-01	North America
+Monkeypox/PT0349/2022_SouthernEurope_2022-05-26	Southern Europe
+MPXV_UK_2022_9000175_WesternEurope_2022-06-24	Western Europe
+Monkeypox/PT0354/2022_SouthernEurope_2022-05-23	Southern Europe
+Monkeypox/PT0398/2022_SouthernEurope_2022-07-15	Southern Europe
+Monkeypox/PT0339/2022_SouthernEurope_2022-05-26	Southern Europe
+MPXV_UK_2022_9000105_WesternEurope_2022-06-14	Western Europe
+MPXV/Human/USA/CA-CDPH-MPX000019/2022_NorthAmerica_2022-07-08	North America
+hMPX/Human/USA/CA-LACPHL-MA00083/2022_NorthAmerica_2022-07-13	?
+INMI-Pt3_SouthernEurope_2022-05-19	Southern Europe
+MPXV_UK_2022_1_WesternEurope_2022-05-01	?
+MPXV22/human/USA-OK-104_NorthAmerica_2022-08-02	North America
+Monkeypox/PT0006/2022_SouthernEurope_2022-05-15	Southern Europe
+Monkeypox/PT0001/2022_SouthernEurope_2022-05-04	Southern Europe
+MPXV_UK_2022_9000062_WesternEurope_2022-06-05	Western Europe
+MN-MDH-MPXV_0020_NorthAmerica_2022-07-21	North America
+hMPX/Human/USA/CA-LACPHL-MA00004/2022_NorthAmerica_2022-07-17	North America
+MPXV/Human/USA/UT-UPHL-82200096/2022_NorthAmerica_2022-07-21	North America
+MPX/Human/USA/CA-LACPHL-MA00187/2022_NorthAmerica_2022-09-27	North America
+Monkeypox/PT0340/2022_SouthernEurope_2022-05-26	Southern Europe
+hMPXV-CH-38212023/2022_WesternEurope_2022-05-30	Western Europe
+MPXV_USA_2022_NY0016_NorthAmerica_2022-07-01	North America
+Monkeypox/PT0009/2022_SouthernEurope_2022-05-15	Southern Europe
+MPXV_UK_2022_9000068_WesternEurope_2022-06-07	Western Europe
+Monkeypox/PT0196/2022_SouthernEurope_2022-06-27	Southern Europe
+hMPXV-IHU00007_WesternEurope_2022-07-06	Western Europe
+MPXV/Human/USA/CA-LACPHL-MA00284/2022_NorthAmerica_2022-09-28	North America
+Monkeypox/PT0030/2022_SouthernEurope_2022-05-26	Southern Europe
+Monkeypox/PT0342/2022_SouthernEurope_2022-05-26	Southern Europe
+MPXV/Germany/2022/RKI047_WesternEurope_2022-06-01	Western Europe
+Monkeypox/PT0242/2022_SouthernEurope_2022-06-21	Southern Europe
+MpxV/human/USA/WA-UW-089836/2022_NorthAmerica_2022-08-01	North America
+MPXV_USA_2022_PA0012_NorthAmerica_2022-09-01	?
+MPXV_UK_2022_9000173_WesternEurope_2022-05-26	Western Europe
+MpxV/human/USA/WA-UW-088081/2022_NorthAmerica_2022-08-01	North America
+MPXV_USA_2022_GA0019_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-086841/2022_NorthAmerica_2022-08-01	North America
+MPXV_UK_2022_9000177_WesternEurope_2022-06-26	Western Europe
+Monkeypox/PT0037/2022_SouthernEurope_2022-05-18	Southern Europe
+MPXV_USA_2022_PA0009_NorthAmerica_2022-09-01	North America
+NJ-MPXV-012_NorthAmerica_2022-08-17	North America
+Monkeypox/PT0350/2022_SouthernEurope_2022-05-24	Southern Europe
+MP03CHUAC_SouthernEurope_2022-06-01	Southern Europe
+Monkeypox/PT0023/2022_SouthernEurope_2022-05-19	Southern Europe
+CVR_MPXV1d_WesternEurope_2022-05-15	Western Europe
+Monkeypox/PT0213/2022_SouthernEurope_2022-06-24	Southern Europe
+MPXV_USA_2022_FL0029_NorthAmerica_2022-09-01	North America
+MPX/Human/USA/CA-LACPHL-MA00151/2022_NorthAmerica_2022-08-17	North America
+Monkeypox/PT0351/2022_SouthernEurope_2022-05-24	Southern Europe
+MPXV/Human/USA/CA-LACPHL-MA00359/2022_NorthAmerica_2022-11-05	North America
+Monkeypox/PT0048/2022_SouthernEurope_2022-05-13	Southern Europe
+MPXV/Germany/2022/RKI06_WesternEurope_2022-05-01	Western Europe
+MPXV-CH-38156923/2022_WesternEurope_2022-05-24	?
+Monkeypox/PT0019/2022_SouthernEurope_2022-05-21	Southern Europe
+Monkeypox/PT0328/2022_SouthernEurope_2022-05-31	Southern Europe
+Monkeypox/PT0208/2022_SouthernEurope_2022-06-24	Southern Europe
+hMPXV-IHU00013_WesternEurope_2022-07-20	Western Europe
+Monkeypox/PT0302/2022_SouthernEurope_2022-06-07	Southern Europe
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00277/2022_NorthAmerica_2022-10-13	North America
+MPX/Human/USA/CA-LACPHL-MA00121/2022_NorthAmerica_2022-09-12	North America
+MPXV/Germany/2022/RKI519_WesternEurope_2022-06-01	Western Europe
+MPXV_USA_2022_TN0005_NorthAmerica_2022-07-01	North America
+CVR_MPXV1c_WesternEurope_2022-05-15	Western Europe
+MPX_IMt4nT_9000212_WesternEurope_2022-07-01	Western Europe
+Monkeypox/PT0017/2022_SouthernEurope_2022-05-20	Southern Europe
+Monkeypox/PT0025/2022_SouthernEurope_2022-05-19	Southern Europe
+MPXV_USA_2022_MD0003_NorthAmerica_2022-06-01	North America
+Monkeypox/PT0003/2022_SouthernEurope_2022-05-15	Southern Europe
+NJ-MPXV-007-rpt1_NorthAmerica_2022-08-05	North America
+NJ-MPXV-050_NorthAmerica_2022-07-01	North America
+Monkeypox/PT0004/2022_SouthernEurope_2022-05-17	Southern Europe
+Monkeypox/PT0034/2022_SouthernEurope_2022-05-26	Southern Europe
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00261/2022_NorthAmerica_2022-09-23	North America
+MpxV/human/USA/WA-UW-085249/2022_NorthAmerica_2022-08-01	North America
+Monkeypox/PT0345/2022_SouthernEurope_2022-05-26	Southern Europe
 hMPXV-IHU00005_WesternEurope_2022-07-04	Western Europe
-MPX/human/USA/UT-UPHL-82200022/2022_NorthAmerica_2022-05-20	?
-hMpxV/Human/USA/IL-RIPHL-MPXV_10006/2022_NorthAmerica_2022-08-08	North America
-Monkeypox/PT0437/2022_SouthernEurope_2022-08-02	Southern Europe
-Monkeypox/PT0155/2022_SouthernEurope_2022-07-06	Southern Europe
-MpxV/human/CAN/UN-NML-3141/2022_NorthAmerica_2022-05-27	North America
-RNA_1n65mx_CentralEurope_2022-07-25	Central Europe
-RNA_40uloh_CentralEurope_2022-07-25	?
-BOL-UNIMOL-MPX-293165-L_SouthAmerica_2022-08-09	South America
-Slovenia-MPXV-43-2022_CentralEurope_2022-08-09	Central Europe
-Monkeypox/PT0469/2022_SouthernEurope_2022-08-08	Southern Europe
-hMPXV/Austria/MUW1536480/2022_WesternEurope_2022-07-22	Western Europe
-RNA_3vulpn_CentralEurope_2022-08-31	?
-RNA_1bp4xw_CentralEurope_2022-08-01	Central Europe
-RNA_2cx9dr_CentralEurope_2022-08-01	Central Europe
-RNA_4xpo03_CentralEurope_2022-07-25	Central Europe
-hMPXV/Austria/MUW1540386/2022_WesternEurope_2022-08-08	Western Europe
-hMPXV/Austria/MUW1533948/2022_WesternEurope_2022-07-13	Western Europe
-RNA_67xdvf_CentralEurope_2022-07-20	Central Europe
-RNA_61uldk_CentralEurope_2022-08-09	Central Europe
-MPXV/Human/USA/MA-USAFSAM-M0002/2022_NorthAmerica_2022-09-13	North America
-MPXV_USA_2022_SC0003_NorthAmerica_2022-07-01	North America
-MPXV/Germany/2022/RKI592_WesternEurope_2022-10-01	Western Europe
-MPXV/Germany/2022/RKI571_WesternEurope_2022-10-01	Western Europe
-MPXV/Germany/2022/RKI558_WesternEurope_2022-06-30	Western Europe
-MPXV_USA_2022_NY004_NorthAmerica_2022-05-31	?
-Monkeypoxvirus/Human/USA/CA-LACPHL-MA00370/2022_NorthAmerica_2022-10-26	North America
-MPXV_USA_2022_VA0003_NorthAmerica_2022-06-29	North America
-hMPXV/Austria/MUW1531848/2022_WesternEurope_2022-07-05	Western Europe
-hMPXV/Austria/MUW1533374/2022_WesternEurope_2022-07-11	Western Europe
-Monkeypox/PT0229/2022_SouthernEurope_2022-06-22	Southern Europe
-Monkeypox/PT0045/2022_SouthernEurope_2022-06-06	Southern Europe
-MPX_ElGfGw_9000328_WesternEurope_2022-08-01	Western Europe
+Monkeypox/PT0011/2022_SouthernEurope_2022-05-23	Southern Europe
+MPXV22/human/USA-OK-67_NorthAmerica_2022-07-19	North America
+MPXV/Germany/2022/RKI024_WesternEurope_2022-05-01	Western Europe
+MPXV_UK_2022_9000144_WesternEurope_2022-06-16	Western Europe
+MpxV/human/USA/WA-UW-084909/2022_NorthAmerica_2022-08-01	North America
+Monkeypox/PT0012/2022_SouthernEurope_2022-05-23	Southern Europe
+Monkeypox/PT0022/2022_SouthernEurope_2022-05-19	Southern Europe
+MpxV/human/CAN/UN-NML-3531/2022_NorthAmerica_2022-06-03	North America
+MpxV/human/USA/WA-UW-071246/2022_NorthAmerica_2022-07-01	North America
+MpxV/human/USA/WA-UW-089563/2022_NorthAmerica_2022-08-01	North America
+Monkeypox/PT0021/2022_SouthernEurope_2022-05-19	Southern Europe
+CVR_MPXV1e_WesternEurope_2022-05-15	Western Europe
+MpxV/human/USA/WA-UW-094434/2022_NorthAmerica_2022-09-01	North America
+Monkeypox/PT0024/2022_SouthernEurope_2022-05-19	Southern Europe
+MpxV/human/USA/WA-UW-089987/2022_NorthAmerica_2022-08-01	North America
+Monkeypox/PT0036/2022_SouthernEurope_2022-05-26	Southern Europe
+MPX/UZ_REGA_6/Belgium/2022_WesternEurope_2022-05-27	Western Europe
+MPX/UZ_REGA_5/Belgium/2022_WesternEurope_2022-05-27	Western Europe
+Monkeypox/PT0018/2022_SouthernEurope_2022-05-20	Southern Europe
+CVR_MPXV1b_WesternEurope_2022-05-15	Western Europe
+MPXV/Germany/2022/RKI052_WesternEurope_2022-06-01	Western Europe
+MpxV/human/USA/WA-UW-089475/2022_NorthAmerica_2022-08-01	North America
+MpxV/human/USA/WA-UW-098936/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-089807/2022_NorthAmerica_2022-08-01	North America
+MpxV/human/CAN/UN-NML-3702/2022_NorthAmerica_2022-06-15	North America
+MpxV/human/USA/WA-UW-083578/2022_NorthAmerica_2022-08-01	?
+MpxV/human/CAN/UN-NML-3472/2022_NorthAmerica_2022-06-02	North America
+MPXV_IRBA22-14_WesternEurope_2022-05-20	Western Europe
+MPXV_UK_2022_9000090_WesternEurope_2022-05-25	Western Europe
+MPX/UZ_REGA_4/Belgium/2022_WesternEurope_2022-05-27	Western Europe
+MpxV/human/USA/WA-UW-086118/2022_NorthAmerica_2022-08-01	North America
+MPX/UZ_REGA_3/Belgium/2022_WesternEurope_2022-05-27	Western Europe
+Monkeypox/PT0013/2022_SouthernEurope_2022-05-20	Southern Europe
+MPXV_UK_2022_9000063_WesternEurope_2022-06-06	Western Europe
+Monkeypox/PT0014/2022_SouthernEurope_2022-05-23	Southern Europe
+MPXV/Germany/2022/RKI010_WesternEurope_2022-05-01	?
+MpxV/human/USA/WA-UW-083179/2022_NorthAmerica_2022-08-01	North America
+MPXV/Germany/2022/RKI173_WesternEurope_2022-07-01	Western Europe
+hMPXV-IHU00003_WesternEurope_2022-07-04	Western Europe
+MPXV/Germany/2022/RKI144_WesternEurope_2022-07-01	Western Europe
+MpxV/human/USA/WA-UW-089714/2022_NorthAmerica_2022-08-01	North America
+MPXV_UK_2022_9000152_WesternEurope_2022-05-16	Western Europe
+Monkeypox/PT0195/2022_SouthernEurope_2022-06-28	Southern Europe
+MPXV/Germany/2022/RKI105_WesternEurope_2022-07-01	Western Europe
+MPXV-USA-IL-IDPH-083_NorthAmerica_2022-07-04	North America
+MPXV_USA_2022_DC0014_NorthAmerica_2022-07-01	North America
+MPXV/Germany/2022/RKI583_WesternEurope_2022-06-01	Western Europe
+MPXV_USA_2022_NY0032_NorthAmerica_2022-07-01	North America
+MN-MDH-MPXV_0004_NorthAmerica_2022-06-27	North America
+NJ-MPXV-008-rpt1_NorthAmerica_2022-08-12	North America
+Monkeypox/PT0154/2022_SouthernEurope_2022-07-06	Southern Europe
+hMpxV/Human/USA/IL-RIPHL-MPXV_10005/2022_NorthAmerica_2022-09-07	North America
+hMPXV-IHU00017_WesternEurope_2022-07-22	Western Europe
+MpxV/human/USA/WA-UW-081100/2022_NorthAmerica_2022-08-01	North America
+MPXV/Germany/2022/RKI095_WesternEurope_2022-06-01	?
+Monkeypox/PT0007/2022_SouthernEurope_2022-05-15	Southern Europe
+MPXV/Human/USA/CA-CDPH-MPX000039/2022_NorthAmerica_2022-08-18	North America
+MPXV-USA-IL-IDPH-022_NorthAmerica_2022-06-01	North America
+MpxV/human/CAN/UN-NML-3913/2022_NorthAmerica_2022-06-28	North America
+MPXV/Human/USA/CA-CDPH-MPX000028/2022_NorthAmerica_2022-07-11	North America
+MpxV/human/CAN/UN-NML-3658/2022_NorthAmerica_2022-06-10	North America
+hMPXV-IHU00010_WesternEurope_2022-07-18	Western Europe
+hMPXV-IHU00014_WesternEurope_2022-07-22	Western Europe
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00271/2022_NorthAmerica_2022-07-14	North America
+MpxV/Spain/MD-HGUGM-66649483/2022_SouthernEurope_2022-05-27	Southern Europe
 MPXV_UK_2022_5_WesternEurope_2022-05-16	Western Europe
-Monkeypox/PT0571/2022_SouthernEurope_2022-09-05	Southern Europe
-Monkeypox/PT0566/2022_SouthernEurope_2022-08-31	Southern Europe
-Monkeypox/PT0347/2022_SouthernEurope_2022-05-26	Southern Europe
-hMpxV/UK/LMO-040a/2022_WesternEurope_2022-07-17	Western Europe
+Monkeypox/PT0333/2022_SouthernEurope_2022-05-27	Southern Europe
+MPXV/Germany/2022/RKI176_WesternEurope_2022-07-01	Western Europe
+MpxV/human/USA/WA-UW-091343/2022_NorthAmerica_2022-09-01	North America
+MPXV/Human/USA/CA-CDPH-MPX000020/2022_NorthAmerica_2022-07-12	North America
+hMPX/Human/USA/CA-LACPHL-MA00003/2022_NorthAmerica_2022-07-17	North America
+MPXV/Human/USA/CA-LACPHL-MA00360/2022_NorthAmerica_2022-11-02	North America
+MN-MDH-MPXV_0013_NorthAmerica_2022-07-14	North America
+Monkeypox/PT0029/2022_SouthernEurope_2022-05-27	Southern Europe
+MpxV/human/CAN/UN-NML-3595/2022_NorthAmerica_2022-06-08	North America
+Monkeypox/PT0332/2022_SouthernEurope_2022-05-27	Southern Europe
+Monkeypox/PT0038/2022_SouthernEurope_2022-05-24	?
+hMPX/Human/USA/CA-LACPHL-MA00020/2022_NorthAmerica_2022-07-27	North America
+MpxV/human/CAN/UN-NML-3344/2022_NorthAmerica_2022-06-01	North America
+MPXV/Germany/2022/RKI091_WesternEurope_2022-06-01	Western Europe
+MPXV_USA_2022_RI0002_NorthAmerica_2022-07-01	North America
+MPXV_USA_2022_AZ0002_NorthAmerica_2022-07-01	North America
+MpxV/human/USA/WA-UW-082029/2022_NorthAmerica_2022-08-01	North America
+MpxV/human/USA/WA-UW-092990/2022_NorthAmerica_2022-09-01	North America
+MPXV-USA-IL-IDPH-079_NorthAmerica_2022-07-02	North America
+Monkeypox/PT0335/2022_SouthernEurope_2022-05-29	Southern Europe
+MPXV/Germany/2022/RKI012_WesternEurope_2022-05-01	Western Europe
+MPX/Human/USA/CA-LACPHL-MA00185/2022_NorthAmerica_2022-09-26	North America
+Monkeypox/PT0184/2022_SouthernEurope_2022-06-28	Southern Europe
+Monkeypox/PT0348/2022_SouthernEurope_2022-05-25	Southern Europe
+INMI-Pt1_SouthernEurope_2022-05-18	Southern Europe
+MPXV_UK_2022_4_WesternEurope_2022-05-15	Western Europe
+MPX/UZ_REGA_1/Belgium/2022_WesternEurope_2022-05-19	Western Europe
+Monkeypox/PT0581/2022_SouthernEurope_2022-07-28	Southern Europe
+Monkeypox/PT0028/2022_SouthernEurope_2022-05-18	Southern Europe
+Monkeypox/PT0002/2022_SouthernEurope_2022-05-15	Southern Europe
+INMI-Pt2_SouthernEurope_2022-05-19	Southern Europe
+MPXV/Germany/2022/RKI084_WesternEurope_2022-06-01	Western Europe
+MP01CHUAC_SouthernEurope_2022-05-01	Southern Europe
+MPXV/Germany/2022/RKI04_WesternEurope_2022-05-01	Western Europe
+MPXV/Germany/2022/RKI552_WesternEurope_2022-06-01	Western Europe
+MPXV_UK_2022_9000069_WesternEurope_2022-06-11	?
+Monkeypox/PT0032/2022_SouthernEurope_2022-05-26	Southern Europe
+Monkeypox/PT0355/2022_SouthernEurope_2022-05-22	Southern Europe
+MPXV/Germany/2022/RKI549_WesternEurope_2022-06-01	Western Europe
+MpxV/human/USA/WA-UW-099881/2022_NorthAmerica_2022-09-30	North America
+MPXV/Germany/2022/RKI061_WesternEurope_2022-06-28	Western Europe
+MPX/Human/USA/CA-LACPHL-MA00258/2022_NorthAmerica_2022-07-12	North America
+MPXV/Germany/2022/RKI576_WesternEurope_2022-06-30	Western Europe
+MPXV/Human/USA/CA-LACPHL-MA00351/2022_NorthAmerica_2022-10-11	North America
+Monkeypox/PT0046/2022_SouthernEurope_2022-05-30	Southern Europe
+MPXV_UK_2022_9000074_WesternEurope_2022-06-09	Western Europe
+PEV_case_WesternEurope_2022-07-29	Western Europe
+CUN_INS_MPX_0748_L_SouthAmerica_2022-09-03	South America
+MPXV/Human/USA/CA-LACPHL-MA00349/2022_NorthAmerica_2022-10-08	North America
+MPXV22/human/USA-OK-302_NorthAmerica_2022-09-14	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00371/2022_NorthAmerica_2022-10-24	North America
+MPXV_USA_2022_IL0031_NorthAmerica_2022-07-01	North America
+hMpxV/Human/USA/IL-RIPHL-MPXV_10001/2022_NorthAmerica_2022-09-10	North America
+hMPX/USA/CA-LACPHL-MA00170/2022_NorthAmerica_2022-09-20	North America
+MPXV/Human/USA/CA-LACPHL-MA00298/2022_NorthAmerica_2022-09-30	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00260/2022_NorthAmerica_2022-10-17	North America
+Monkeypox/PT0412/2022_SouthernEurope_2022-07-25	Southern Europe
+Monkeypox/PT0010/2022_SouthernEurope_2022-05-15	Southern Europe
+MPXV_USA_2022_IL0029_NorthAmerica_2022-09-01	North America
+NJ-MPXV-048_NorthAmerica_2022-07-22	North America
+hMPX/Human/USA/CA-LACPHL-MA00030/2022_NorthAmerica_2022-07-26	North America
+hMPX/USA/CA-LACPHL-MA00180/2022_NorthAmerica_2022-09-21	North America
+MPXV/Germany/2022/RKI516_WesternEurope_2022-06-24	Western Europe
+hMPXV-IHU00001_WesternEurope_2022-06-13	Western Europe
+MpxV/human/USA/Unknown-UW-102378/2022_NorthAmerica_2022-10-01	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00387/2022_NorthAmerica_2022-12-05	North America
+MPX/Human/USA/CA-LACPHL-MA00113/2022_NorthAmerica_2022-08-30	North America
+hMPX/Human/USA/CA-LACPHL-MA00090/2022_NorthAmerica_2022-07-29	North America
+MPXV_UK_2022_9000137_WesternEurope_2022-07-07	Western Europe
+MPXV/Germany/2022/RKI528_WesternEurope_2022-07-25	Western Europe
+hMpxV/Human/USA/IL-RIPHL-MPXV_10007/2022_NorthAmerica_2022-09-08	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00378/2022_NorthAmerica_2022-10-11	North America
+MPXV/Human/USA/CA-LACPHL-MA00358/2022_NorthAmerica_2022-11-05	North America
+MPXV/Human/USA/CA-LACPHL-MA00307/2022_NorthAmerica_2022-09-28	North America
+MPXV/Human/USA/CA-LACPHL-MA00301/2022_NorthAmerica_2022-09-27	North America
+MPXV/Human/USA/CA-LACPHL-MA00287/2022_NorthAmerica_2022-10-04	North America
+LBMB-UTP_MP-009_TOL_SouthAmerica_2022-09-13	South America
+hMPXV/Austria/MUW1533948/2022_WesternEurope_2022-07-13	Western Europe
+MPXV_UK_2022_9000191_WesternEurope_2022-07-04	Western Europe
+MPX_wQMHV0_9000204_WesternEurope_2022-07-01	Western Europe
+MPXV/Human/USA/CA-LACPHL-MA00354/2022_NorthAmerica_2022-10-16	North America
+MPXV_UK_2022_9000108_WesternEurope_2022-06-14	Western Europe
+MPX/UZ_REGA_2/Belgium/2022_WesternEurope_2022-05-22	Western Europe
+Monkeypox/PT0243/2022_SouthernEurope_2022-06-21	Southern Europe
+Monkeypox/PT0338/2022_SouthernEurope_2022-05-26	Southern Europe
+Monkeypox/PT0314/2022_SouthernEurope_2022-06-05	Southern Europe
+MPX_KMgssq_9000236_WesternEurope_2022-07-23	Western Europe
+MPXV_UK_2022_9000157_WesternEurope_2022-07-07	Western Europe
+MPXV/Germany/2022/RKI056_WesternEurope_2022-06-25	Western Europe
+MPXV_UK_2022_9000167_WesternEurope_2022-06-30	Western Europe
+MPXV/Germany/2022/RKI037_WesternEurope_2022-06-25	Western Europe
+DC_INS_MPX_1011_L_SouthAmerica_2022-09-20	South America
+MPXV_UK_2022_9000107_WesternEurope_2022-06-13	Western Europe
+MPXV_UK_2022_3_WesternEurope_2022-05-31	?
+Monkeypox/PT0281/2022_SouthernEurope_2022-06-09	Southern Europe
+MPX_YhLyQX_9000266_WesternEurope_2022-08-01	?
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00392/2022_NorthAmerica_2022-12-06	North America
+Monkeypox/PT0347/2022_SouthernEurope_2022-05-26	?
+hMpxV/UK/LMO-031a/2022_WesternEurope_2022-07-08	Western Europe
 hMpxV/UK/LMO-004a/2022_WesternEurope_2022-06-20	Western Europe
-MPXV/ITM_pt_09/Belgium/2-Jun-2022_WesternEurope_2022-06-02	?
+hMpxV/UK/LMO-007a/2022_WesternEurope_2022-06-20	Western Europe
+Monkeypox/PT0044/2022_SouthernEurope_2022-05-30	Southern Europe
+MPXV/Germany/2022/RKI151_WesternEurope_2022-07-01	?
+MPXV/Germany/2022/RKI296_WesternEurope_2022-08-31	Western Europe
+MPXV_USA_2022_NC0012_NorthAmerica_2022-09-22	North America
+B1118395_NorthAmerica_2022-09-03	North America
+B1118436_NorthAmerica_2022-10-02	North America
+B1118394_NorthAmerica_2022-09-04	North America
+hMpxV/USA/CA-CDPH-1000064/2022_NorthAmerica_2022-07-25	?
+MPX/Human/USA/CA-LACPHL-MA00102/2022_NorthAmerica_2022-09-01	North America
+MPXV/Human/USA/CA-LACPHL-MA00300/2022_NorthAmerica_2022-09-27	North America
+MPX/Human/USA/CA-LACPHL-MA00105/2022_NorthAmerica_2022-08-24	North America
+MPX/Human/USA/CA-LACPHL-MA00141/2022_NorthAmerica_2022-08-25	North America
+hMpxV/UK/LMO-032a/2022_WesternEurope_2022-07-11	Western Europe
+MPXV_UK_2022_9000150_WesternEurope_2022-06-16	Western Europe
+MPXV_USA_2022_CA0030_NorthAmerica_2022-09-01	North America
+MPXV_USA_2022_AZ0006_NorthAmerica_2022-08-21	North America
+MPXV/Human/USA/CA-LACPHL-MA00341/2022_NorthAmerica_2022-10-19	North America
+MpxV/human/USA/WA-UW-104793/2022_NorthAmerica_2022-10-06	North America
+MpxV/human/USA/WA-UW-092912/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-082880/2022_NorthAmerica_2022-08-23	North America
+MpxV/human/USA/WA-UW-084082/2022_NorthAmerica_2022-08-25	North America
+MPXV/Human/USA/CA-LACPHL-MA00350/2022_NorthAmerica_2022-10-11	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00366/2022_NorthAmerica_2022-08-19	North America
+hMPX/Human/USA/CA-LACPHL-MA00066/2022_NorthAmerica_2022-08-18	North America
+MPXV_USA_2022_MD0007_NorthAmerica_2022-09-01	North America
+MPXV/ITM_pt_09/Belgium/2-Jun-2022_WesternEurope_2022-06-02	Western Europe
 MPXV/ITM_pt_24/Belgium/16-Jun-2022_WesternEurope_2022-06-16	Western Europe
-MPXV/ITM_pt_07/Belgium/30-May-2022_WesternEurope_2022-05-30	Western Europe
+MPXV/ITM_pt_05/Belgium/30-May-2022_WesternEurope_2022-05-30	Western Europe
 MPXV/ITM_pt_10/Belgium/1-Jun-2022_WesternEurope_2022-06-01	Western Europe
-LBMB-UTP_MP-013_VAC_SouthAmerica_2022-11-11	South America
-BOL-UNIMOL-MPX-293772-L_SouthAmerica_2022-11-17	?
-ANT-LDSP-ANT-MPX-25390E_SouthAmerica_2022-09-12	South America
-MPX/Human/USA/CA-LACPHL-MA00206/2022_NorthAmerica_2022-09-13	North America
-Monkeypoxvirus/Human/USA/CA-LACPHL-MA00400/2022_NorthAmerica_2022-12-19	North America
-MPXV/Human/USA/CA-LACPHL-MA00327/2022_NorthAmerica_2022-11-09	North America
-MPXV/Human/USA/CA-LACPHL-MA00336/2022_NorthAmerica_2022-11-09	North America
-MPXV/Human/USA/CA-LACPHL-MA00330/2022_NorthAmerica_2022-11-09	North America
-Monkeypoxvirus/Human/USA/CA-LACPHL-MA00399/2022_NorthAmerica_2022-12-30	North America
-Monkeypoxvirus/Human/USA/CA-LACPHL-MA00397/2023_NorthAmerica_2023-01-03	North America
+hMpxV/USA/CA-CDPH-1000074/2022_NorthAmerica_2022-10-14	North America
+hMpxV/USA/CA-CDPH-000055/2022_NorthAmerica_2022-10-07	?
+hMpxV/USA/CA-CDPH-000056/2022_NorthAmerica_2022-10-07	North America
+MPXV/Human/USA/CA-LACPHL-MA00353/2022_NorthAmerica_2022-10-12	North America
+hMPX/USA/CA-LACPHL-MA00162/2022_NorthAmerica_2022-09-22	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00218/2022_NorthAmerica_2022-10-05	?
+MPXV/Human/USA/CA-LACPHL-MA00285/2022_NorthAmerica_2022-09-27	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00211/2022_NorthAmerica_2022-09-30	North America
+MPXV-BY-IMB25241_WesternEurope_2022-05-19	Western Europe
+MpxV/Spain/MD-HGUGM-6642566/2022_SouthernEurope_2022-06-21	Southern Europe
+MPXV/Germany/2022/RKI530_WesternEurope_2022-07-31	Western Europe
+Monkeypox/PT0150/2022_SouthernEurope_2022-07-06	Southern Europe
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00228/2022_NorthAmerica_2022-10-04	North America
+MpxV/human/USA/WA-UW-084693/2022_NorthAmerica_2022-08-01	North America
 Monkeypoxvirus/Human/USA/CA-LACPHL-MA00396/2023_NorthAmerica_2023-01-03	North America
 Monkeypoxvirus/Human/USA/CA-LACPHL-MA00398/2023_NorthAmerica_2023-01-03	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00372/2022_NorthAmerica_2022-10-18	North America
 MPX/Human/USA/CA-LACPHL-MA00254/2022_NorthAmerica_2022-10-11	North America
+MPX/Human/USA/CA-LACPHL-MA00140/2022_NorthAmerica_2022-08-19	?
+Monkeypox/PT0365/2022_SouthernEurope_2022-06-27	Southern Europe
+hMPX/USA/CA-LACPHL-MA00157/2022_NorthAmerica_2022-09-22	North America
+MPXV_USA_2022_MI0003_NorthAmerica_2022-08-31	North America
+MPXV_UK_2022_9000164_WesternEurope_2022-07-05	Western Europe
+MPX/Human/USA/CA-LACPHL-MA00152/2022_NorthAmerica_2022-08-23	North America
+MPX/Human/USA/CA-LACPHL-MA00099/2022_NorthAmerica_2022-08-26	North America
+hMPX/Human/USA/CA-LACPHL-MA00001/2022_NorthAmerica_2022-07-18	North America
+MPXV/Human/USA/UT-UPHL-82200116/2022_NorthAmerica_2022-07-22	?
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00377/2022_NorthAmerica_2022-10-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00347/2022_NorthAmerica_2022-10-09	North America
+hMpxV/USA/CA-CDPH-000058/2022_NorthAmerica_2022-09-25	North America
+MPX_Q9BB92_9000206_WesternEurope_2022-06-26	Western Europe
+MPXV_UK_2022_9000184_WesternEurope_2022-06-30	Western Europe
+MPXV/Germany/2022/RKI370_WesternEurope_2022-09-11	Western Europe
+MPXV_UK_2022_9000142_WesternEurope_2022-06-15	Western Europe
+MPXV_USA_2022_NC0011_NorthAmerica_2022-09-01	North America
+MPXV_USA_2022_OH0003_NorthAmerica_2022-08-24	North America
+MpxV/human/USA/WA-UW-098347/2022_NorthAmerica_2022-09-24	North America
+MPXV/Human/USA/UT-UPHL-82200237/2022_NorthAmerica_2022-08-05	North America
+hMPX/Human/USA/CA-LACPHL-MA00029/2022_NorthAmerica_2022-07-27	North America
+MpxV/human/USA/WA-UW-098738/2022_NorthAmerica_2022-09-02	North America
+Monkeypox/PT0175/2022_SouthernEurope_2022-06-29	Southern Europe
+MPX/Human/USA/CA-LACPHL-MA00184/2022_NorthAmerica_2022-07-27	North America
+Monkeypox/PT0186/2022_SouthernEurope_2022-06-28	?
+Monkeypox/PT0371/2022_SouthernEurope_2022-07-05	Southern Europe
+Monkeypox/PT0238/2022_SouthernEurope_2022-06-21	Southern Europe
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00388/2022_NorthAmerica_2022-12-10	?
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00217/2022_NorthAmerica_2022-09-29	North America
+hMPX/Human/USA/CA-LACPHL-MA00050/2022_NorthAmerica_2022-07-20	?
+MpxV/human/USA/WA-UW-083506/2022_NorthAmerica_2022-08-25	North America
+MpxV/human/USA/WA-UW-080100/2022_NorthAmerica_2022-08-25	?
+MpxV/human/USA/WA-UW-096529/2022_NorthAmerica_2022-09-28	North America
+MpxV/human/USA/WA-UW-094364/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-088432/2022_NorthAmerica_2022-08-01	North America
+MPXV_USA_2022_CT0001_NorthAmerica_2022-07-01	North America
+MpxV/human/USA/WA-UW-085462/2022_NorthAmerica_2022-08-01	North America
 Monkeypoxvirus/Human/USA/CA-LACPHL-MA00394/2022_NorthAmerica_2022-12-23	North America
-MPXV/Human/USA/CA-LACPHL-MA00362/2022_NorthAmerica_2022-10-28	North America
+MPXV/Human/USA/CA-LACPHL-MA00355/2022_NorthAmerica_2022-10-16	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00395/2022_NorthAmerica_2022-12-23	North America
+MPXV/Human/USA/CA-LACPHL-MA00362/2022_NorthAmerica_2022-10-28	?
 MPXV/Human/USA/CA-LACPHL-MA00357/2022_NorthAmerica_2022-11-08	North America
-Monkeypoxvirus/Human/USA/CA-LACPHL-MA00374/2022_NorthAmerica_2022-11-23	North America
 MPXV/Human/USA/CA-LACPHL-MA00321/2022_NorthAmerica_2022-10-27	North America
-MPXV_IRBA22-11_WesternEurope_2022-05-19	Western Europe
-hMPXV-IHU00004_WesternEurope_2022-07-04	Western Europe
-ID6821_SouthernEurope_2022-06-21	Southern Europe
-MPXV-1047_WesternEurope_2022-06-07	Western Europe
-MPXV22/human/USA-NE-25_NorthAmerica_2022-06-25	North America
-Monkeypoxvirus/Human/USA/CA-LACPHL-MA00393/2022_NorthAmerica_2022-12-13	North America
-hMpxV/USA/CA-CDPH-000055/2022_NorthAmerica_2022-10-07	North America
-Monkeypox/PT0578/2022_SouthernEurope_2022-09-12	Southern Europe
-hMPXV/Austria/MUW1539124/2022_WesternEurope_2022-08-02	Western Europe
-hMPXV/Austria/MUW1538395/2022_WesternEurope_2022-08-01	Western Europe
-hMPXV/Austria/MUW1531254/2022_WesternEurope_2022-07-04	Western Europe
-Monkeypox/PT0395/2022_SouthernEurope_2022-07-13	Southern Europe
-MPX/PT0065/2022_SouthernEurope_2022-07-27	Southern Europe
-MpxV/human/CAN/UN-NML-3976/2022_NorthAmerica_2022-07-04	?
-MpxV/human/CAN/UN-NML-4024/2022_NorthAmerica_2022-07-05	North America
-MpxV/human/CAN/UN-NML-3975/2022_NorthAmerica_2022-07-04	North America
-MpxV/human/CAN/UN-NML-3257/2022_NorthAmerica_2022-05-30	North America
-MPXV/Germany/2022/RKI396_WesternEurope_2022-09-01	Western Europe
-PatientMPXV_WesternEurope_2022-06-10	Western Europe
-MPX/Human/USA/CA-LACPHL-MA00116/2022_NorthAmerica_2022-09-14	North America
-MPX_bSkpM3_9000334_WesternEurope_2022-08-31	?
-MPXV_USA_2022_FL0011_NorthAmerica_2022-06-30	?
-PrEV_case_2_WesternEurope_2022-10-02	Western Europe
-hMpxV/UK/LMO-029a/2022_WesternEurope_2022-07-07	Western Europe
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00374/2022_NorthAmerica_2022-11-23	North America
+MPXV/Human/USA/CA-LACPHL-MA00340/2022_NorthAmerica_2022-10-23	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00283/2022_NorthAmerica_2022-10-19	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00278/2022_NorthAmerica_2022-10-20	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00279/2022_NorthAmerica_2022-10-20	North America
+hMPX/Human/USA/CA-LACPHL-MA00026/2022_NorthAmerica_2022-07-21	North America
+MPXV/Germany/2022/RKI018_WesternEurope_2022-05-31	Western Europe
+CES-UNIMOL-MPX-202203848-L_SouthAmerica_2022-09-14	South America
+MET_INS_MPX_0956_C_SouthAmerica_2022-10-12	South America
+CES-UNIMOL-MPX-202203853-L_SouthAmerica_2022-09-15	South America
+DC_INS_MPX_1037_L_SouthAmerica_2022-09-20	South America
+DC_INS_MPX_0998_L_SouthAmerica_2022-09-20	South America
+MpxV/human/USA/WA-UW-082002/2022_NorthAmerica_2022-08-24	North America
+MPXV/Human/USA/CA-CDPH-MPX000022/2022_NorthAmerica_2022-07-12	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00385/2022_NorthAmerica_2022-10-21	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00384/2022_NorthAmerica_2022-10-21	North America
+MPXV_USA_2022_FL0026_NorthAmerica_2022-09-01	North America
+MPXV_USA_2022_AL0001_NorthAmerica_2022-08-31	North America
+MPX/Human/USA/CA-LACPHL-MA00104/2022_NorthAmerica_2022-08-11	North America
+MPX/Human/USA/CA-LACPHL-MA00136/2022_NorthAmerica_2022-08-08	?
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00365/2022_NorthAmerica_2022-10-19	North America
+MPX/Human/USA/CA-LACPHL-MA00253/2022_NorthAmerica_2022-10-11	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00375/2022_NorthAmerica_2022-10-06	North America
+VAC_INS_MPX_0958_L_SouthAmerica_2022-10-13	South America
+LBMB-UTP_MP-025_VAC_SouthAmerica_2022-11-15	South America
+VAC_INS_MPX_1052_E_SouthAmerica_2022-10-25	South America
+VAC_INS_MPX_0965_EL_SouthAmerica_2022-10-12	South America
+VAC_INS_MPX_0965_HL_SouthAmerica_2022-10-12	South America
+MpxV/human/USA/WA-UW-074372/2022_NorthAmerica_2022-07-17	North America
+MpxV/human/USA/WA-UW-079141/2022_NorthAmerica_2022-07-25	North America
+MpxV/human/USA/WA-UW-089437/2022_NorthAmerica_2022-08-31	North America
+MPXV22/human/USA-NE-111_NorthAmerica_2022-08-03	North America
+MPXV22/human/USA-NE-43_NorthAmerica_2022-07-14	North America
+MPXV/Germany/2022/RKI013_WesternEurope_2022-06-13	Western Europe
+Monkeypox/PT0356/2022_SouthernEurope_2022-05-23	Southern Europe
+MPXV_USA_2022_UT0003_NorthAmerica_2022-07-09	?
+PrEV_case_1_WesternEurope_2022-08-27	Western Europe
+hMPX/Human/USA/CA-LACPHL-MA00072/2022_NorthAmerica_2022-08-18	North America
+MPXV/Human/USA/CA-LACPHL-MA00346/2022_NorthAmerica_2022-10-05	North America
+hMPX/Human/USA/CA-LACPHL-MA00069/2022_NorthAmerica_2022-08-19	?
+hMpxV/USA/CA-CDPH-1000068/2022_NorthAmerica_2022-07-14	North America
+MPX/Human/USA/CA-LACPHL-MA00109/2022_NorthAmerica_2022-08-25	North America
+MPX/Human/USA/CA-LACPHL-MA00100/2022_NorthAmerica_2022-08-26	North America
+MPXV/Germany/2022/RKI560_WesternEurope_2022-06-24	Western Europe
+MPXV/Germany/2022/RKI582_WesternEurope_2022-06-24	?
+MPXV/Germany/2022/RKI482_WesternEurope_2022-07-31	Western Europe
+MPXV/Germany/2022/RKI481_WesternEurope_2022-07-20	Western Europe
+MPXV/Germany/2022/RKI480_WesternEurope_2022-07-01	?
+MPXV/Germany/2022/RKI526_WesternEurope_2022-06-20	?
+MPXV/Germany/2022/RKI265_WesternEurope_2022-08-01	Western Europe
+MPXV/Germany/2022/RKI479_WesternEurope_2022-07-24	Western Europe
+MPXV/Germany/2022/RKI478_WesternEurope_2022-07-24	?
+NJ-MPXV-011_NorthAmerica_2022-08-17	North America
+MpxV/human/USA/OH-UW-071356/2022_NorthAmerica_2022-07-01	North America
+MpxV/human/USA/OH-UW-076485/2022_NorthAmerica_2022-07-01	North America
+MPXV_USA_2022_PA0010_NorthAmerica_2022-09-01	North America
+MPXV/Human/USA/MA-USAFSAM-M0002/2022_NorthAmerica_2022-09-13	North America
+VAC_INS_MPX_1054_L_SouthAmerica_2022-10-25	South America
+VAC_INS_MPX_0952_C_SouthAmerica_2022-10-15	South America
+MPXV/Human/USA/CA-LACPHL-MA00339/2022_NorthAmerica_2022-10-13	North America
+MPXV/Human/USA/CA-LACPHL-MA00286/2022_NorthAmerica_2022-10-04	North America
+Monkeypox/PT0547/2022_SouthernEurope_2022-08-26	Southern Europe
+ANT-LDSP-ANT-MPX-28205C_SouthAmerica_2022-10-13	South America
+DC_INS_MPX_0719_L_SouthAmerica_2022-08-29	South America
 SAN_INS_MPX_0971_L_SouthAmerica_2022-10-11	South America
-CUN_INS_MPX_0649_C_SouthAmerica_2022-08-23	South America
+CUN_INS_MPX_1053_L_SouthAmerica_2022-10-27	South America
+ANT-LDSP-ANT-MPX-24909-C_SouthAmerica_2022-09-09	South America
+DC_INS_MPX-1118-H_SouthAmerica_2022-10-20	?
+DC_INS_MPX-1119-H_SouthAmerica_2022-10-24	?
+VAC_INS_MPX_0960_L_SouthAmerica_2022-10-15	South America
 VAC_INS_MPX_0960_C_SouthAmerica_2022-10-15	South America
-LBMB-UTP_MP-021_VAC_SouthAmerica_2022-11-11	South America
-ANT-LDSP-ANT-MPX-24594-L_SouthAmerica_2022-09-07	South America
-VAC_INS_MPX_0955_C_SouthAmerica_2022-10-11	South America
+VAC_INS_MPX_1050_C_SouthAmerica_2022-10-26	South America
+VAC_INS_MPX_1050_E_SouthAmerica_2022-10-26	South America
+ANT-LDSP-ANT-MPX-28292C_SouthAmerica_2022-10-13	South America
 VAC_INS_MPX_0962_C_SouthAmerica_2022-10-13	South America
-hMPX/Human/USA/CA-LACPHL-MA00086/2022_NorthAmerica_2022-08-01	North America
-MpxV/human/CAN/UN-NML-2833/2022_NorthAmerica_2022-05-13	North America
-MpxV/human/CAN/UN-NML-4125/2022_NorthAmerica_2022-06-29	North America
-MpxV/human/CAN/UN-NML-3582/2022_NorthAmerica_2022-06-08	North America
-MpxV/human/CAN/UN-NML-3725/2022_NorthAmerica_2022-06-16	North America
-MpxV/human/CAN/UN-NML-4144/2022_NorthAmerica_2022-07-04	North America
-MpxV/human/CAN/UN-NML-4103/2022_NorthAmerica_2022-07-04	North America
-MpxV/human/CAN/UN-NML-4097/2022_NorthAmerica_2022-07-04	?
-hMpxV/Switzerland/ZH-UZH-IMV-3ba6450e/2022_WesternEurope_2022-06-02	Western Europe
-MPXV/Germany/2022/RKI633_WesternEurope_2022-11-01	Western Europe
-MPXV/Germany/2022/RKI182_WesternEurope_2022-07-01	Western Europe
-MPXV/Germany/2022/RKI551_WesternEurope_2022-06-01	Western Europe
-MPXV/Germany/2022/RKI023_WesternEurope_2022-05-31	Western Europe
-MPXV/Germany/2022/RKI437_WesternEurope_2022-09-01	Western Europe
-Monkeypox/PT0570/2022_SouthernEurope_2022-09-02	?
-MPXV/Germany/2022/RKI342_WesternEurope_2022-09-01	Western Europe
-hMPXV/Austria/MUW1527495/2022_WesternEurope_2022-06-21	Western Europe
-LIM-INS-013_SouthAmerica_2022-07-08	South America
-LIM-INS-003_SouthAmerica_2022-06-27	South America
-CUN_INS_MPX_0748_L_SouthAmerica_2022-09-03	South America
+VAC_INS_MPX_0955_C_SouthAmerica_2022-10-11	South America
+9000220_NCPV_1703_WesternEurope_2022-05-14	Western Europe
+MPXV_UK_2022_9000146_WesternEurope_2022-06-13	Western Europe
+MPX_UbfBKN_9000239_WesternEurope_2022-07-25	Western Europe
+MPX_UbfBKN_9000238_WesternEurope_2022-07-25	Western Europe
+Monkeypox/PT0438/2022_SouthernEurope_2022-08-02	Southern Europe
+MpxV/human/USA/WA-UW-087094/2022_NorthAmerica_2022-08-01	North America
+MpxV/human/USA/WA-UW-084148/2022_NorthAmerica_2022-08-01	North America
+MpxV/human/USA/WA-UW-098189/2022_NorthAmerica_2022-09-03	North America
+MpxV/human/USA/WA-UW-089183/2022_NorthAmerica_2022-08-01	North America
+MpxV/human/USA/WA-UW-084719/2022_NorthAmerica_2022-08-25	North America
+MpxV/human/USA/WA-UW-092175/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-090635/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-082483/2022_NorthAmerica_2022-08-25	?
+MPXV/Human/USA/CA-LACPHL-MA00299/2022_NorthAmerica_2022-09-26	?
+MpxV/human/USA/Unknown-UW-101667/2022_NorthAmerica_2022-10-03	North America
+MPXV/Human/USA/CA-CDPH-MPX000024/2022_NorthAmerica_2022-07-13	North America
+hMpxV/USA/CA-CDPH-1000084/2022_NorthAmerica_2022-07-08	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00264/2022_NorthAmerica_2022-09-07	North America
+hMpxV/USA/CA-CDPH-1000060/2022_NorthAmerica_2022-08-08	North America
+hMPX/Human/USA/CA-LACPHL-MA00067/2022_NorthAmerica_2022-08-17	North America
+hMPX/Human/USA/CA-LACPHL-MA00048/2022_NorthAmerica_2022-07-25	?
+MpxV/human/USA/WA-UW-087328/2022_NorthAmerica_2022-08-31	North America
+MXPV_USA_2022_NJ0010_NorthAmerica_2022-07-24	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00226/2022_NorthAmerica_2022-10-03	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00227/2022_NorthAmerica_2022-10-03	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00224/2022_NorthAmerica_2022-10-03	North America
+MPX/Human/USA/CA-LACPHL-MA00112/2022_NorthAmerica_2022-08-29	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00230/2022_NorthAmerica_2022-10-03	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00223/2022_NorthAmerica_2022-10-03	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00222/2022_NorthAmerica_2022-10-03	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00229/2022_NorthAmerica_2022-10-03	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00225/2022_NorthAmerica_2022-10-03	North America
+MPXV/Germany/2022/ON/RKI604_WesternEurope_2022-08-25	Western Europe
+MPXV/Germany/2022/ON/RKI503_WesternEurope_2022-08-25	?
+MPX/Human/USA/CA-LACPHL-MA00111/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/CAN/UN-NML-3366/2022_NorthAmerica_2022-06-02	North America
+ANT-LDSP-ANT-MPX-28353C_SouthAmerica_2022-10-14	South America
+DC_INS_MPX_0996_L_SouthAmerica_2022-09-19	South America
+LIM-INS-010_SouthAmerica_2022-07-02	South America
+CUN_INS_MPX_0951_C_SouthAmerica_2022-10-14	South America
+LIM-INS-012_SouthAmerica_2022-07-06	South America
 LIM-INS-016_SouthAmerica_2022-07-09	South America
-LIM-INS-012_SouthAmerica_2022-07-06	?
-LIM-INS-021_SouthAmerica_2022-07-09	South America
-LIM-INS-018_SouthAmerica_2022-07-09	South America
-LIM-INS008_SouthAmerica_2022-07-01	South America
-LIM-INS-001_SouthAmerica_2022-06-25	South America
-MpxV/Spain/MD-HGUGM-6532064/2022_SouthernEurope_2022-05-27	Southern Europe
-MPXV/ES0001/HUGTiP/2022_SouthernEurope_2022-05-20	Southern Europe
-MpxV/human/USA/WA-UW-092889/2022_NorthAmerica_2022-09-04	North America
-ANT-LDSP-ANT-MPX-23631-L_SouthAmerica_2022-08-30	South America
-hMpxV/UK/LMO-026a/2022_WesternEurope_2022-07-01	Western Europe
-MPXV/Germany/2022/ON/RKI644_WesternEurope_2022-08-01	?
-MPXV/Germany/2022/RKI190_WesternEurope_2022-08-01	Western Europe
-MPXV/Germany/2022/RKI203_WesternEurope_2022-08-01	Western Europe
-MPXV/Germany/2022/RKI177_WesternEurope_2022-07-01	?
-MPXV/Germany/2022/RKI529_WesternEurope_2022-07-31	Western Europe
-SIC-AOUP-UNIPA_VL_9aug_SouthernEurope_2022-08-09	Southern Europe
+LBMB-UTP_MP-004_TOL_SouthAmerica_2022-09-21	South America
+ANT-LDSP-ANT-MPX-24725-L_SouthAmerica_2022-09-08	South America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00266/2022_NorthAmerica_2022-09-14	North America
+MPX/Human/USA/CA-LACPHL-MA00153/2022_NorthAmerica_2022-08-31	North America
+hMpxV/USA/CA-CDPH-1000073/2022_NorthAmerica_2022-11-06	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00393/2022_NorthAmerica_2022-12-13	North America
+MPXV/Human/USA/CA-LACPHL-MA00323/2022_NorthAmerica_2022-10-28	North America
+MPX/Human/USA/CA-LACPHL-MA00139/2022_NorthAmerica_2022-08-04	North America
+NJ-MPXV-015-rep2_NorthAmerica_2022-09-16	North America
+MPXV_USA_2022_TX0027_NorthAmerica_2022-09-06	North America
+MPXV_USA_2022_TX0017_NorthAmerica_2022-09-06	North America
+B1118385_NorthAmerica_2022-08-30	North America
+MPXV/Human/USA/CA-LACPHL-MA00306/2022_NorthAmerica_2022-09-28	North America
+hMPX/Human/USA/CA-LACPHL-MA00007/2022_NorthAmerica_2022-07-16	?
+Monkeypox/PT0043/2022_SouthernEurope_2022-05-30	Southern Europe
+Monkeypox/PT0331/2022_SouthernEurope_2022-05-28	Southern Europe
+MPXV_USA_2022_NJ0005_NorthAmerica_2022-08-01	North America
+Monkeypox/PT0005/2022_SouthernEurope_2022-05-15	Southern Europe
+Monkeypox/PT0008/2022_SouthernEurope_2022-05-15	Southern Europe
+Monkeypox/PT0020/2022_SouthernEurope_2022-05-19	Southern Europe
+MPXV/Germany/2022/RKI543_WesternEurope_2022-06-25	Western Europe
+hMpxV/Human/USA/IL-RIPHL-MPXV_10015/2022_NorthAmerica_2022-10-18	North America
+MPXV_USA_2022_VA0010_NorthAmerica_2022-07-31	North America
+MpxV/human/CAN/UN-NML-3972/2022_NorthAmerica_2022-07-04	?
+hMPXV-IHU00008_WesternEurope_2022-07-05	Western Europe
+MPXV_IRBA22-11_WesternEurope_2022-05-19	Western Europe
+hMpxV/USA/CA-CDPH-1000063/2022_NorthAmerica_2022-07-26	North America
+ID6821_SouthernEurope_2022-06-21	Southern Europe
+hMPXV-IHU00004_WesternEurope_2022-07-04	Western Europe
+MpxV/human/CAN/UN-NML-4017/2022_NorthAmerica_2022-07-05	North America
+MPXV-1047_WesternEurope_2022-06-07	Western Europe
+hMPXV-IHU00009_WesternEurope_2022-07-07	Western Europe
+Monkeypox/PT0572/2022_SouthernEurope_2022-09-05	Southern Europe
+MPXV_UK_2022_9000145_WesternEurope_2022-06-16	?
+MpxV/human/USA/WA-UW-083760/2022_NorthAmerica_2022-08-24	North America
+MpxV/human/USA/WA-UW-089051/2022_NorthAmerica_2022-08-24	North America
+MpxV/human/USA/WA-UW-090727/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-088656/2022_NorthAmerica_2022-08-24	North America
+MpxV/human/USA/WA-UW-098721/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-083888/2022_NorthAmerica_2022-08-24	North America
+MpxV/human/USA/Unknown-UW-109319/2022_NorthAmerica_2022-10-06	North America
+MpxV/human/USA/WA-UW-095653/2022_NorthAmerica_2022-09-18	North America
+MpxV/human/USA/WA-UW-099700/2022_NorthAmerica_2022-09-23	North America
+MpxV/human/USA/WA-UW-098055/2022_NorthAmerica_2022-09-18	?
+MpxV/human/USA/Unknown-UW-105322/2022_NorthAmerica_2022-10-01	North America
+MpxV/human/USA/WA-UW-106624/2022_NorthAmerica_2022-10-01	North America
+MpxV/human/USA/WA-UW-096136/2022_NorthAmerica_2022-09-22	North America
+MpxV/human/USA/WA-UW-091890/2022_NorthAmerica_2022-09-24	North America
+MpxV/human/USA/WA-UW-096711/2022_NorthAmerica_2022-09-24	North America
+MpxV/human/USA/WA-UW-090134/2022_NorthAmerica_2022-09-24	North America
+ANT-LDSP-ANT-MPX-24812-L_SouthAmerica_2022-09-09	South America
+Monkeypox/PT0321/2022_SouthernEurope_2022-06-04	Southern Europe
+Monkeypox/PT0215/2022_SouthernEurope_2022-06-24	Southern Europe
+hMPXV/Austria/MUW1531254/2022_WesternEurope_2022-07-04	Western Europe
+Monkeypox/PT0393/2022_SouthernEurope_2022-07-13	?
+MpxV/human/CAN/UN-NML-4024/2022_NorthAmerica_2022-07-05	North America
+MpxV/human/CAN/UN-NML-3907/2022_NorthAmerica_2022-06-27	North America
+MpxV/human/CAN/UN-NML-3817/2022_NorthAmerica_2022-06-16	North America
+MpxV/human/CAN/UN-NML-4150/2022_NorthAmerica_2022-07-05	North America
+MpxV/human/CAN/UN-NML-3975/2022_NorthAmerica_2022-07-04	North America
+MPX/Human/USA/CA-LACPHL-MA00197/2022_NorthAmerica_2022-07-19	?
+hMPX/Human/USA/CA-LACPHL-MA00044/2022_NorthAmerica_2022-07-22	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00281/2022_NorthAmerica_2022-10-18	North America
+hMpxV/USA/CA-CDPH-000054/2022_NorthAmerica_2022-09-25	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00370/2022_NorthAmerica_2022-10-26	?
+B969963RERE_NorthAmerica_2022-07-17	North America
+MPXV/Germany/2022/RKI082_WesternEurope_2022-06-01	?
+MPXV-USA-IL-IDPH-013_NorthAmerica_2022-07-06	North America
+MPXV_USA_2022_CT0002_NorthAmerica_2022-07-01	North America
+MPXV/Germany/2022/RKI011_WesternEurope_2022-05-20	Western Europe
+MPXV/Germany/2022/RKI586_WesternEurope_2022-06-30	Western Europe
+MPXV/Germany/2022/RKI019_WesternEurope_2022-05-31	?
+MpxV/human/USA/WA-UW-099102/2022_NorthAmerica_2022-09-15	North America
+MPX/Human/USA/CA-LACPHL-MA00137/2022_NorthAmerica_2022-08-09	?
+MPXV/Germany/2022/RKI589_WesternEurope_2022-06-26	?
+MPXV/Germany/2022/RKI588_WesternEurope_2022-06-26	Western Europe
+hMPXV-IHU00016_WesternEurope_2022-07-22	Western Europe
+hMPXV-IHU00015_WesternEurope_2022-07-22	Western Europe
+MPXV_UK_2022_9000103_WesternEurope_2022-06-13	Western Europe
+MPXV_UK_2022_9000147_WesternEurope_2022-06-14	Western Europe
+hMPXV-IHU00012_WesternEurope_2022-07-19	Western Europe
+ANT-LDSP-ANT-MPX-23114-C_SouthAmerica_2022-08-23	South America
+ANT-LDSP-ANT-MPX-22769-L_SouthAmerica_2022-08-17	South America
+ANT-LDSP-ANT-MPX-25342E_SouthAmerica_2022-09-04	South America
+ANT-LDSP-ANT-MPX-24914-L_SouthAmerica_2022-09-09	South America
+ANT-LDSP-ANT-MPX-28772C_SouthAmerica_2022-10-21	South America
+ANT-LDSP-ANT-MPX-24913-O_SouthAmerica_2022-09-09	South America
+ANT-LDSP-ANT-MPX-22607-L_SouthAmerica_2022-08-16	South America
+ANT-LDSP-ANT-MPX-28299E_SouthAmerica_2022-10-13	South America
+ANT-LDSP-ANT-MPX-28354C_SouthAmerica_2022-10-14	South America
+ANT-LDSP-ANT-MPX-28305C_SouthAmerica_2022-10-13	?
+LBMB-UTP_MP-002_TOL_SouthAmerica_2022-09-17	South America
+ANT-LDSP-ANT-MPX-28206C_SouthAmerica_2022-10-13	South America
+ANT-LDSP-ANT-MPX-28769E_SouthAmerica_2022-10-21	South America
+ANT-LDSP-ANT-MPX-28209E_SouthAmerica_2022-10-13	South America
+ANT-LDSP-ANT-MPX-28290C_SouthAmerica_2022-10-13	South America
+ANT-LDSP-ANT-MPX-28766E_SouthAmerica_2022-10-21	South America
+ANT-LDSP-ANT-MPX-28207C_SouthAmerica_2022-10-13	?
+LBMB-UTP_MP-019_VAC_SouthAmerica_2022-11-11	South America
+LBMB-UTP_MP-011_VAC_SouthAmerica_2022-09-11	?
+LBMB-UTP_MP-011_VAC_1u17b4_SouthAmerica_2022-09-11	South America
+ANT-LDSP-ANT-MPX-28297C_SouthAmerica_2022-10-13	South America
+ANT-LDSP-ANT-MPX-28157C_SouthAmerica_2022-10-12	?
+SUC-UNIMOL-MPX-293401-L_SouthAmerica_2022-11-10	?
+QUI_INS_MPX_0967_L_SouthAmerica_2022-10-15	South America
+ANT-LDSP-ANT-MPX-28830C_SouthAmerica_2022-10-21	South America
+BOL-UNIMOL-MPX-293264-L_SouthAmerica_2022-09-17	South America
+ANT-LDSP-ANT-MPX-24728-L_SouthAmerica_2022-09-08	South America
+ANT-LDSP-ANT-MPX-23654-O_SouthAmerica_2022-08-30	South America
+ANT-LDSP-ANT-MPX-28828C_SouthAmerica_2022-10-21	South America
+MPXV/Human/USA/CA-LACPHL-MA00314/2022_NorthAmerica_2022-11-09	?
+MPXV/Human/USA/CA-LACPHL-MA00334/2022_NorthAmerica_2022-11-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00329/2022_NorthAmerica_2022-11-09	North America
+MPXV_USA_2022_CA0029_NorthAmerica_2022-09-01	North America
+MPXV/Human/USA/CA-LACPHL-MA00309/2022_NorthAmerica_2022-11-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00330/2022_NorthAmerica_2022-11-09	North America
+hMPX/USA/CA-LACPHL-MA00168/2022_NorthAmerica_2022-09-19	North America
+MPXV/Human/USA/CA-LACPHL-MA00333/2022_NorthAmerica_2022-11-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00289/2022_NorthAmerica_2022-10-04	North America
+hMPX/Human/USA/CA-LACPHL-MA00051/2022_NorthAmerica_2022-07-20	North America
+MPXV/Human/USA/CA-LACPHL-MA00316/2022_NorthAmerica_2022-11-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00336/2022_NorthAmerica_2022-11-09	North America
+hMPX/Human/USA/CA-LACPHL-MA00078/2022_NorthAmerica_2022-08-05	?
+hMPX/Human/USA/CA-LACPHL-MA00039/2022_NorthAmerica_2022-08-01	North America
+hMPX/Human/USA/CA-LACPHL-MA00038/2022_NorthAmerica_2022-08-01	North America
+MPXV/Human/USA/CA-LACPHL-MA00335/2022_NorthAmerica_2022-11-09	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00391/2022_NorthAmerica_2022-12-19	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00376/2022_NorthAmerica_2022-10-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00348/2022_NorthAmerica_2022-10-06	North America
+MPXV/Human/USA/CA-LACPHL-MA00312/2022_NorthAmerica_2022-11-09	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00282/2022_NorthAmerica_2022-10-13	North America
+MpxV/human/USA/WA-UW-084166/2022_NorthAmerica_2022-07-31	?
+MPXV/Human/USA/CA-LACPHL-MA00328/2022_NorthAmerica_2022-11-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00313/2022_NorthAmerica_2022-11-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00325/2022_NorthAmerica_2022-11-09	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00262/2022_NorthAmerica_2022-09-21	?
+hMPX/USA/CA-LACPHL-MA00179/2022_NorthAmerica_2022-09-20	North America
+MPXV/Human/USA/CA-LACPHL-MA00331/2022_NorthAmerica_2022-11-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00315/2022_NorthAmerica_2022-11-09	?
+MPXV/Human/USA/CA-LACPHL-MA00326/2022_NorthAmerica_2022-11-09	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00259/2022_NorthAmerica_2022-10-13	North America
+MPXV/Human/USA/CA-LACPHL-MA00332/2022_NorthAmerica_2022-11-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00308/2022_NorthAmerica_2022-11-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00318/2022_NorthAmerica_2022-11-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00311/2022_NorthAmerica_2022-11-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00327/2022_NorthAmerica_2022-11-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00319/2022_NorthAmerica_2022-11-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00317/2022_NorthAmerica_2022-11-09	?
+MPXV/Human/USA/CA-LACPHL-MA00320/2022_NorthAmerica_2022-11-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00310/2022_NorthAmerica_2022-11-09	North America
+hMPX/Human/USA/CA-LACPHL-MA00092/2022_NorthAmerica_2022-08-02	North America
+hMPX/Human/USA/CA-LACPHL-MA00096/2022_NorthAmerica_2022-08-02	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00233/2022_NorthAmerica_2022-07-18	North America
+MPXV_USA_2022_IL0020_NorthAmerica_2022-06-01	North America
+MPXV-USA-IL-IDPH-084_NorthAmerica_2022-07-06	North America
+MN-MDH-MPXV_0018_NorthAmerica_2022-07-19	North America
+MpxV/human/USA/OH-UW-085701/2022_NorthAmerica_2022-08-01	North America
+MPXV_USA_2022_MI0002_NorthAmerica_2022-07-31	North America
+MPXV_USA_2022_MN0006_NorthAmerica_2022-07-01	?
+MPXV_USA_2022_TN0004_NorthAmerica_2022-07-24	North America
+hMpxV/Human/USA/IL-RIPHL-MPXV_10006/2022_NorthAmerica_2022-08-08	North America
+MPXV/Germany/2022/ON/RKI665_WesternEurope_2022-05-21	Western Europe
+hMPXV-CH-38347314/2022_WesternEurope_2022-06-08	Western Europe
+MPXV/Germany/2022/ON/RKI663_WesternEurope_2022-05-21	Western Europe
+MPXV/Germany/2022/RKI223_WesternEurope_2022-08-01	Western Europe
+MPXV/Germany/2022/RKI485_WesternEurope_2022-07-01	?
+Monkeypox/PT0033/2022_SouthernEurope_2022-05-24	Southern Europe
 hMpxV/Switzerland/ZH-UZH-IMV-3ba64538/2022_WesternEurope_2022-06-02	Western Europe
 INMI-Pt4_SouthernEurope_2022-05-21	Southern Europe
-MPXV/Germany/2022/ON/RKI667_WesternEurope_2022-05-19	Western Europe
-MPXV/Germany/2022/ON/RKI664_WesternEurope_2022-05-19	Western Europe
-MPXV_USA_2022_GA001_NorthAmerica_2022-05-19	North America
-hMPXV-CH-38347314/2022_WesternEurope_2022-06-08	Western Europe
-Monkeypox/PT0527/2022_SouthernEurope_2022-08-19	?
-Monkeypox/PT0515/2022_SouthernEurope_2022-08-16	Southern Europe
-ANT-LDSP-ANT-MPX-24915-L_SouthAmerica_2022-09-09	South America
-ANT-LDSP-ANT-MPX-22769-L_SouthAmerica_2022-08-17	?
-ANT-LDSP-ANT-MPX-25340L_SouthAmerica_2022-09-13	South America
-MPXV/Germany/2022/ON/RKI511_WesternEurope_2022-10-01	Western Europe
-ANT-LDSP-ANT-MPX-28299E_SouthAmerica_2022-10-13	South America
-LBMB-UTP_MP-019_VAC_SouthAmerica_2022-11-11	South America
-INS-MPXV-0015-L1_SouthAmerica_2022-07-21	South America
-ANT-LDSP-ANT-MPX-22980_SouthAmerica_2022-08-19	South America
-ANT-LDSP-ANT-MPX-23683-L_SouthAmerica_2022-08-30	South America
-ANT-LDSP-ANT-MPX-24728-L_SouthAmerica_2022-09-08	South America
-SUC-UNIMOL-MPX-293401-L_SouthAmerica_2022-11-10	South America
-QUI_INS_MPX_0967_L_SouthAmerica_2022-10-15	South America
-MPXV_UK_2022_9000072_WesternEurope_2022-06-09	Western Europe
-MPXV_USA_2022_WA001_NorthAmerica_2022-05-19	North America
-MPXV_UK_2022_9000100_WesternEurope_2022-06-09	Western Europe
-MPXV/Germany/2022/RKI281_WesternEurope_2022-08-01	Western Europe
-MPXV/Germany/2022/RKI166_WesternEurope_2022-07-31	?
-MPXV/Germany/2022/RKI632_WesternEurope_2022-11-30	Western Europe
-MPXV/Human/USA/CA-LACPHL-MA00295/2022_NorthAmerica_2022-11-01	North America
-MPXV/Germany/2022/RKI160_WesternEurope_2022-07-17	Western Europe
-hMpxV/Human/USA/IL-RIPHL-MPXV_10011/2022_NorthAmerica_2022-09-10	North America
-Monkeypoxvirus/Human/USA/CA-LACPHL-MA00390/2022_NorthAmerica_2022-12-14	North America
-Monkeypoxvirus/Human/USA/CA-LACPHL-MA00382/2022_NorthAmerica_2022-10-14	North America
-Slovenia-MPXV-42-2022_CentralEurope_2022-08-09	Central Europe
-MPX_L6rBi6_9000265_WesternEurope_2022-08-31	Western Europe
-Slovenia-MPXV-29-2022_CentralEurope_2022-07-12	Central Europe
-INMI-Pt1_SouthernEurope_2022-05-18	Southern Europe
-MPXV22/human/USA-NE-63_NorthAmerica_2022-07-25	North America
-PrEV_case_1_WesternEurope_2022-08-27	Western Europe
-Slovenia-MPXV-27-2022_CentralEurope_2022-07-08	Central Europe
-Slovenia-MPXV-17-2022_CentralEurope_2022-07-01	Central Europe
-Slovenia-MPXV-23-2022_CentralEurope_2022-07-01	Central Europe
-MPXV_UK_2022_9000158_WesternEurope_2022-07-07	Western Europe
-MPX_0MZd8B_9000260_WesternEurope_2022-08-01	Western Europe
-MPXV/Spain/HUNSC_ITER_0001b/2022_SouthernEurope_2022-05-31	Southern Europe
-hMpxV/Switzerland/ZH-UZH-IMV-3ba6449f/2022_WesternEurope_2022-06-01	Western Europe
-hMpxV/UK/LMO-043a/2022_WesternEurope_2022-07-20	?
-MPXV_FR_HCL0001_2022_WesternEurope_2022-05-22	Western Europe
-SI2022_S7_CentralEurope_2022-06-01	Central Europe
-Slovenia-MPXV-09-2022_CentralEurope_2022-06-01	Central Europe
-Slovenia-MPXV-08-2022_CentralEurope_2022-06-01	Central Europe
-MPXV_SI2022_S5_CentralEurope_2022-06-01	Central Europe
-RNA_1x0q6v_CentralEurope_2022-07-04	Central Europe
-Slovenia-MPXV-26-2022_CentralEurope_2022-07-18	Central Europe
+MPXV/Germany/2022/RKI137_WesternEurope_2022-07-01	?
+MPXV/Germany/2022/RKI529_WesternEurope_2022-07-31	Western Europe
+SIC-AOUP-UNIPA_VL_9aug_SouthernEurope_2022-08-09	?
+MPXV_UK_2022_9000106_WesternEurope_2022-06-14	Western Europe
+NJ-MPXV-006-rpt1_NorthAmerica_2022-08-01	North America
+MpxV/human/CAN/UN-NML-4119/2022_NorthAmerica_2022-07-04	North America
+MpxV/human/CAN/UN-NML-4122/2022_NorthAmerica_2022-07-03	North America
+MpxV/human/CAN/UN-NML-4114/2022_NorthAmerica_2022-06-27	North America
+MPXV_USA_2022_CA0011_NorthAmerica_2022-09-01	North America
+hMPX/Human/USA/CA-LACPHL-MA00097/2022_NorthAmerica_2022-08-03	North America
+MpxV/human/USA/WA-UW-093570/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-096851/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-085088/2022_NorthAmerica_2022-08-01	?
+hMPX/Human/USA/CA-LACPHL-MA00077/2022_NorthAmerica_2022-09-06	North America
+MPXV/Human/USA/CA-LACPHL-MA00305/2022_NorthAmerica_2022-09-28	North America
+MpxV/human/USA/WA-UW-092113/2022_NorthAmerica_2022-09-11	North America
+hMPX/Human/USA/CA-LACPHL-MA00080/2022_NorthAmerica_2022-08-04	North America
+MPXV_USA_2022_CA0010_NorthAmerica_2022-09-01	North America
+MPXV/Human/USA/CA-LACPHL-MA00343/2022_NorthAmerica_2022-11-10	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00268/2022_NorthAmerica_2022-09-30	North America
+MPXV/Human/USA/CA-LACPHL-MA00304/2022_NorthAmerica_2022-09-29	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00267/2022_NorthAmerica_2022-09-30	North America
+hMpxV/UK/LMO-010a/2022_WesternEurope_2022-06-21	Western Europe
+hMpxV/UK/LMO-024a/2022_WesternEurope_2022-06-24	Western Europe
+hMpxV/UK/LMO-022a/2022_WesternEurope_2022-06-24	Western Europe
+MpxV/human/CAN/UN-NML-4155/2022_NorthAmerica_2022-06-29	North America
+MpxV/human/CAN/UN-NML-3440/2022_NorthAmerica_2022-06-06	?
+MpxV/human/CAN/UN-NML-4097/2022_NorthAmerica_2022-07-04	North America
+MpxV/human/CAN/UN-NML-4094/2022_NorthAmerica_2022-07-06	North America
+MpxV/human/CAN/UN-NML-3532/2022_NorthAmerica_2022-06-07	?
+MpxV/human/CAN/UN-NML-3467/2022_NorthAmerica_2022-06-02	North America
+MpxV/human/CAN/UN-NML-4144/2022_NorthAmerica_2022-07-04	North America
+MPXV/Germany/2022/RKI177_WesternEurope_2022-07-01	?
+MPXV/Germany/2022/RKI491_WesternEurope_2022-07-25	Western Europe
+MPXV/Germany/2022/RKI103_WesternEurope_2022-07-25	Western Europe
+MPXV_UK_2022_9000183_WesternEurope_2022-06-29	Western Europe
+hMPX/USA/CA-LACPHL-MA00176/2022_NorthAmerica_2022-08-02	North America
+MPXV/Germany/2022/RKI284_WesternEurope_2022-08-01	Western Europe
+MPXV/Germany/2022/RKI175_WesternEurope_2022-07-25	Western Europe
+MPXV/Germany/2022/RKI213_WesternEurope_2022-08-18	Western Europe
+MPXV/ES0001/HUGTiP/2022_SouthernEurope_2022-05-20	Southern Europe
+NJ-MPXV-042_NorthAmerica_2022-07-20	North America
+MpxV/human/USA/OH-UW-086376/2022_NorthAmerica_2022-08-19	North America
+MPXV_USA_2022_FL0018_NorthAmerica_2022-06-26	North America
+MPXV_USA_2022_FL0015_NorthAmerica_2022-06-26	North America
+hMPXV/USA/NC-UNC-0017/2022_NorthAmerica_2022-08-24	North America
+MpxV/human/USA/WA-UW-098497/2022_NorthAmerica_2022-09-01	North America
+MN-MDH-MPXV_0017_NorthAmerica_2022-07-16	North America
+MpxV/human/USA/WA-UW-091243/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-092889/2022_NorthAmerica_2022-09-01	?
+MPXV/Germany/2022/RKI045_WesternEurope_2022-06-28	Western Europe
+MPXV/Human/USA/CA-LACPHL-MA00337/2022_NorthAmerica_2022-10-14	North America
+hMPX/USA/CA-LACPHL-MA00158/2022_NorthAmerica_2022-09-23	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00263/2022_NorthAmerica_2022-09-30	North America
+hMPX/USA/CA-LACPHL-MA00163/2022_NorthAmerica_2022-09-22	?
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00280/2022_NorthAmerica_2022-10-17	?
+MPXV/Human/USA/CA-LACPHL-MA00352/2022_NorthAmerica_2022-10-11	?
+MPXV/Human/USA/CA-LACPHL-MA00345/2022_NorthAmerica_2022-10-31	?
+MPXV/Human/USA/CA-LACPHL-MA00291/2022_NorthAmerica_2022-10-07	North America
+MPXV/Human/USA/CA-LACPHL-MA00322/2022_NorthAmerica_2022-10-31	North America
+hMPX/USA/CA-LACPHL-MA00167/2022_NorthAmerica_2022-09-19	North America
+MPXV/Human/USA/CA-LACPHL-MA00293/2022_NorthAmerica_2022-10-06	North America
+MPXV/Human/USA/CA-LACPHL-MA00292/2022_NorthAmerica_2022-10-07	North America
+MPX/Human/USA/CA-LACPHL-MA00108/2022_NorthAmerica_2022-08-24	North America
 MPXV/Spain/HUNSC_ITER_0001a/2022_SouthernEurope_2022-05-31	Southern Europe
-Slovenia-MPXV-20-2022_CentralEurope_2022-07-31	Central Europe
-Monkeypox/PT0562/2022_SouthernEurope_2022-09-01	Southern Europe
-MPXV_SI2022_S4_CentralEurope_2022-06-01	Central Europe
-MPXV_SI2022_S3_CentralEurope_2022-06-01	Central Europe
-MPXV_SI2022_S1_VEROE6_CentralEurope_2022-05-23	Central Europe
-SLO_CentralEurope_2022-05-23	Central Europe
-Slovenia-MPXV-44-2022_CentralEurope_2022-08-24	?
-Slovenia-MPXV-40-2022_CentralEurope_2022-08-23	Central Europe
+MpxV/human/USA/WA-UW-081469/2022_NorthAmerica_2022-08-01	North America
+MpxV/human/USA/WA-UW-087619/2022_NorthAmerica_2022-08-01	North America
+hMpxV/Switzerland/ZH-UZH-IMV-3ba6449f/2022_WesternEurope_2022-06-01	Western Europe
+MPX_GZUtx9_9000301_WesternEurope_2022-08-01	Western Europe
+MPXV/Spain/HUNSC_ITER_0001b/2022_SouthernEurope_2022-05-31	Southern Europe
+MPXV/Germany/2022/ON/RKI669_WesternEurope_2022-05-18	Western Europe
+MPXV_UK_2022_9000188_WesternEurope_2022-06-29	Western Europe
+MPXV_UK_2022_9000061_WesternEurope_2022-05-27	Western Europe
+MPXV_FR_HCL0001_2022_WesternEurope_2022-05-22	Western Europe
+MPXV_USA_2022_IA0002_NorthAmerica_2022-09-01	North America
+MPXV_USA_2022_IL0030_NorthAmerica_2022-09-01	North America
+NJ-MPXV-001_NorthAmerica_2022-07-26	North America
+MPXV/Germany/2022/RKI042_WesternEurope_2022-06-01	Western Europe
+MPXV22/human/USA-NE-176_NorthAmerica_2022-08-15	North America
+MPXV22/human/USA-NE-199_NorthAmerica_2022-08-20	?
+MpxV/human/USA/WA-UW-082770/2022_NorthAmerica_2022-08-24	North America
+MpxV/human/USA/WA-UW-086040/2022_NorthAmerica_2022-08-24	North America
 MPXV/ITM_pt_31/Belgium/27-May-2022_WesternEurope_2022-05-27	Western Europe
-MPXV/ITM_pt_25/Belgium/16-Jun-2022_WesternEurope_2022-06-16	Western Europe
 MPXV/ITM_pt_16/Belgium/10-Jun-2022_WesternEurope_2022-06-10	Western Europe
+MPXV/ITM_pt_25/Belgium/16-Jun-2022_WesternEurope_2022-06-16	Western Europe
+MpxV/human/USA/WA-UW-082215/2022_NorthAmerica_2022-08-25	?
+MpxV/human/USA/WA-UW-088973/2022_NorthAmerica_2022-08-25	North America
+MPXV/Germany/2022/RKI089_WesternEurope_2022-06-25	Western Europe
+MPXV_USA_2022_NY0017_NorthAmerica_2022-07-24	North America
+hMPXV/USA/NC-UNC-0004/2022_NorthAmerica_2022-08-02	North America
+hMpxV/Human/USA/IL-RIPHL-MPXV_10009/2022_NorthAmerica_2022-08-19	North America
+hMpxV/Human/USA/IL-RIPHL-MPXV_10004/2022_NorthAmerica_2022-08-19	North America
+MN-MDH-MPXV_0001_NorthAmerica_2022-06-24	North America
+ANT-LDSP-ANT-MPX-28220C_SouthAmerica_2022-10-13	?
+MPXV-USA-IL-IDPH-048_NorthAmerica_2022-06-23	North America
+MPXV_USA_2022_IL0024_NorthAmerica_2022-06-11	North America
+SAN_INS_MPX_0973_L_SouthAmerica_2022-10-17	South America
+LBMB-UTP_MP-003_TOL_SouthAmerica_2022-09-17	South America
+BOL-UNIMOL-MPX-293633-L_SouthAmerica_2022-11-15	?
+MPXV-USA-IL-IDPH-039_NorthAmerica_2022-06-19	North America
+CUN_INS_MPX_0751_C_SouthAmerica_2022-09-10	South America
+MPXV22/human/USA-NE-127_NorthAmerica_2022-08-07	North America
+ANT-LDSP-ANT-MPX-25510E_SouthAmerica_2022-09-03	South America
+LBMB-UTP_MP-013_VAC_SouthAmerica_2022-11-11	South America
+hMpxV/Human/USA/IL-RIPHL-MPXV_10014/2022_NorthAmerica_2022-08-27	North America
+MPXV/Human/USA/CA-LACPHL-MA00296/2022_NorthAmerica_2022-10-04	North America
+MPXV/Human/USA/CA-LACPHL-MA00297/2022_NorthAmerica_2022-09-30	North America
+hMPX/Human/USA/CA-LACPHL-MA00022/2022_NorthAmerica_2022-07-25	North America
+MPXV_USA_2022_IA0003_NorthAmerica_2022-09-01	North America
+MPXV_USA_2022_MO0001_NorthAmerica_2022-08-23	North America
+LBMB-UTP_MP-010_TOL_SouthAmerica_2022-09-13	?
+LBMB-UTP_MP-001_QUI_SouthAmerica_2022-09-14	South America
+MPXV/Human/USA/CA-LACPHL-MA00344/2022_NorthAmerica_2022-11-09	North America
+MPXV/Human/USA/CA-LACPHL-MA00324/2022_NorthAmerica_2022-10-26	North America
+MpxV/human/USA/WA-UW-085684/2022_NorthAmerica_2022-08-01	North America
+MPXV_USA_2022_NY0493_NorthAmerica_2022-08-01	North America
+hMPX/Human/USA/CA-LACPHL-MA00082/2022_NorthAmerica_2022-07-13	North America
+MPXV/Human/USA/CA-CDPH-MPX000041/2022_NorthAmerica_2022-07-28	North America
+hMPX/Human/USA/CA-LACPHL-MA00064/2022_NorthAmerica_2022-08-04	North America
+MPX/Human/USA/CA-LACPHL-MA00206/2022_NorthAmerica_2022-09-13	North America
+hMPX/Human/USA/CA-LACPHL-MA00065/2022_NorthAmerica_2022-08-01	North America
+MpxV/human/USA/WA-UW-081714/2022_NorthAmerica_2022-08-01	North America
+MpxV/human/USA/WA-UW-099493/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-090263/2022_NorthAmerica_2022-09-12	North America
+MpxV/human/USA/WA-UW-090611/2022_NorthAmerica_2022-09-11	North America
+MpxV/human/USA/WA-UW-087577/2022_NorthAmerica_2022-08-31	North America
+MpxV/human/USA/WA-UW-099479/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-095970/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-095681/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-092407/2022_NorthAmerica_2022-09-01	?
+MpxV/human/USA/WA-UW-093226/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-086901/2022_NorthAmerica_2022-08-01	North America
+MpxV/human/USA/WA-UW-083953/2022_NorthAmerica_2022-08-01	North America
+MpxV/human/USA/WA-UW-080043/2022_NorthAmerica_2022-08-01	North America
+MpxV/human/USA/WA-UW-098297/2022_NorthAmerica_2022-09-12	North America
+MpxV/human/USA/WA-UW-098408/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-091072/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-096615/2022_NorthAmerica_2022-09-01	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00364/2022_NorthAmerica_2022-10-11	North America
+MPX/Human/USA/CA-LACPHL-MA00148/2022_NorthAmerica_2022-09-12	North America
+MPX/Human/USA/CA-LACPHL-MA00107/2022_NorthAmerica_2022-08-22	North America
+NJ-MPXV-013-rep2_NorthAmerica_2022-08-17	North America
+MpxV/human/USA/WA-UW-094603/2022_NorthAmerica_2022-09-23	North America
+MpxV/human/USA/WA-UW-109000/2022_NorthAmerica_2022-10-01	North America
+MpxV/human/USA/WA-UW-095695/2022_NorthAmerica_2022-09-23	North America
+MpxV/human/USA/WA-UW-098348/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-091162/2022_NorthAmerica_2022-09-01	North America
+MpxV/human/USA/WA-UW-085769/2022_NorthAmerica_2022-08-31	North America
+MpxV/human/USA/WA-UW-080597/2022_NorthAmerica_2022-08-31	North America
+MPXV_UK_2022_9000143_WesternEurope_2022-06-16	Western Europe
+MPXV/Germany/2022/RKI185_WesternEurope_2022-07-01	Western Europe
+MPXV22/human/USA-OK-288_NorthAmerica_2022-09-12	North America
+MPX_lBTTWI_9000279_WesternEurope_2022-07-01	Western Europe
+MPXV_UK_2022_9000078_WesternEurope_2022-06-14	Western Europe
+MPXV_UK_2022_9000064_WesternEurope_2022-06-06	Western Europe
+MPXV_UK_2022_9000160_WesternEurope_2022-07-05	Western Europe
+hMPX/Human/USA/CA-LACPHL-MA00034/2022_NorthAmerica_2022-08-13	?
+MPX/Human/USA/CA-LACPHL-MA00115/2022_NorthAmerica_2022-09-14	North America
+MPX/Human/USA/CA-LACPHL-MA00116/2022_NorthAmerica_2022-09-14	North America
+hMPX/Human/USA/CA-LACPHL-MA00035/2022_NorthAmerica_2022-08-13	North America
+hMpxV/UK/LMO-012a/2022_WesternEurope_2022-06-21	Western Europe
+MPXV/Germany/2022/RKI083_WesternEurope_2022-06-30	Western Europe
+MPXV/Germany/2022/RKI212_WesternEurope_2022-08-01	Western Europe
+MPXV/Germany/2022/RKI043_WesternEurope_2022-06-01	Western Europe
+MPXV_UK_2022_9000065_WesternEurope_2022-06-06	Western Europe
+MPXV_USA_2022_DE0001_NorthAmerica_2022-09-01	?
+MPX_cmjxZM_9000205_WesternEurope_2022-06-01	Western Europe
+MPXV_UK_2022_9000071_WesternEurope_2022-06-09	Western Europe
+MPXV_UK_2022_9000093_WesternEurope_2022-05-30	Western Europe
+MPX_K1dQNt_9000225_WesternEurope_2022-07-01	Western Europe
+MPX_2v76E1_9000222_WesternEurope_2022-07-24	Western Europe
+MPXV_USA_2022_NC0009_NorthAmerica_2022-07-19	?
+MPXV_USA_2022_MD0006_NorthAmerica_2022-08-19	North America
+hMPXV/USA/NC-UNC-0003/2022_NorthAmerica_2022-08-04	North America
+MPXV/Human/USA/CA-LACPHL-MA00361/2022_NorthAmerica_2022-10-31	North America
+MpxV/human/USA/WA-UW-086295/2022_NorthAmerica_2022-08-24	?
+hMPXV/USA/NC-UNC-0009/2022_NorthAmerica_2022-08-09	North America
+MPXV_UK_2022_9000070_WesternEurope_2022-06-09	Western Europe
+MPXV_UK_2022_9000148_WesternEurope_2022-06-14	Western Europe
+PatientMPXV_WesternEurope_2022-06-10	Western Europe
+MPX_KJ3uDD_9000210_WesternEurope_2022-06-30	Western Europe
+Monkeypox/PT0189/2022_SouthernEurope_2022-06-27	Southern Europe
+Monkeypox/PT0216/2022_SouthernEurope_2022-06-24	Southern Europe
+Monkeypox/PT0270/2022_SouthernEurope_2022-06-16	?
+hMpxV/Switzerland/ZH-UZH-IMV-3ba6450e/2022_WesternEurope_2022-06-02	Western Europe
+MPXV/Germany/2022/RKI575_WesternEurope_2022-06-01	Western Europe
+MPXV/Germany/2022/RKI032_WesternEurope_2022-06-01	Western Europe
+MPXV/Germany/2022/RKI017_WesternEurope_2022-05-15	Western Europe
+MPXV/Germany/2022/RKI132_WesternEurope_2022-07-01	Western Europe
+MPXV/Germany/2022/RKI046_WesternEurope_2022-06-08	Western Europe
+MPXV/Germany/2022/RKI555_WesternEurope_2022-07-01	Western Europe
+MPXV/Germany/2022/RKI282_WesternEurope_2022-08-01	Western Europe
+MPXV/Germany/2022/RKI022_WesternEurope_2022-05-15	Western Europe
+MPXV/Germany/2022/RKI020_WesternEurope_2022-05-31	Western Europe
+MPXV/Germany/2022/RKI573_WesternEurope_2022-06-01	Western Europe
+MPXV/Germany/2022/RKI030_WesternEurope_2022-06-01	?
+DC_INS_MPX_1009_L_SouthAmerica_2022-09-19	?
+MPXV/Germany/2022/RKI094_WesternEurope_2022-06-01	Western Europe
+MpxV/human/USA/WA-UW-071966/2022_NorthAmerica_2022-07-01	North America
+MPXV/Germany/2022/RKI036_WesternEurope_2022-06-01	Western Europe
+hMPXV-IHU00002_WesternEurope_2022-07-01	Western Europe
+MpxV/human/USA/Unknown-UW-077794/2022_NorthAmerica_2022-07-01	North America
+MpxV/human/USA/WA-UW-089266/2022_NorthAmerica_2022-08-01	North America
+MPXV/Germany/2022/RKI025_WesternEurope_2022-05-15	Western Europe
+hMPXV-IHU00011_WesternEurope_2022-07-19	Western Europe
+MpxV/human/USA/WA-UW-070134/2022_NorthAmerica_2022-07-01	North America
+MpxV/human/USA/WA-UW-072839/2022_NorthAmerica_2022-07-01	North America
+MpxV/human/USA/WA-UW-080706/2022_NorthAmerica_2022-08-01	North America
+MpxV/human/USA/WA-UW-088248/2022_NorthAmerica_2022-08-24	North America
+MPXV/Germany/2022/RKI633_WesternEurope_2022-11-01	Western Europe
+MPXV/Germany/2022/RKI097_WesternEurope_2022-06-01	Western Europe
+MPXV/Germany/2022/RKI074_WesternEurope_2022-06-01	Western Europe
+MpxV/human/USA/WA-UW-088213/2022_NorthAmerica_2022-08-31	North America
+MpxV/human/USA/WA-UW-083951/2022_NorthAmerica_2022-08-01	North America
+MpxV/human/USA/WA-UW-073909/2022_NorthAmerica_2022-07-23	?
+hMpxV/USA/ID-IBL-843782/2022_NorthAmerica_2022-08-08	North America
+MpxV/human/USA/WA-UW-074184/2022_NorthAmerica_2022-07-31	?
+MpxV/human/USA/WA-UW-087349/2022_NorthAmerica_2022-08-25	North America
+MpxV/human/USA/WA-UW-082810/2022_NorthAmerica_2022-08-23	North America
+hMpxV/UK/LMO-005a/2022_WesternEurope_2022-06-20	Western Europe
+MPXV/Germany/2022/RKI473_WesternEurope_2022-07-01	Western Europe
+hMPXV/Austria/MUW1527495/2022_WesternEurope_2022-06-21	Western Europe
+CVR_MPXV1a_WesternEurope_2022-05-15	Western Europe
+MPXV/Germany/2022/RKI015_WesternEurope_2022-05-15	Western Europe
+hMpxV/UK/LMO-023a/2022_WesternEurope_2022-06-24	Western Europe
+MPXV/Germany/2022/RKI472_WesternEurope_2022-07-01	Western Europe
+MPXV/Germany/2022/RKI099_WesternEurope_2022-06-01	Western Europe
+MPXV/Germany/2022/RKI183_WesternEurope_2022-07-01	Western Europe
+MPXV/Germany/2022/RKI532_WesternEurope_2022-07-01	Western Europe
+MPXV/Germany/2022/RKI556_WesternEurope_2022-06-01	Western Europe
+MPXV/Germany/2022/RKI539_WesternEurope_2022-06-24	Western Europe
+MPXV/Germany/2022/RKI538_WesternEurope_2022-06-24	Western Europe
+MPXV/Germany/2022/RKI069_WesternEurope_2022-06-30	Western Europe
+MPXV/Germany/2022/RKI247_WesternEurope_2022-08-01	Western Europe
+MPXV/Germany/2022/RKI093_WesternEurope_2022-06-17	Western Europe
+MPXV_USA_2022_AK0001_NorthAmerica_2022-08-31	North America
+MPXV_USA_2022_AK0002_NorthAmerica_2022-07-31	North America
+MPXV/Germany/2022/RKI034_WesternEurope_2022-06-17	Western Europe
+MPXV_UK_2022_9000100_WesternEurope_2022-06-09	Western Europe
+MPXV_UK_2022_9000186_WesternEurope_2022-06-29	Western Europe
+MPXV/Germany/2022/RKI033_WesternEurope_2022-06-08	Western Europe
+MPXV_UK_2022_9000072_WesternEurope_2022-06-09	Western Europe
+MPXV/Germany/2022/RKI081_WesternEurope_2022-06-01	Western Europe
+MPXV_UK_2022_9000060_WesternEurope_2022-06-07	Western Europe
+MPXV_USA_2022_TX0016_NorthAmerica_2022-09-01	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00363/2022_NorthAmerica_2022-10-07	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00369/2022_NorthAmerica_2022-10-24	North America
+MPXV_UK_2022_9000149_WesternEurope_2022-06-14	Western Europe
+MPXV/Germany/2022/RKI073_WesternEurope_2022-06-14	Western Europe
+MPXV/Germany/2022/RKI153_WesternEurope_2022-07-01	Western Europe
+MPXV/Germany/2022/RKI145_WesternEurope_2022-07-01	Western Europe
+MPXV/Germany/2022/RKI230_WesternEurope_2022-08-14	Western Europe
+MPXV/Germany/2022/RKI127_WesternEurope_2022-07-01	Western Europe
+MPXV_UK_2022_9000178_WesternEurope_2022-06-27	Western Europe
+MPXV_UK_2022_9000099_WesternEurope_2022-06-09	Western Europe
+MPXV_UK_2022_9000076_WesternEurope_2022-06-09	Western Europe
+MPXV_UK_2022_9000066_WesternEurope_2022-06-07	Western Europe
+MPXV/Germany/2022/RKI487_WesternEurope_2022-07-01	Western Europe
+MPXV/Germany/2022/RKI167_WesternEurope_2022-07-01	?
+MPXV_UK_2022_9000101_WesternEurope_2022-06-09	Western Europe
+MPXV_USA_2022_AR0002_NorthAmerica_2022-08-01	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00390/2022_NorthAmerica_2022-12-14	North America
+MPX/Human/USA/CA-LACPHL-MA00135/2022_NorthAmerica_2022-09-09	North America
+MPX/Human/USA/CA-LACPHL-MA00101/2022_NorthAmerica_2022-09-01	?
+MPXV_UK_2022_9000092_WesternEurope_2022-05-25	Western Europe
+hMpxV/Human/USA/IL-RIPHL-MPXV_10013/2022_NorthAmerica_2022-09-05	North America
+MPXV_USA_2022_TN0010_NorthAmerica_2022-09-30	North America
+MPXV-USA-IL-IDPH-018_NorthAmerica_2022-07-07	North America
+MpxV/human/USA/WA-UW-092798/2022_NorthAmerica_2022-09-01	North America
+MPXV_USA_2022_TN0009_NorthAmerica_2022-09-01	North America
+MPX/Human/USA/CA-LACPHL-MA00125/2022_NorthAmerica_2022-09-09	North America
+MPXV22/human/USA-OK-273_NorthAmerica_2022-09-07	North America
+MPXV_USA_2022_FL0028_NorthAmerica_2022-09-01	North America
+hMPX/USA/CA-LACPHL-MA00164/2022_NorthAmerica_2022-09-22	North America
+MPX/Human/USA/CA-LACPHL-MA00134/2022_NorthAmerica_2022-09-09	?
+hMPX/Human/USA/CA-LACPHL-MA00042/2022_NorthAmerica_2022-07-28	North America
+hMpxV/Human/USA/IL-RIPHL-MPXV_10018/2022_NorthAmerica_2022-09-25	North America
+MPX/Human/USA/CA-LACPHL-MA00133/2022_NorthAmerica_2022-09-09	North America
+MPX/Human/USA/CA-LACPHL-MA00126/2022_NorthAmerica_2022-09-09	North America
+MPXV_USA_2022_LA0002_NorthAmerica_2022-09-01	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00383/2022_NorthAmerica_2022-10-19	North America
+MPX/Human/USA/CA-LACPHL-MA00240/2022_NorthAmerica_2022-07-18	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00389/2022_NorthAmerica_2022-12-12	?
+MPXV_UK_2022_9000097_WesternEurope_2022-06-06	Western Europe
+MPX/Human/USA/CA-LACPHL-MA00132/2022_NorthAmerica_2022-09-09	North America
+MPX/Human/USA/CA-LACPHL-MA00124/2022_NorthAmerica_2022-09-09	North America
+MpxV/human/USA/Unknown-UW-093679/2022_NorthAmerica_2022-09-01	North America
+MPXV_USA_2022_GA0020_NorthAmerica_2022-09-01	North America
+MPX/Human/USA/CA-LACPHL-MA00131/2022_NorthAmerica_2022-09-09	North America
+MpxV/human/USA/OH-UW-085556/2022_NorthAmerica_2022-08-01	North America
+B1118402_NorthAmerica_2022-09-07	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00265/2022_NorthAmerica_2022-09-07	?
+MPX/Human/USA/CA-LACPHL-MA00129/2022_NorthAmerica_2022-09-09	North America
+MPXV_USA_2022_FL0027_NorthAmerica_2022-09-19	North America
+hMpxV/Human/USA/IL-RIPHL-MPXV_10010/2022_NorthAmerica_2022-08-11	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00380/2022_NorthAmerica_2022-10-14	?
+MPXV/Human/USA/CA-LACPHL-MA00338/2022_NorthAmerica_2022-10-14	North America
+MN-MDH-MPXV_0019_NorthAmerica_2022-07-20	North America
+MN-MDH-MPXV_0023_NorthAmerica_2022-07-22	North America
+NJ-MPXV-014-rep2_NorthAmerica_2022-09-03	North America
+MPXV_USA_2022_PA0013_NorthAmerica_2022-09-30	?
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00386/2022_NorthAmerica_2022-10-25	?
+MPXV/Human/USA/CA-LACPHL-MA00342/2022_NorthAmerica_2022-10-26	North America
+MPX/Human/USA/CA-LACPHL-MA00128/2022_NorthAmerica_2022-09-09	North America
+MPX/Human/USA/CA-LACPHL-MA00130/2022_NorthAmerica_2022-09-09	North America
+MPX/Human/USA/CA-LACPHL-MA00127/2022_NorthAmerica_2022-09-09	North America
+hMPX/Human/USA/CA-LACPHL-MA00095/2022_NorthAmerica_2022-08-01	North America
+MpxV/human/USA/WA-UW-108943/2022_NorthAmerica_2022-10-13	North America
+MpxV/human/USA/WA-UW-108647/2022_NorthAmerica_2022-10-13	North America
+MpxV/human/USA/WA-UW-102951/2022_NorthAmerica_2022-10-13	North America
+MPXV/Human/USA/CA-LACPHL-MA00356/2022_NorthAmerica_2022-10-14	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00381/2022_NorthAmerica_2022-10-14	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00382/2022_NorthAmerica_2022-10-14	North America
+MPXV_USA_2022_NC0010_NorthAmerica_2022-09-01	North America
+BOL-UNIMOL-MPX-293419-L_SouthAmerica_2022-10-27	South America
+BOL-UNIMOL-MPX-293428-L_SouthAmerica_2022-10-29	South America
+MPXV/Germany/2022/RKI632_WesternEurope_2022-11-01	?
+BOL-UNIMOL-MPX-293613-L_SouthAmerica_2022-10-11	South America
+MPXV_USA_2022_TX0031_NorthAmerica_2022-09-01	North America
+MPX/Human/USA/CA-LACPHL-MA00147/2022_NorthAmerica_2022-09-13	North America
+MPXV/Human/USA/CA-LACPHL-MA00295/2022_NorthAmerica_2022-11-01	North America
+MPX/Human/USA/CA-LACPHL-MA00236/2022_NorthAmerica_2022-07-14	North America
+hMPX/Human/USA/CA-LACPHL-MA00088/2022_NorthAmerica_2022-08-03	North America
+MPXV_USA_2022_NY0027_NorthAmerica_2022-09-07	North America
+hMPXV/USA/NC-UNC-0005/2022_NorthAmerica_2022-08-02	?
+MPXV_UK_2022_9000067_WesternEurope_2022-06-08	?
+MPXV/Germany/2022/RKI554_WesternEurope_2022-06-24	Western Europe
+hMPX/Human/USA/CA-LACPHL-MA00071/2022_NorthAmerica_2022-08-19	?
+MN-MDH-MPXV_0021_NorthAmerica_2022-07-21	?
+MPXV_USA_2022_GA0013_NorthAmerica_2022-07-01	North America
+MPXV22/human/USA-OK-270_NorthAmerica_2022-09-06	North America
+MPXV/Human/USA/AL-USAFSAM-M0001a/2022_NorthAmerica_2022-09-06	North America
+hMPX/Human/USA/CA-LACPHL-MA00079/2022_NorthAmerica_2022-08-05	North America
+hMpxV/Human/USA/IL-RIPHL-MPXV_10011/2022_NorthAmerica_2022-09-10	North America
+MPXV_USA_2022_PA0011_NorthAmerica_2022-09-18	North America
+B1221120_NorthAmerica_2022-11-09	North America
+B1221119_NorthAmerica_2022-11-08	North America
+MPXV22/human/USA-OK-277_NorthAmerica_2022-09-07	North America
+MPXV_USA_2022_AZ0007_NorthAmerica_2022-09-11	North America
+MPXV/Human/USA/CA-LACPHL-MA00290/2022_NorthAmerica_2022-10-02	North America
+MPXV/Human/USA/CA-LACPHL-MA00288/2022_NorthAmerica_2022-10-04	North America
+MPX/Human/USA/CA-LACPHL-MA00142/2022_NorthAmerica_2022-08-29	North America
+hMPX/Human/USA/CA-LACPHL-MA00053/2022_NorthAmerica_2022-07-25	North America
+MPX/Human/USA/CA-LACPHL-MA00237/2022_NorthAmerica_2022-07-20	North America
+Monkeypoxvirus/Human/USA/CA-LACPHL-MA00379/2022_NorthAmerica_2022-10-12	North America
