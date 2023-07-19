@@ -2,7 +2,7 @@
 
 ## Early underdetected dissemination followed by extensive local transmission propelled the 2022 mpox epidemic and limited impact of vaccination 
 
-Miguel I. Paredes^1,2*, Nashwa Ahmed^2,3, Marlin Figgins^2,4, Vittoria Colizza^5, Philippe Lemey^6, John T. McCrone^2, Nicola Müller^2, Cécile Tran-Kiem^2, Trevor Bedford^1,2,7
+Miguel I. Paredes<sup>1,2*</sup>, Nashwa Ahmed<sup>2,3</sup>, Marlin Figgins<sup>2,4</sup>, Vittoria Colizza<sup>5</sup>, Philippe Lemey<sup>6</sup>, John T. McCrone<sup>2</sup>, Nicola Müller<sup>2</sup>, Cécile Tran-Kiem<sup>2</sup>, Trevor Bedford<sup>1,2,7</sup>
 
 ### Affiliations
 1 Department of Epidemiology, University of Washington, Seattle, Washington, USA
