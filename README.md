@@ -33,7 +33,7 @@ To analyze the posterior set of trees and log files produced by each analysis, g
 
 All Genbank IDs can be found in final_acknowledgements_genbank.csv along side information regarding originating and submitting labs. We thank the public health and sequencing labs from around the globe for their prompt sequencing and upload to Genbank.
 
-
+Scripts and data to reproduce the analysis of the size distribution of clusters of identical mpox sequences can be found in the folder `/polytomy-analysis/`. Input files are available in the `data/` subfolder (including case counts and the distribution of the size of clusters of identical sequences). Scripts to reproduce results and figures are available in the `scripts/` subfolder.
 
 
 
