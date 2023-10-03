@@ -94,9 +94,9 @@ rule filter:
     params:
         subsample_seed=config["subsample_seed"],
         other_filters=config.get("filters", ""),
-                #group_by=config.get("group_by", "--group-by clade lineage"),
+        group_by=config.get("group_by", "--group-by clade lineage"),
         #subsample_max_sequences=config["max_sequences"],
-        #sequences_per_group=config["sequences_per_group"],
+        sequences_per_group=config["sequences_per_group"],
     shell:
         """
         augur filter \
@@ -104,6 +104,8 @@ rule filter:
             --metadata {input.metadata} \
             --output-sequences {output.sequences} \
             --output-metadata {output.metadata} \
+            {params.group_by} \
+            {params.sequences_per_group} \
             {params.other_filters} \
 	        {params.subsample_seed} \
             --output-log {output.log}

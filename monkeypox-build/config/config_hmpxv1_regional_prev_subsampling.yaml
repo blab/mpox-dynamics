@@ -1,0 +1,61 @@
+exclude: "config/exclude_accessions_mpxv.txt"
+reference: "config/reference.fasta"
+genemap: "config/genemap.gff"
+genbank_reference: "config/reference.gb"
+colors: "config/colors_hmpxv1.tsv"
+clades: "config/clades.tsv"
+lat_longs: "config/lat_longs.tsv"
+auspice_config: "config/auspice_config_hmpxv1.json"
+description: "config/description.md"
+tree_mask: "config/tree_mask.tsv"
+
+strain_id_field: "accession"
+display_strain_field: "strain_original"
+
+build_name: "hmpxv1_regional" 
+auspice_name: "monkeypox_hmpxv1"
+
+## filter
+min_date: 2022
+max_date: 2023-01-03
+min_length: 100000
+root_seq: "--include-where accession=ON676708"
+#max_sequences: "--subsample-max-sequences 1050"
+#sequences_per_group: "--sequences-per-group 11"
+subsample_seed: "--subsample-seed 213969" 
+#group_by: "--group-by year month region"  
+filters: "--exclude-where outbreak!=hMPXV-1 
+                          lineage=A lineage=A.1 lineage=A.1.1 lineage=A.2 lineage=A.2.1 lineage=A.2.2 lineage=A.2.3 lineage=A.3
+                          accession=ON631963 accession=ON649879 accession=ON918611 accession=ON927248 
+                          region=Asia region=Africa region=Oceania
+                          country='Taiwan' country='South Korea' country='Japan' country='South Africa' country='Egypt' country='Israel' country='Democratic Republic of the Congo'
+                          country='Vietnam' country='Australia' country='Sudan'
+                          accession=ON918611 accession=OQ172216 accession=ON927248 accession=OP605588 accession=OP204857 accession=ON983168 accession=OP605588
+                          QC_missing_data='bad' QC_missing_data='good' QC_missing_data='mediocre' QC_mixed_sites='bad' QC_rare_mutations='bad' QC_frame_shifts='bad' QC_stop_codons='bad'
+			  --include-where accession=ON676708 "
+
+## align
+max_indel: 10000 
+seed_spacing: 1000
+
+## treefix
+fix_tree: true
+
+## refine
+timetree: true
+root: "ON676708"
+clock_rate: 6.0e-5
+clock_std_dev: 2e-5
+
+## recency
+recency: true
+
+mask:
+  from_beginning: 800
+  from_end: 6422
+  #maskfile: "config/mask.bed"
+  maskfile: "config/to_mask.bed"
+
+traits:
+  sampling_bias_correction: 2.5
+  columns: "region"
