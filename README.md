@@ -28,7 +28,7 @@ This repository contains the analytic code needed to reproduce the results from 
 
 2. To prep the data format for further analysis, run `./scripts/data_prep_region.sh`. If masking of invariant sites is needed for running DTA, run `scripts/masking.ipynb`.
 
-3. [`dta`](dta/) and [`mascot_glm`](mascot_glm/) contains the necessary data to build your own XMLs via Beauti. Epidemiological and mobility data needed for setting up MASCOT-GLM analyses can be found in [`epi_and_mobility_data`](epi_and_mobility_data/).For ease, the specific alignments used for each model can be found in the folder labeled `alginments/`. The XMLs and results used in this project can be found in the folder labeled `xmls` and `results` under each analysis directory. For storage size efficiency, every xml, log, and trees file has been compressed. To uncompress, use the following format:
+3. [`dta`](dta/) and [`mascot_glm`](mascot_glm/) contains the necessary data to build your own XMLs via Beauti. For ease, the specific alignments used for each model can be found in the folder labeled `alginments/`. The XMLs and results used in this project can be found in the folder labeled `xmls` and `results` under each analysis directory. For storage size efficiency, every xml, log, and trees file has been compressed. To uncompress, use the following format:
 
 `xz --decompress --keep 1000_dta_prev_subsampling_region.xml.xz`
 
