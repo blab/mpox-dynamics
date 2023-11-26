@@ -1,6 +1,6 @@
 # mpox-dynamics:
 
-## Early underdetected dissemination followed by extensive local transmission propelled the 2022 mpox epidemic and limited impact of vaccination 
+## Early underdetected dissemination across countries followed by extensive local transmission propelled the 2022 mpox epidemic 
 
 Miguel I. Paredes<sup>1,2*</sup>, Nashwa Ahmed<sup>2,3</sup>, Marlin Figgins<sup>2,4</sup>, Vittoria Colizza<sup>5</sup>, Philippe Lemey<sup>6</sup>, John T. McCrone<sup>2</sup>, Nicola Müller<sup>2</sup>, Cécile Tran-Kiem<sup>2</sup>, Trevor Bedford<sup>1,2,7</sup>
 
@@ -19,21 +19,29 @@ The World Health Organization (WHO) declared mpox a public health emergency of i
 
 ------------
 
-## Organization
 
-This repository contains the analytic code needed to reproduce the results from the above paper. To start, begin with the folder `monkeypox_build` to run the maximum likelihood analysis and create the temporally resolved phylogeny of global mpox
+This repository contains the analytic code needed to reproduce the results from the above paper. 
 
-To prep the data format for further analysis, run `./scripts/data_prep_region.sh`. If masking of invariant sites is needed for running DTA, run `scripts/masking.ipynb`.
+## Primary analysis outline
 
-Then `dta` and `mascot_glm` contains the necessary data to build your own XMLs via Beauti. For ease, the XMLs used in this project can be found in the folder labeled `xmls` for each respective analsis. The results used in this study can be found in `results` under the folder for each respective analysis. For storage size efficiency, every xml, log, and trees file has been compressed. To uncompress, use the following format:
+1. To start, begin with the folder [`monkeypox_build`](monkeypox_build/) to run the maximum likelihood analysis and create the temporally resolved phylogeny of global mpox. Subsampled data with associated maximum likelihood trees can be found in [`subsamples`](subsamples/).
+
+2. To prep the data format for further analysis, run `./scripts/data_prep_region.sh`. If masking of invariant sites is needed for running DTA, run `scripts/masking.ipynb`.
+
+3. [`dta`](dta/) and [`mascot_glm`](mascot_glm/) contains the necessary data to build your own XMLs via Beauti. Epidemiological and mobility data needed for setting up MASCOT-GLM analyses can be found in [`epi_and_mobility_data`](epi_and_mobility_data/).For ease, the specific alignments used for each model can be found in the folder labeled `alginments/`. The XMLs and results used in this project can be found in the folder labeled `xmls` and `results` under each analysis directory. For storage size efficiency, every xml, log, and trees file has been compressed. To uncompress, use the following format:
 
 `xz --decompress --keep 1000_dta_prev_subsampling_region.xml.xz`
 
-To analyze the posterior set of trees and log files produced by each analysis, go to `scripts` for all analystic scripts
+4. To analyze the posterior set of trees and log files produced by each analysis, go to `scripts` for all analytic scripts
 
-All Genbank IDs can be found in final_acknowledgements_genbank.csv along side information regarding originating and submitting labs. We thank the public health and sequencing labs from around the globe for their prompt sequencing and upload to Genbank.
+5. Case-based prevalence and Rt estimates can be reproduced using the [`case-rt-analysis`](case-rt-analysis/). `data/` includes all the case count data from ourworldindata.org used in the analyses. `estimates/` includes the analysis notebook needed to estimate prevalence and Rt using our renewal equation based methods
 
-Scripts and data to reproduce the analysis of the size distribution of clusters of identical mpox sequences can be found in the folder `/polytomy-analysis/`. Input files are available in the `data/` subfolder (including case counts and the distribution of the size of clusters of identical sequences). Scripts to reproduce results and figures are available in the `scripts/` subfolder.
+6. Scripts and data to reproduce the analysis of the size distribution of clusters of identical mpox sequences can be found in the folder [`/polytomy-analysis/`](polytomy-analysis/). Input files are available in the `data/` subfolder (including case counts and the distribution of the size of clusters of identical sequences). Scripts to reproduce results and figures are available in the `scripts/` subfolder.
+
+All Genbank IDs can be found [`sequence_information`](sequence_information/) alongside information regarding originating and submitting labs. We thank the public health and sequencing labs from around the globe for their prompt sequencing and upload to Genbank.
+
+
+
 
 
 
